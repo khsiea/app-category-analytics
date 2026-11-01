@@ -1,0 +1,4828 @@
+[
+  {
+    "category": "food",
+    "seed": "레시피",
+    "keyword": "레시피",
+    "results": [
+      {
+        "appId": "com.ezhld.recipe",
+        "title": "요리백과 만개의레시피",
+        "developer": "만개의레시피",
+        "score": 4.798807,
+        "minInstalls": 5000000,
+        "ratings": 152177,
+        "genre": "식음료",
+        "updated": 1792973881000,
+        "titleHasKeyword": true
+      },
+      {
+        "appId": "com.recipe.rush.cooking.games",
+        "title": "Recipe Rush - Cooking Games",
+        "developer": "FlowMotion Entertainment",
+        "score": 4.747573,
+        "minInstalls": 500000,
+        "ratings": 6510,
+        "genre": "시뮬레이션",
+        "updated": 1791949065000,
+        "titleHasKeyword": false
+      },
+      {
+        "appId": "jp.mogaming.recipe_app",
+        "title": "레피타",
+        "developer": "MAKASETE, INC",
+        "minInstalls": 50000,
+        "genre": "식음료",
+        "updated": 1793163564000,
+        "titleHasKeyword": false
+      },
+      {
+        "appId": "fr.recettetek",
+        "title": "My Recipe Box: My Cookbook",
+        "developer": "CmonApp",
+        "score": 4.875,
+        "minInstalls": 1000000,
+        "ratings": 46699,
+        "genre": "식음료",
+        "updated": 1793177245000,
+        "titleHasKeyword": false
+      },
+      {
+        "appId": "com.oddmentsapp.eonamrecipe",
+        "title": "어남선생 레시피",
+        "developer": "labsimlpe2021",
+        "score": 4.32,
+        "minInstalls": 100000,
+        "ratings": 120,
+        "genre": "도구",
+        "updated": 1782466321000,
+        "titleHasKeyword": true
+      },
+      {
+        "appId": "com.tudorspan.recipekeeper",
+        "title": "Recipe Keeper",
+        "developer": "Tudorspan Limited",
+        "score": 4.3333335,
+        "minInstalls": 1000000,
+        "ratings": 20471,
+        "genre": "식음료",
+        "updated": 1774973081000,
+        "titleHasKeyword": false
+      },
+      {
+        "appId": "com.redhoney.eatlist",
+        "title": "Honeydew: 레시피 & 요리책",
+        "developer": "Red Honey",
+        "score": 4.9,
+        "minInstalls": 100000,
+        "ratings": 23467,
+        "genre": "식음료",
+        "updated": 1787058764000,
+        "titleHasKeyword": true
+      },
+      {
+        "appId": "app.namnambook",
+        "title": "냠냠쩝쩝 레시피북 - 유튜브 인스타 레시피 저장",
+        "developer": "HEESOO",
+        "score": 4.876923,
+        "minInstalls": 1000,
+        "ratings": 66,
+        "genre": "식음료",
+        "updated": 1791040283000,
+        "titleHasKeyword": true
+      },
+      {
+        "appId": "com.culturehero.wifetable",
+        "title": "우리의식탁 - 요리를 스타일하다",
+        "developer": "Culture Hero Co., Ltd.",
+        "score": 4.1459856,
+        "minInstalls": 1000000,
+        "ratings": 2293,
+        "genre": "식음료",
+        "updated": 1793162248000,
+        "titleHasKeyword": false
+      },
+      {
+        "appId": "kr.recipio.app",
+        "title": "레시피오 - 요리 앱·레시피 저장·레시피 정리·레시피북",
+        "developer": "레시피오",
+        "score": 4.58,
+        "minInstalls": 10000,
+        "ratings": 338,
+        "genre": "식음료",
+        "updated": 1787216619000,
+        "titleHasKeyword": true
+      }
+    ]
+  },
+  {
+    "category": "food",
+    "seed": "레시피",
+    "keyword": "레시피오",
+    "results": [
+      {
+        "appId": "kr.recipio.app",
+        "title": "레시피오 - 요리 앱·레시피 저장·레시피 정리·레시피북",
+        "developer": "레시피오",
+        "score": 4.58,
+        "minInstalls": 10000,
+        "ratings": 338,
+        "genre": "식음료",
+        "updated": 1787216619000,
+        "titleHasKeyword": true
+      },
+      {
+        "appId": "com.supercook.app",
+        "title": "SuperCook - Recipe Generator",
+        "developer": "SuperCook",
+        "score": 4.1666665,
+        "minInstalls": 1000000,
+        "ratings": 18767,
+        "genre": "식음료",
+        "updated": 1793253859000,
+        "titleHasKeyword": false
+      },
+      {
+        "appId": "com.recipebro.cookingbuddy",
+        "title": "레시피 정리앱: Recipe Bro",
+        "developer": "Days Until LTD",
+        "score": 4.85,
+        "minInstalls": 100000,
+        "ratings": 2164,
+        "genre": "식음료",
+        "updated": 1793226552000,
+        "titleHasKeyword": false
+      },
+      {
+        "appId": "com.cookpal.ai.android",
+        "title": "CookGo: 쉬운 레시피 가져오기",
+        "developer": "AILIFE TECHNOLOGY PTE. LTD.",
+        "score": 4.509091,
+        "minInstalls": 100000,
+        "ratings": 510,
+        "genre": "식음료",
+        "updated": 1793332153000,
+        "titleHasKeyword": false
+      },
+      {
+        "appId": "fr.cookbook",
+        "title": "COOKmate - My recipe organizer",
+        "developer": "Maadinfo Services",
+        "score": 4.757576,
+        "minInstalls": 1000000,
+        "ratings": 45940,
+        "genre": "식음료",
+        "updated": 1788767226000,
+        "titleHasKeyword": false
+      },
+      {
+        "appId": "fr.recettetek",
+        "title": "My Recipe Box: My Cookbook",
+        "developer": "CmonApp",
+        "score": 4.875,
+        "minInstalls": 1000000,
+        "ratings": 46699,
+        "genre": "식음료",
+        "updated": 1793177245000,
+        "titleHasKeyword": false
+      },
+      {
+        "appId": "com.riatech.cookbook",
+        "title": "한국 요리법이 담긴 요리책",
+        "developer": "Riafy Technologies",
+        "score": 4.12,
+        "minInstalls": 5000000,
+        "ratings": 67178,
+        "genre": "식음료",
+        "updated": 1792749436000,
+        "titleHasKeyword": false
+      },
+      {
+        "appId": "ai.food.recipe.generator",
+        "title": "AI 레시피: 재료로 요리 추천",
+        "developer": "Riafy Technologies",
+        "minInstalls": 10000,
+        "genre": "식음료",
+        "updated": 1787818096000,
+        "titleHasKeyword": false
+      },
+      {
+        "appId": "com.redhoney.eatlist",
+        "title": "Honeydew: 레시피 & 요리책",
+        "developer": "Red Honey",
+        "score": 4.9,
+        "minInstalls": 100000,
+        "ratings": 23467,
+        "genre": "식음료",
+        "updated": 1787058764000,
+        "titleHasKeyword": false
+      },
+      {
+        "appId": "app.umami.umami",
+        "title": "Umami - 레시피 매니저",
+        "developer": "Strange Quark",
+        "minInstalls": 10000,
+        "genre": "식음료",
+        "updated": 1792990857000,
+        "titleHasKeyword": false
+      }
+    ]
+  },
+  {
+    "category": "food",
+    "seed": "레시피",
+    "keyword": "레시피노트",
+    "results": [
+      {
+        "appId": "com.ezhld.recipe",
+        "title": "요리백과 만개의레시피",
+        "developer": "만개의레시피",
+        "score": 4.798807,
+        "minInstalls": 5000000,
+        "ratings": 152177,
+        "genre": "식음료",
+        "updated": 1792973881000,
+        "titleHasKeyword": false
+      },
+      {
+        "appId": "com.amomong.recipe",
+        "title": "리피 - 레시피 메모, 나만의 요리책",
+        "developer": "Mocha Works",
+        "score": 4.717949,
+        "minInstalls": 1000,
+        "ratings": 39,
+        "genre": "식음료",
+        "updated": 1791118699000,
+        "titleHasKeyword": false
+      },
+      {
+        "appId": "fr.recettetek",
+        "title": "My Recipe Box: My Cookbook",
+        "developer": "CmonApp",
+        "score": 4.875,
+        "minInstalls": 1000000,
+        "ratings": 46699,
+        "genre": "식음료",
+        "updated": 1793177245000,
+        "titleHasKeyword": false
+      },
+      {
+        "appId": "com.devnel.jipbapnote",
+        "title": "집밥노트 - 레시피북·식단표·냉장고 재료 유통기한 관리",
+        "developer": "Devnel",
+        "score": 5,
+        "minInstalls": 50,
+        "ratings": 6,
+        "genre": "식음료",
+        "updated": 1793247165000,
+        "titleHasKeyword": false
+      },
+      {
+        "appId": "com.recipebro.cookingbuddy",
+        "title": "레시피 정리앱: Recipe Bro",
+        "developer": "Days Until LTD",
+        "score": 4.85,
+        "minInstalls": 100000,
+        "ratings": 2164,
+        "genre": "식음료",
+        "updated": 1793226552000,
+        "titleHasKeyword": false
+      },
+      {
+        "appId": "com.tudorspan.recipekeeper",
+        "title": "Recipe Keeper",
+        "developer": "Tudorspan Limited",
+        "score": 4.3333335,
+        "minInstalls": 1000000,
+        "ratings": 20471,
+        "genre": "식음료",
+        "updated": 1774973081000,
+        "titleHasKeyword": false
+      },
+      {
+        "appId": "jp.mogaming.recipe_app",
+        "title": "레피타",
+        "developer": "MAKASETE, INC",
+        "minInstalls": 50000,
+        "genre": "식음료",
+        "updated": 1793163564000,
+        "titleHasKeyword": false
+      },
+      {
+        "appId": "xyz.makitsystem.recipe_note",
+        "title": "Recipe Note - Manage recipes",
+        "developer": "Makitsystem",
+        "minInstalls": 10000,
+        "genre": "식음료",
+        "updated": 1792815585000,
+        "titleHasKeyword": false
+      },
+      {
+        "appId": "com.streamline.justtherecipe",
+        "title": "Just the Recipe: Recipe Keeper",
+        "developer": "Streamliners",
+        "minInstalls": 50000,
+        "genre": "식음료",
+        "updated": 1785207539000,
+        "titleHasKeyword": false
+      },
+      {
+        "appId": "fr.cookbook",
+        "title": "COOKmate - My recipe organizer",
+        "developer": "Maadinfo Services",
+        "score": 4.757576,
+        "minInstalls": 1000000,
+        "ratings": 45940,
+        "genre": "식음료",
+        "updated": 1788767226000,
+        "titleHasKeyword": false
+      }
+    ]
+  },
+  {
+    "category": "food",
+    "seed": "레시피",
+    "keyword": "레시피콩",
+    "results": [
+      {
+        "appId": "com.mycompany.recipekong",
+        "title": "레시피콩",
+        "developer": "RECIPEKONG",
+        "score": 3.7228916,
+        "minInstalls": 10000,
+        "ratings": 83,
+        "genre": "식음료",
+        "updated": 1787297708000,
+        "titleHasKeyword": true
+      },
+      {
+        "appId": "fr.recettetek",
+        "title": "My Recipe Box: My Cookbook",
+        "developer": "CmonApp",
+        "score": 4.875,
+        "minInstalls": 1000000,
+        "ratings": 46699,
+        "genre": "식음료",
+        "updated": 1793177245000,
+        "titleHasKeyword": false
+      },
+      {
+        "appId": "com.riatech.cookbook",
+        "title": "한국 요리법이 담긴 요리책",
+        "developer": "Riafy Technologies",
+        "score": 4.12,
+        "minInstalls": 5000000,
+        "ratings": 67178,
+        "genre": "식음료",
+        "updated": 1792749436000,
+        "titleHasKeyword": false
+      },
+      {
+        "appId": "app.namnambook",
+        "title": "냠냠쩝쩝 레시피북 - 유튜브 인스타 레시피 저장",
+        "developer": "HEESOO",
+        "score": 4.876923,
+        "minInstalls": 1000,
+        "ratings": 66,
+        "genre": "식음료",
+        "updated": 1791040283000,
+        "titleHasKeyword": false
+      },
+      {
+        "appId": "com.cookbook.cbapp",
+        "title": "CookBook - Recipe Manager",
+        "developer": "CookBook Co.",
+        "minInstalls": 100000,
+        "genre": "식음료",
+        "updated": 1791173592000,
+        "titleHasKeyword": false
+      },
+      {
+        "appId": "com.redhoney.eatlist",
+        "title": "Honeydew: 레시피 & 요리책",
+        "developer": "Red Honey",
+        "score": 4.9,
+        "minInstalls": 100000,
+        "ratings": 23467,
+        "genre": "식음료",
+        "updated": 1787058764000,
+        "titleHasKeyword": false
+      },
+      {
+        "appId": "com.supercook.app",
+        "title": "SuperCook - Recipe Generator",
+        "developer": "SuperCook",
+        "score": 4.1666665,
+        "minInstalls": 1000000,
+        "ratings": 18767,
+        "genre": "식음료",
+        "updated": 1793253859000,
+        "titleHasKeyword": false
+      },
+      {
+        "appId": "de.paulstelzer.cookbook",
+        "title": "Cookbook - Save your recipes",
+        "developer": "Paul Stelzer",
+        "minInstalls": 10000,
+        "genre": "식음료",
+        "updated": 1793532860000,
+        "titleHasKeyword": false
+      },
+      {
+        "appId": "com.grampus.cookingadventureforkakao",
+        "title": "마이리틀셰프 - 요리게임 식당 경영 타이쿤",
+        "developer": "BPMG Inc",
+        "score": 4.5410705,
+        "minInstalls": 1000000,
+        "ratings": 20275,
+        "genre": "캐주얼",
+        "updated": 1790068497000,
+        "titleHasKeyword": false
+      },
+      {
+        "appId": "com.sidechef.sidechef",
+        "title": "SideChef: Recipes & Meal Plans",
+        "developer": "SideChef",
+        "score": 4.5555553,
+        "minInstalls": 1000000,
+        "ratings": 8253,
+        "genre": "식음료",
+        "updated": 1790673116000,
+        "titleHasKeyword": false
+      }
+    ]
+  },
+  {
+    "category": "food",
+    "seed": "레시피",
+    "keyword": "레시피북",
+    "results": [
+      {
+        "appId": "app.namnambook",
+        "title": "냠냠쩝쩝 레시피북 - 유튜브 인스타 레시피 저장",
+        "developer": "HEESOO",
+        "score": 4.876923,
+        "minInstalls": 1000,
+        "ratings": 66,
+        "genre": "식음료",
+        "updated": 1791040283000,
+        "titleHasKeyword": true
+      },
+      {
+        "appId": "fr.recettetek",
+        "title": "My Recipe Box: My Cookbook",
+        "developer": "CmonApp",
+        "score": 4.875,
+        "minInstalls": 1000000,
+        "ratings": 46699,
+        "genre": "식음료",
+        "updated": 1793177245000,
+        "titleHasKeyword": false
+      },
+      {
+        "appId": "com.amomong.recipe",
+        "title": "리피 - 레시피 메모, 나만의 요리책",
+        "developer": "Mocha Works",
+        "score": 4.717949,
+        "minInstalls": 1000,
+        "ratings": 39,
+        "genre": "식음료",
+        "updated": 1791118699000,
+        "titleHasKeyword": false
+      },
+      {
+        "appId": "com.cookbook.cbapp",
+        "title": "CookBook - Recipe Manager",
+        "developer": "CookBook Co.",
+        "minInstalls": 100000,
+        "genre": "식음료",
+        "updated": 1791173592000,
+        "titleHasKeyword": false
+      },
+      {
+        "appId": "com.onemoreproject.recipe",
+        "title": "냉장고 레시피북: 냉장고 파먹기·이유식 레시피",
+        "developer": "OnemoreProject",
+        "minInstalls": 5,
+        "genre": "식음료",
+        "updated": 1791779140000,
+        "titleHasKeyword": true
+      },
+      {
+        "appId": "com.ezhld.recipe",
+        "title": "요리백과 만개의레시피",
+        "developer": "만개의레시피",
+        "score": 4.798807,
+        "minInstalls": 5000000,
+        "ratings": 152177,
+        "genre": "식음료",
+        "updated": 1792973881000,
+        "titleHasKeyword": false
+      },
+      {
+        "appId": "de.paulstelzer.cookbook",
+        "title": "Cookbook - Save your recipes",
+        "developer": "Paul Stelzer",
+        "minInstalls": 10000,
+        "genre": "식음료",
+        "updated": 1793532860000,
+        "titleHasKeyword": false
+      },
+      {
+        "appId": "ai.chefbook.app",
+        "title": "Recipe Keeper: ChefBook",
+        "developer": "berdimyradovv",
+        "minInstalls": 1000,
+        "genre": "식음료",
+        "updated": 1792260784000,
+        "titleHasKeyword": false
+      },
+      {
+        "appId": "com.dilstudio.easyrecipes",
+        "title": "Easy Recipes. Recipe Book",
+        "developer": "DIL Studio",
+        "score": 4.8,
+        "minInstalls": 1000000,
+        "ratings": 26455,
+        "genre": "식음료",
+        "updated": 1792592167000,
+        "titleHasKeyword": false
+      },
+      {
+        "appId": "com.cookware.recipebook",
+        "title": "레시피 북 : 건강한 레시피",
+        "developer": "Hitbytes Technologies",
+        "minInstalls": 100000,
+        "genre": "건강/운동",
+        "updated": 1788015517000,
+        "titleHasKeyword": true
+      }
+    ]
+  },
+  {
+    "category": "food",
+    "seed": "요리",
+    "keyword": "요리",
+    "results": [
+      {
+        "appId": "com.ezhld.recipe",
+        "title": "요리백과 만개의레시피",
+        "developer": "만개의레시피",
+        "score": 4.798807,
+        "minInstalls": 5000000,
+        "ratings": 152177,
+        "genre": "식음료",
+        "updated": 1792973881000,
+        "titleHasKeyword": true
+      },
+      {
+        "appId": "com.abi.cook.chill",
+        "title": "Cookingdom - 요리의 나라",
+        "developer": "ABI GAMES PTE. LTD.",
+        "score": 4.4710016,
+        "minInstalls": 50000000,
+        "ratings": 374461,
+        "genre": "시뮬레이션",
+        "updated": 1790601850000,
+        "titleHasKeyword": true
+      },
+      {
+        "appId": "com.my.cooking.chef.kitchen.craze.fever",
+        "title": "내 요리: 미치도록 빠른 레스토랑 요리 게임",
+        "developer": "gameone",
+        "score": 4.6424475,
+        "minInstalls": 50000000,
+        "ratings": 440391,
+        "genre": "아케이드",
+        "updated": 1793271578000,
+        "titleHasKeyword": true
+      },
+      {
+        "appId": "com.bigfishgames.cookingcrazegooglef2p",
+        "title": "요리 중독: 레스토랑 게임",
+        "developer": "BFG Entertainmnent Inc",
+        "score": 4.0634475,
+        "minInstalls": 10000000,
+        "ratings": 416320,
+        "genre": "아케이드",
+        "updated": 1784222292000,
+        "titleHasKeyword": true
+      },
+      {
+        "appId": "com.cookingo.perfect.meal",
+        "title": "Cookingo: Perfect Meal",
+        "developer": "DIGO Lab",
+        "minInstalls": 10000000,
+        "genre": "캐주얼",
+        "updated": 1793163105000,
+        "titleHasKeyword": false
+      },
+      {
+        "appId": "com.grampus.cookingadventureforkakao",
+        "title": "마이리틀셰프 - 요리게임 식당 경영 타이쿤",
+        "developer": "BPMG Inc",
+        "score": 4.5410705,
+        "minInstalls": 1000000,
+        "ratings": 20275,
+        "genre": "캐주얼",
+        "updated": 1790068497000,
+        "titleHasKeyword": true
+      },
+      {
+        "appId": "com.asiancooking.star.chef.cooking.games",
+        "title": "아시아 요리 게임: Asian Cooking Star",
+        "developer": "TheAppGuruz",
+        "score": 4.715232,
+        "minInstalls": 10000000,
+        "ratings": 102122,
+        "genre": "아케이드",
+        "updated": 1792135041000,
+        "titleHasKeyword": true
+      },
+      {
+        "appId": "com.biglime.cookingmadness",
+        "title": "쿠킹 매드니스 - 셰프의 레스토랑 게임",
+        "developer": "ZenLife Games Ltd",
+        "score": 4.6653957,
+        "minInstalls": 100000000,
+        "ratings": 3278520,
+        "genre": "아케이드",
+        "updated": 1793354150000,
+        "titleHasKeyword": false
+      },
+      {
+        "appId": "com.cooking.games.fever.food.city.craze.dream",
+        "title": "쿠킹 드림",
+        "developer": "iKame Games - Zego Studio",
+        "score": 4.54,
+        "minInstalls": 10000000,
+        "ratings": 126131,
+        "genre": "캐주얼",
+        "updated": 1780882681000,
+        "titleHasKeyword": false
+      },
+      {
+        "appId": "jp.co.ofcr.cm00",
+        "title": "쿠킹마마: 요리해 보아요!",
+        "developer": "Office Create Corp.",
+        "score": 3.801802,
+        "minInstalls": 50000000,
+        "ratings": 832092,
+        "genre": "학습",
+        "updated": 1793260802000,
+        "titleHasKeyword": true
+      }
+    ]
+  },
+  {
+    "category": "food",
+    "seed": "요리",
+    "keyword": "요리게임",
+    "results": [
+      {
+        "appId": "com.my.cooking.chef.kitchen.craze.fever",
+        "title": "내 요리: 미치도록 빠른 레스토랑 요리 게임",
+        "developer": "gameone",
+        "score": 4.6424475,
+        "minInstalls": 50000000,
+        "ratings": 440391,
+        "genre": "아케이드",
+        "updated": 1793271578000,
+        "titleHasKeyword": true
+      },
+      {
+        "appId": "com.biglime.cookingmadness",
+        "title": "쿠킹 매드니스 - 셰프의 레스토랑 게임",
+        "developer": "ZenLife Games Ltd",
+        "score": 4.6653957,
+        "minInstalls": 100000000,
+        "ratings": 3278520,
+        "genre": "아케이드",
+        "updated": 1793354150000,
+        "titleHasKeyword": false
+      },
+      {
+        "appId": "com.grampus.cookingadventureforkakao",
+        "title": "마이리틀셰프 - 요리게임 식당 경영 타이쿤",
+        "developer": "BPMG Inc",
+        "score": 4.5410705,
+        "minInstalls": 1000000,
+        "ratings": 20275,
+        "genre": "캐주얼",
+        "updated": 1790068497000,
+        "titleHasKeyword": true
+      },
+      {
+        "appId": "com.abi.cook.chill",
+        "title": "Cookingdom - 요리의 나라",
+        "developer": "ABI GAMES PTE. LTD.",
+        "score": 4.4710016,
+        "minInstalls": 50000000,
+        "ratings": 374461,
+        "genre": "시뮬레이션",
+        "updated": 1790601850000,
+        "titleHasKeyword": false
+      },
+      {
+        "appId": "com.cookingo.perfect.meal",
+        "title": "Cookingo: Perfect Meal",
+        "developer": "DIGO Lab",
+        "minInstalls": 10000000,
+        "genre": "캐주얼",
+        "updated": 1793163105000,
+        "titleHasKeyword": false
+      },
+      {
+        "appId": "com.matryoshka.royal.cooking.kitchen.madness",
+        "title": "요리게임 & 쿠킹피버 (Royal Cooking)",
+        "developer": "Matryoshka",
+        "score": 4.6042886,
+        "minInstalls": 50000000,
+        "ratings": 740963,
+        "genre": "아케이드",
+        "updated": 1793016902000,
+        "titleHasKeyword": true
+      },
+      {
+        "appId": "com.tastydiary.cooking.diner.home.restaurant",
+        "title": "맛있는 일기: 요리사 요리 게임",
+        "developer": "gameone",
+        "score": 4.81,
+        "minInstalls": 10000000,
+        "ratings": 84336,
+        "genre": "아케이드",
+        "updated": 1793097454000,
+        "titleHasKeyword": true
+      },
+      {
+        "appId": "com.cscmobi.cooking.love.free",
+        "title": "Cooking Love: 주방 게임, 패스트 레스토랑,",
+        "developer": "CSCMobi Studios",
+        "score": 4.65,
+        "minInstalls": 5000000,
+        "ratings": 49441,
+        "genre": "캐주얼",
+        "updated": 1793169816000,
+        "titleHasKeyword": false
+      },
+      {
+        "appId": "com.tocaboca.tocakitchen2",
+        "title": "Toca Boca Jr: Fun Kids Games",
+        "developer": "Play Piknik",
+        "score": 3.199138,
+        "minInstalls": 100000000,
+        "ratings": 1747118,
+        "genre": "학습",
+        "updated": 1792779617000,
+        "titleHasKeyword": false
+      },
+      {
+        "appId": "com.abi.foodpop",
+        "title": "Foodie Pop!",
+        "developer": "ABI GAMES PTE. LTD.",
+        "score": 4.3773584,
+        "minInstalls": 100000,
+        "ratings": 1929,
+        "genre": "퍼즐",
+        "updated": 1793467561000,
+        "titleHasKeyword": false
+      }
+    ]
+  },
+  {
+    "category": "food",
+    "seed": "요리",
+    "keyword": "요리레시피",
+    "results": [
+      {
+        "appId": "com.ezhld.recipe",
+        "title": "요리백과 만개의레시피",
+        "developer": "만개의레시피",
+        "score": 4.798807,
+        "minInstalls": 5000000,
+        "ratings": 152177,
+        "genre": "식음료",
+        "updated": 1792973881000,
+        "titleHasKeyword": false
+      },
+      {
+        "appId": "com.oddmentsapp.eonamrecipe",
+        "title": "어남선생 레시피",
+        "developer": "labsimlpe2021",
+        "score": 4.32,
+        "minInstalls": 100000,
+        "ratings": 120,
+        "genre": "도구",
+        "updated": 1782466321000,
+        "titleHasKeyword": false
+      },
+      {
+        "appId": "com.recipebro.cookingbuddy",
+        "title": "레시피 정리앱: Recipe Bro",
+        "developer": "Days Until LTD",
+        "score": 4.85,
+        "minInstalls": 100000,
+        "ratings": 2164,
+        "genre": "식음료",
+        "updated": 1793226552000,
+        "titleHasKeyword": false
+      },
+      {
+        "appId": "com.riatech.cookbook",
+        "title": "한국 요리법이 담긴 요리책",
+        "developer": "Riafy Technologies",
+        "score": 4.12,
+        "minInstalls": 5000000,
+        "ratings": 67178,
+        "genre": "식음료",
+        "updated": 1792749436000,
+        "titleHasKeyword": false
+      },
+      {
+        "appId": "com.amomong.recipe",
+        "title": "리피 - 레시피 메모, 나만의 요리책",
+        "developer": "Mocha Works",
+        "score": 4.717949,
+        "minInstalls": 1000,
+        "ratings": 39,
+        "genre": "식음료",
+        "updated": 1791118699000,
+        "titleHasKeyword": false
+      },
+      {
+        "appId": "com.mufumbo.android.recipe.search",
+        "title": "Cookpad recipes, homemade food",
+        "developer": "Cookpad Inc (UK)",
+        "score": 4.8152175,
+        "minInstalls": 10000000,
+        "ratings": 347005,
+        "genre": "식음료",
+        "updated": 1793001609000,
+        "titleHasKeyword": false
+      },
+      {
+        "appId": "com.mytona.cookingdiary.android",
+        "title": "쿠킹 다이어리: 요리 게임",
+        "developer": "Mytona",
+        "score": 4.472757,
+        "minInstalls": 10000000,
+        "ratings": 1207503,
+        "genre": "시뮬레이션",
+        "updated": 1792673468000,
+        "titleHasKeyword": false
+      },
+      {
+        "appId": "com.culturehero.wifetable",
+        "title": "우리의식탁 - 요리를 스타일하다",
+        "developer": "Culture Hero Co., Ltd.",
+        "score": 4.1459856,
+        "minInstalls": 1000000,
+        "ratings": 2293,
+        "genre": "식음료",
+        "updated": 1793162248000,
+        "titleHasKeyword": false
+      },
+      {
+        "appId": "com.yorigo.mobile",
+        "title": "요리GO: SNS 레시피 자동 정리, 장보기까지",
+        "developer": "요리고",
+        "score": 3.489796,
+        "minInstalls": 1000,
+        "ratings": 49,
+        "genre": "식음료",
+        "updated": 1789873994000,
+        "titleHasKeyword": false
+      },
+      {
+        "appId": "kr.co.alohacorp.ipmerge",
+        "title": "Dream Recipe: 드림 레시피 - 머지 쿠킹",
+        "developer": "HYSPIRE PTE. LTD.",
+        "score": 4.8669066,
+        "minInstalls": 500000,
+        "ratings": 22744,
+        "genre": "캐주얼",
+        "updated": 1792659298000,
+        "titleHasKeyword": false
+      }
+    ]
+  },
+  {
+    "category": "food",
+    "seed": "요리",
+    "keyword": "요리만들기게임",
+    "results": [
+      {
+        "appId": "com.matryoshka.royal.cooking.kitchen.madness",
+        "title": "요리게임 & 쿠킹피버 (Royal Cooking)",
+        "developer": "Matryoshka",
+        "score": 4.6042886,
+        "minInstalls": 50000000,
+        "ratings": 740963,
+        "genre": "아케이드",
+        "updated": 1793016902000,
+        "titleHasKeyword": false
+      },
+      {
+        "appId": "com.my.cooking.chef.kitchen.craze.fever",
+        "title": "내 요리: 미치도록 빠른 레스토랑 요리 게임",
+        "developer": "gameone",
+        "score": 4.6424475,
+        "minInstalls": 50000000,
+        "ratings": 440391,
+        "genre": "아케이드",
+        "updated": 1793271578000,
+        "titleHasKeyword": false
+      },
+      {
+        "appId": "com.mytona.cookingdiary.android",
+        "title": "쿠킹 다이어리: 요리 게임",
+        "developer": "Mytona",
+        "score": 4.472757,
+        "minInstalls": 10000000,
+        "ratings": 1207503,
+        "genre": "시뮬레이션",
+        "updated": 1792673468000,
+        "titleHasKeyword": false
+      },
+      {
+        "appId": "com.merge.cooking.theme.restaurant.food",
+        "title": "머지 쿠킹 테마 레스토랑",
+        "developer": "Happibits Game",
+        "score": 4.4606743,
+        "minInstalls": 10000000,
+        "ratings": 135449,
+        "genre": "시뮬레이션",
+        "updated": 1793121289000,
+        "titleHasKeyword": false
+      },
+      {
+        "appId": "com.cookingo.perfect.meal",
+        "title": "Cookingo: Perfect Meal",
+        "developer": "DIGO Lab",
+        "minInstalls": 10000000,
+        "genre": "캐주얼",
+        "updated": 1793163105000,
+        "titleHasKeyword": false
+      },
+      {
+        "appId": "com.abi.cook.chill",
+        "title": "Cookingdom - 요리의 나라",
+        "developer": "ABI GAMES PTE. LTD.",
+        "score": 4.4710016,
+        "minInstalls": 50000000,
+        "ratings": 374461,
+        "genre": "시뮬레이션",
+        "updated": 1790601850000,
+        "titleHasKeyword": false
+      },
+      {
+        "appId": "com.cscmobi.cooking.love.free",
+        "title": "Cooking Love: 주방 게임, 패스트 레스토랑,",
+        "developer": "CSCMobi Studios",
+        "score": 4.65,
+        "minInstalls": 5000000,
+        "ratings": 49441,
+        "genre": "캐주얼",
+        "updated": 1793169816000,
+        "titleHasKeyword": false
+      },
+      {
+        "appId": "com.biglime.cookingmadness",
+        "title": "쿠킹 매드니스 - 셰프의 레스토랑 게임",
+        "developer": "ZenLife Games Ltd",
+        "score": 4.6653957,
+        "minInstalls": 100000000,
+        "ratings": 3278520,
+        "genre": "아케이드",
+        "updated": 1793354150000,
+        "titleHasKeyword": false
+      },
+      {
+        "appId": "com.tastydiary.cooking.diner.home.restaurant",
+        "title": "맛있는 일기: 요리사 요리 게임",
+        "developer": "gameone",
+        "score": 4.81,
+        "minInstalls": 10000000,
+        "ratings": 84336,
+        "genre": "아케이드",
+        "updated": 1793097454000,
+        "titleHasKeyword": false
+      },
+      {
+        "appId": "com.bimiboo.kids.cooking.games",
+        "title": "키즈 요리 게임: 피자게임, 베이킹 그리고 음식 만들기",
+        "developer": "Bimi Boo Kids Learning Games for Toddlers FZ-LLC",
+        "score": 4.8712873,
+        "minInstalls": 1000000,
+        "ratings": 16074,
+        "genre": "학습",
+        "updated": 1793103980000,
+        "titleHasKeyword": false
+      }
+    ]
+  },
+  {
+    "category": "food",
+    "seed": "요리",
+    "keyword": "요리하는 게임",
+    "results": [
+      {
+        "appId": "com.grampus.cookingadventureforkakao",
+        "title": "마이리틀셰프 - 요리게임 식당 경영 타이쿤",
+        "developer": "BPMG Inc",
+        "score": 4.5410705,
+        "minInstalls": 1000000,
+        "ratings": 20275,
+        "genre": "캐주얼",
+        "updated": 1790068497000,
+        "titleHasKeyword": false
+      },
+      {
+        "appId": "com.my.cooking.chef.kitchen.craze.fever",
+        "title": "내 요리: 미치도록 빠른 레스토랑 요리 게임",
+        "developer": "gameone",
+        "score": 4.6424475,
+        "minInstalls": 50000000,
+        "ratings": 440391,
+        "genre": "아케이드",
+        "updated": 1793271578000,
+        "titleHasKeyword": false
+      },
+      {
+        "appId": "com.cookingo.perfect.meal",
+        "title": "Cookingo: Perfect Meal",
+        "developer": "DIGO Lab",
+        "minInstalls": 10000000,
+        "genre": "캐주얼",
+        "updated": 1793163105000,
+        "titleHasKeyword": false
+      },
+      {
+        "appId": "com.abi.cook.chill",
+        "title": "Cookingdom - 요리의 나라",
+        "developer": "ABI GAMES PTE. LTD.",
+        "score": 4.4710016,
+        "minInstalls": 50000000,
+        "ratings": 374461,
+        "genre": "시뮬레이션",
+        "updated": 1790601850000,
+        "titleHasKeyword": false
+      },
+      {
+        "appId": "com.bigfishgames.cookingcrazegooglef2p",
+        "title": "요리 중독: 레스토랑 게임",
+        "developer": "BFG Entertainmnent Inc",
+        "score": 4.0634475,
+        "minInstalls": 10000000,
+        "ratings": 416320,
+        "genre": "아케이드",
+        "updated": 1784222292000,
+        "titleHasKeyword": false
+      },
+      {
+        "appId": "com.tastydiary.cooking.diner.home.restaurant",
+        "title": "맛있는 일기: 요리사 요리 게임",
+        "developer": "gameone",
+        "score": 4.81,
+        "minInstalls": 10000000,
+        "ratings": 84336,
+        "genre": "아케이드",
+        "updated": 1793097454000,
+        "titleHasKeyword": false
+      },
+      {
+        "appId": "com.cscmobi.cooking.love.free",
+        "title": "Cooking Love: 주방 게임, 패스트 레스토랑,",
+        "developer": "CSCMobi Studios",
+        "score": 4.65,
+        "minInstalls": 5000000,
+        "ratings": 49441,
+        "genre": "캐주얼",
+        "updated": 1793169816000,
+        "titleHasKeyword": false
+      },
+      {
+        "appId": "com.biglime.cookingmadness",
+        "title": "쿠킹 매드니스 - 셰프의 레스토랑 게임",
+        "developer": "ZenLife Games Ltd",
+        "score": 4.6653957,
+        "minInstalls": 100000000,
+        "ratings": 3278520,
+        "genre": "아케이드",
+        "updated": 1793354150000,
+        "titleHasKeyword": false
+      },
+      {
+        "appId": "com.asiancooking.star.chef.cooking.games",
+        "title": "아시아 요리 게임: Asian Cooking Star",
+        "developer": "TheAppGuruz",
+        "score": 4.715232,
+        "minInstalls": 10000000,
+        "ratings": 102122,
+        "genre": "아케이드",
+        "updated": 1792135041000,
+        "titleHasKeyword": false
+      },
+      {
+        "appId": "com.matryoshka.royal.cooking.kitchen.madness",
+        "title": "요리게임 & 쿠킹피버 (Royal Cooking)",
+        "developer": "Matryoshka",
+        "score": 4.6042886,
+        "minInstalls": 50000000,
+        "ratings": 740963,
+        "genre": "아케이드",
+        "updated": 1793016902000,
+        "titleHasKeyword": false
+      }
+    ]
+  },
+  {
+    "category": "food",
+    "seed": "장보기",
+    "keyword": "장보기",
+    "results": [
+      {
+        "appId": "com.komorebi.shoppinglist",
+        "title": "쇼핑 목록 - 간단한 노트와 장보기 메모장",
+        "developer": "Komorebi Inc.",
+        "score": 4.93,
+        "minInstalls": 100000,
+        "ratings": 11568,
+        "genre": "쇼핑",
+        "updated": 1786265085000,
+        "titleHasKeyword": true
+      },
+      {
+        "appId": "com.osp.lotte.mobile",
+        "title": "롯데마트 제타 - 온라인 신선 장보기몰",
+        "developer": "LOTTE MART",
+        "score": 4.651751,
+        "minInstalls": 1000000,
+        "ratings": 10210,
+        "genre": "쇼핑",
+        "updated": 1793001870000,
+        "titleHasKeyword": true
+      },
+      {
+        "appId": "kr.or.hansalim.shop",
+        "title": "한살림 - 한살림장보기",
+        "developer": "한살림 hansalim",
+        "score": 3.1982758,
+        "minInstalls": 500000,
+        "ratings": 476,
+        "genre": "쇼핑",
+        "updated": 1788938735000,
+        "titleHasKeyword": true
+      },
+      {
+        "appId": "kr.co.emart.emartmall",
+        "title": "이마트몰 – emart mall",
+        "developer": "SSG.COM",
+        "score": 4.7110844,
+        "minInstalls": 10000000,
+        "ratings": 37899,
+        "genre": "쇼핑",
+        "updated": 1793172669000,
+        "titleHasKeyword": false
+      },
+      {
+        "appId": "com.vladlee.shoppinglist",
+        "title": "Enchlist: 장보기 가계부",
+        "developer": "Enchan Li",
+        "score": 5,
+        "minInstalls": 100000,
+        "ratings": 2612,
+        "genre": "쇼핑",
+        "updated": 1793497096000,
+        "titleHasKeyword": true
+      },
+      {
+        "appId": "shopping.list.organizer",
+        "title": "정리된 장보기 목록",
+        "developer": "Webtoweb",
+        "minInstalls": 10000,
+        "genre": "쇼핑",
+        "updated": 1793043573000,
+        "titleHasKeyword": true
+      },
+      {
+        "appId": "com.ebay.kr.gmarket",
+        "title": "G마켓",
+        "developer": "G마켓",
+        "score": 4.8039966,
+        "minInstalls": 10000000,
+        "ratings": 750185,
+        "genre": "쇼핑",
+        "updated": 1793074542000,
+        "titleHasKeyword": false
+      },
+      {
+        "appId": "com.einnovation.temu",
+        "title": "Temu: 억만장자처럼 쇼핑하기",
+        "developer": "Temu",
+        "score": 4.484179,
+        "minInstalls": 1000000000,
+        "ratings": 13113389,
+        "genre": "쇼핑",
+        "updated": 1793536435000,
+        "titleHasKeyword": false
+      },
+      {
+        "appId": "com.flipkart.android",
+        "title": "Flipkart Online Shopping App",
+        "developer": "Flipkart",
+        "score": 4.71,
+        "minInstalls": 1000000000,
+        "ratings": 77888583,
+        "genre": "쇼핑",
+        "updated": 1793348254000,
+        "titleHasKeyword": false
+      },
+      {
+        "appId": "com.zzkko",
+        "title": "SHEIN-온라인 쇼핑",
+        "developer": "Roadget Business PTE. LTD.",
+        "score": 4.7251253,
+        "minInstalls": 1000000000,
+        "ratings": 12850329,
+        "genre": "쇼핑",
+        "updated": 1793165957000,
+        "titleHasKeyword": false
+      }
+    ]
+  },
+  {
+    "category": "food",
+    "seed": "장보기",
+    "keyword": "장보기메모",
+    "results": [
+      {
+        "appId": "com.kittoboy.shoppingmemo",
+        "title": "장보기 메모",
+        "developer": "DANDANKIDS",
+        "score": 4.78,
+        "minInstalls": 50000,
+        "ratings": 1486,
+        "genre": "쇼핑",
+        "updated": 1793030503000,
+        "titleHasKeyword": true
+      },
+      {
+        "appId": "com.socialnmobile.dictapps.notepad.color.note",
+        "title": "컬러노트 메모장 - 노트 메모 위젯",
+        "developer": "Notes",
+        "score": 4.8601522,
+        "minInstalls": 100000000,
+        "ratings": 3971329,
+        "genre": "생산성",
+        "updated": 1793170519000,
+        "titleHasKeyword": false
+      },
+      {
+        "appId": "com.komorebi.shoppinglist",
+        "title": "쇼핑 목록 - 간단한 노트와 장보기 메모장",
+        "developer": "Komorebi Inc.",
+        "score": 4.93,
+        "minInstalls": 100000,
+        "ratings": 11568,
+        "genre": "쇼핑",
+        "updated": 1786265085000,
+        "titleHasKeyword": true
+      },
+      {
+        "appId": "com.mlsoft21s.tokmart",
+        "title": "장보기 메모",
+        "developer": "mlsoft21s",
+        "score": 4.5,
+        "minInstalls": 500,
+        "ratings": 8,
+        "genre": "쇼핑",
+        "updated": 1788603997000,
+        "titleHasKeyword": true
+      },
+      {
+        "appId": "com.google.android.keep",
+        "title": "Google Keep - 메모 및 목록",
+        "developer": "Google LLC",
+        "score": 4.7700653,
+        "minInstalls": 1000000000,
+        "ratings": 2644114,
+        "genre": "생산성",
+        "updated": 1793035224000,
+        "titleHasKeyword": false
+      },
+      {
+        "appId": "com.atomczak.notepat",
+        "title": "메모장 - 간단한 메모",
+        "developer": "atomczak",
+        "score": 4.37,
+        "minInstalls": 10000000,
+        "ratings": 91566,
+        "genre": "생산성",
+        "updated": 1793259772000,
+        "titleHasKeyword": false
+      },
+      {
+        "appId": "com.komorebi.memo",
+        "title": "메모장 - 간단한 메모, 노트 필기, 빠른 기록",
+        "developer": "Komorebi Inc.",
+        "score": 4.8928967,
+        "minInstalls": 10000000,
+        "ratings": 230629,
+        "genre": "도구",
+        "updated": 1792656265000,
+        "titleHasKeyword": false
+      },
+      {
+        "appId": "com.transsion.notebook",
+        "title": "Notepad - Notes、Todo、Memo",
+        "developer": "Visha Group",
+        "score": 3.85,
+        "minInstalls": 500000000,
+        "ratings": 134061,
+        "genre": "생산성",
+        "updated": 1789999419000,
+        "titleHasKeyword": false
+      },
+      {
+        "appId": "easynotes.notes.notepad.notebook.privatenotes.note",
+        "title": "Easy Notes: 메모，노트，필기，메모장，노트필기앱",
+        "developer": "Gulooloo Tech Co., Ltd.",
+        "score": 4.8170733,
+        "minInstalls": 10000000,
+        "ratings": 436026,
+        "genre": "생산성",
+        "updated": 1793013611000,
+        "titleHasKeyword": false
+      },
+      {
+        "appId": "com.h2m.utility.basicnote",
+        "title": "노트플러스 : 빠른 메모, 할일 관리, 메모장",
+        "developer": "H2M apps",
+        "score": 3.8666666,
+        "minInstalls": 10000,
+        "ratings": 49,
+        "genre": "생산성",
+        "updated": 1784824980000,
+        "titleHasKeyword": false
+      }
+    ]
+  },
+  {
+    "category": "food",
+    "seed": "장보기",
+    "keyword": "장보기리스트",
+    "results": [
+      {
+        "appId": "com.l",
+        "title": "스마트 쇼핑 목록 - Listonic",
+        "developer": "Listonic - Smart Grocery Shopping",
+        "score": 4.6,
+        "minInstalls": 10000000,
+        "ratings": 318011,
+        "genre": "쇼핑",
+        "updated": 1792751150000,
+        "titleHasKeyword": false
+      },
+      {
+        "appId": "com.komorebi.shoppinglist",
+        "title": "쇼핑 목록 - 간단한 노트와 장보기 메모장",
+        "developer": "Komorebi Inc.",
+        "score": 4.93,
+        "minInstalls": 100000,
+        "ratings": 11568,
+        "genre": "쇼핑",
+        "updated": 1786265085000,
+        "titleHasKeyword": false
+      },
+      {
+        "appId": "com.vladlee.shoppinglist",
+        "title": "Enchlist: 장보기 가계부",
+        "developer": "Enchan Li",
+        "score": 5,
+        "minInstalls": 100000,
+        "ratings": 2612,
+        "genre": "쇼핑",
+        "updated": 1793497096000,
+        "titleHasKeyword": false
+      },
+      {
+        "appId": "jp.tyabaken.historytodonotes",
+        "title": "쇼핑 목록 - 장보기 리스트 메모 & 위젯",
+        "developer": "TyabaApp",
+        "score": 4.475,
+        "minInstalls": 10000,
+        "ratings": 150,
+        "genre": "쇼핑",
+        "updated": 1791731302000,
+        "titleHasKeyword": true
+      },
+      {
+        "appId": "com.icedblueberry.shoppinglisteasy",
+        "title": "쇼핑 리스트 - 쉽고 간편합니다",
+        "developer": "Opulogic Inc",
+        "score": 4.230769,
+        "minInstalls": 1000000,
+        "ratings": 29844,
+        "genre": "쇼핑",
+        "updated": 1793382869000,
+        "titleHasKeyword": false
+      },
+      {
+        "appId": "ch.publisheria.bring",
+        "title": "Bring! Grocery Shopping List",
+        "developer": "Bring! Labs AG",
+        "score": 3.7058823,
+        "minInstalls": 10000000,
+        "ratings": 144508,
+        "genre": "쇼핑",
+        "updated": 1789481038000,
+        "titleHasKeyword": false
+      },
+      {
+        "appId": "com.nicolueg.pantrist",
+        "title": "Pantrist: Shopping and Pantry",
+        "developer": "Nico Lueg",
+        "minInstalls": 10000,
+        "genre": "식음료",
+        "updated": 1793275331000,
+        "titleHasKeyword": false
+      },
+      {
+        "appId": "com.shoppinglist",
+        "title": "쇼핑 목록",
+        "developer": "Kiwi3",
+        "score": 4.7894735,
+        "minInstalls": 1000000,
+        "ratings": 34092,
+        "genre": "쇼핑",
+        "updated": 1792528122000,
+        "titleHasKeyword": false
+      },
+      {
+        "appId": "com.eco.grocerylist",
+        "title": "Grocery List - Shopping List",
+        "developer": "Eco Mobile for Work",
+        "minInstalls": 50000,
+        "genre": "쇼핑",
+        "updated": 1792402358000,
+        "titleHasKeyword": false
+      },
+      {
+        "appId": "shopping.list.organizer",
+        "title": "정리된 장보기 목록",
+        "developer": "Webtoweb",
+        "minInstalls": 10000,
+        "genre": "쇼핑",
+        "updated": 1793043573000,
+        "titleHasKeyword": false
+      }
+    ]
+  },
+  {
+    "category": "food",
+    "seed": "장보기",
+    "keyword": "장보기메모장",
+    "results": [
+      {
+        "appId": "com.komorebi.shoppinglist",
+        "title": "쇼핑 목록 - 간단한 노트와 장보기 메모장",
+        "developer": "Komorebi Inc.",
+        "score": 4.93,
+        "minInstalls": 100000,
+        "ratings": 11568,
+        "genre": "쇼핑",
+        "updated": 1786265085000,
+        "titleHasKeyword": true
+      },
+      {
+        "appId": "com.kittoboy.shoppingmemo",
+        "title": "장보기 메모",
+        "developer": "DANDANKIDS",
+        "score": 4.78,
+        "minInstalls": 50000,
+        "ratings": 1486,
+        "genre": "쇼핑",
+        "updated": 1793030503000,
+        "titleHasKeyword": false
+      },
+      {
+        "appId": "com.socialnmobile.dictapps.notepad.color.note",
+        "title": "컬러노트 메모장 - 노트 메모 위젯",
+        "developer": "Notes",
+        "score": 4.8601522,
+        "minInstalls": 100000000,
+        "ratings": 3971329,
+        "genre": "생산성",
+        "updated": 1793170519000,
+        "titleHasKeyword": false
+      },
+      {
+        "appId": "com.l",
+        "title": "스마트 쇼핑 목록 - Listonic",
+        "developer": "Listonic - Smart Grocery Shopping",
+        "score": 4.6,
+        "minInstalls": 10000000,
+        "ratings": 318011,
+        "genre": "쇼핑",
+        "updated": 1792751150000,
+        "titleHasKeyword": false
+      },
+      {
+        "appId": "com.google.android.keep",
+        "title": "Google Keep - 메모 및 목록",
+        "developer": "Google LLC",
+        "score": 4.7700653,
+        "minInstalls": 1000000000,
+        "ratings": 2644114,
+        "genre": "생산성",
+        "updated": 1793035224000,
+        "titleHasKeyword": false
+      },
+      {
+        "appId": "com.komorebi.memo",
+        "title": "메모장 - 간단한 메모, 노트 필기, 빠른 기록",
+        "developer": "Komorebi Inc.",
+        "score": 4.8928967,
+        "minInstalls": 10000000,
+        "ratings": 230629,
+        "genre": "도구",
+        "updated": 1792656265000,
+        "titleHasKeyword": false
+      },
+      {
+        "appId": "com.transsion.notebook",
+        "title": "Notepad - Notes、Todo、Memo",
+        "developer": "Visha Group",
+        "score": 3.85,
+        "minInstalls": 500000000,
+        "ratings": 134061,
+        "genre": "생산성",
+        "updated": 1789999419000,
+        "titleHasKeyword": false
+      },
+      {
+        "appId": "com.atomczak.notepat",
+        "title": "메모장 - 간단한 메모",
+        "developer": "atomczak",
+        "score": 4.37,
+        "minInstalls": 10000000,
+        "ratings": 91566,
+        "genre": "생산성",
+        "updated": 1793259772000,
+        "titleHasKeyword": false
+      },
+      {
+        "appId": "shopping.list.organizer",
+        "title": "정리된 장보기 목록",
+        "developer": "Webtoweb",
+        "minInstalls": 10000,
+        "genre": "쇼핑",
+        "updated": 1793043573000,
+        "titleHasKeyword": false
+      },
+      {
+        "appId": "easynotes.notes.notepad.notebook.privatenotes.note",
+        "title": "Easy Notes: 메모，노트，필기，메모장，노트필기앱",
+        "developer": "Gulooloo Tech Co., Ltd.",
+        "score": 4.8170733,
+        "minInstalls": 10000000,
+        "ratings": 436026,
+        "genre": "생산성",
+        "updated": 1793013611000,
+        "titleHasKeyword": false
+      }
+    ]
+  },
+  {
+    "category": "food",
+    "seed": "장보기",
+    "keyword": "장보기 계산",
+    "results": [
+      {
+        "appId": "com.jee.calc.shopping",
+        "title": "쇼핑 계산기",
+        "developer": "LemonClip",
+        "score": 4.5438595,
+        "minInstalls": 100000,
+        "ratings": 1141,
+        "genre": "도구",
+        "updated": 1788083043000,
+        "titleHasKeyword": false
+      },
+      {
+        "appId": "com.vladlee.shoppinglist",
+        "title": "Enchlist: 장보기 가계부",
+        "developer": "Enchan Li",
+        "score": 5,
+        "minInstalls": 100000,
+        "ratings": 2612,
+        "genre": "쇼핑",
+        "updated": 1793497096000,
+        "titleHasKeyword": false
+      },
+      {
+        "appId": "mlz.shoppingcalculator.free",
+        "title": "쇼핑 계산기",
+        "developer": "MLZ",
+        "minInstalls": 100000,
+        "genre": "쇼핑",
+        "updated": 1788020383000,
+        "titleHasKeyword": false
+      },
+      {
+        "appId": "com.cystar.martcalculator",
+        "title": "마트 계산기 - 장보기 금액 계산",
+        "developer": "CYSTAR",
+        "minInstalls": 5,
+        "genre": "쇼핑",
+        "updated": 1793149498000,
+        "titleHasKeyword": false
+      },
+      {
+        "appId": "com.smartmate.smartcart",
+        "title": "장보기 계산기 - SmartCart 가격표 스캔",
+        "developer": "AI Insight Lab",
+        "minInstalls": 1,
+        "genre": "쇼핑",
+        "updated": 1793074108000,
+        "titleHasKeyword": true
+      },
+      {
+        "appId": "shopping.list.organizer",
+        "title": "정리된 장보기 목록",
+        "developer": "Webtoweb",
+        "minInstalls": 10000,
+        "genre": "쇼핑",
+        "updated": 1793043573000,
+        "titleHasKeyword": false
+      },
+      {
+        "appId": "com.l",
+        "title": "스마트 쇼핑 목록 - Listonic",
+        "developer": "Listonic - Smart Grocery Shopping",
+        "score": 4.6,
+        "minInstalls": 10000000,
+        "ratings": 318011,
+        "genre": "쇼핑",
+        "updated": 1792751150000,
+        "titleHasKeyword": false
+      },
+      {
+        "appId": "com.kwajs.discountcalc",
+        "title": "Simple Discount Calculator",
+        "developer": "Kwaja",
+        "minInstalls": 5000,
+        "genre": "쇼핑",
+        "updated": 1751526650000,
+        "titleHasKeyword": false
+      },
+      {
+        "appId": "com.listmaker.shoppinglist.grocerylist",
+        "title": "쇼핑 목록 및 계산기",
+        "developer": "Money Saver & Shopping List & Event Planner",
+        "minInstalls": 10000,
+        "genre": "쇼핑",
+        "updated": 1792045490000,
+        "titleHasKeyword": false
+      },
+      {
+        "appId": "com.jee.calc.discount",
+        "title": "할인 계산기",
+        "developer": "LemonClip",
+        "score": 4.7,
+        "minInstalls": 50000,
+        "ratings": 252,
+        "genre": "도구",
+        "updated": 1788078222000,
+        "titleHasKeyword": false
+      }
+    ]
+  },
+  {
+    "category": "food",
+    "seed": "식단",
+    "keyword": "식단",
+    "results": [
+      {
+        "appId": "com.taejinketo.inout_webview",
+        "title": "인아웃 - 다이어트 코치 & 식단, 운동, 체중 기록",
+        "developer": "인아웃",
+        "score": 4.879574,
+        "minInstalls": 1000000,
+        "ratings": 31281,
+        "genre": "건강/운동",
+        "updated": 1790902463000,
+        "titleHasKeyword": true
+      },
+      {
+        "appId": "com.fatsecret.android",
+        "title": "fatsecret의 칼로리 카운터",
+        "developer": "fatsecret",
+        "score": 4.5314403,
+        "minInstalls": 50000000,
+        "ratings": 548323,
+        "genre": "건강/운동",
+        "updated": 1791953867000,
+        "titleHasKeyword": false
+      },
+      {
+        "appId": "com.pillyze.health",
+        "title": "필라이즈 - 다이어트 AI 코치, 식단, 혈당, 운동",
+        "developer": "Pillyze Inc.",
+        "score": 4.7823606,
+        "minInstalls": 500000,
+        "ratings": 15557,
+        "genre": "건강/운동",
+        "updated": 1792748471000,
+        "titleHasKeyword": true
+      },
+      {
+        "appId": "com.jwantplan.mealplanner",
+        "title": "식단착착 - 식단기록, 식단인증, 식단표",
+        "developer": "j.wantplan",
+        "score": 4.6296296,
+        "minInstalls": 50000,
+        "ratings": 1704,
+        "genre": "식음료",
+        "updated": 1793280143000,
+        "titleHasKeyword": true
+      },
+      {
+        "appId": "com.myfitnesspal.android",
+        "title": "MyFitnessPal: Calorie Counter",
+        "developer": "MyFitnessPal, Inc.",
+        "score": 4.1330647,
+        "minInstalls": 100000000,
+        "ratings": 2920385,
+        "genre": "건강/운동",
+        "updated": 1792790788000,
+        "titleHasKeyword": false
+      },
+      {
+        "appId": "dietaiplan.calorietracker.app",
+        "title": "칼로리 계산기 & 다이어트 식단・DietAI",
+        "developer": "Social Tech.",
+        "score": 4.6237626,
+        "minInstalls": 1000000,
+        "ratings": 187719,
+        "genre": "건강/운동",
+        "updated": 1792229862000,
+        "titleHasKeyword": true
+      },
+      {
+        "appId": "com.eatr.eatr",
+        "title": "Eatr・AI 식단 플래너·다이어트",
+        "developer": "Eatr - MealPlans",
+        "score": 4.34,
+        "minInstalls": 1000000,
+        "ratings": 58058,
+        "genre": "식음료",
+        "updated": 1793381350000,
+        "titleHasKeyword": true
+      },
+      {
+        "appId": "meal.planner",
+        "title": "식단표 - 주간 식단·레시피·장보기·칼로리 계산",
+        "developer": "youmealplan.com",
+        "score": 4.8,
+        "minInstalls": 1000000,
+        "ratings": 20493,
+        "genre": "식음료",
+        "updated": 1793168269000,
+        "titleHasKeyword": true
+      },
+      {
+        "appId": "com.sillens.shapeupclub",
+        "title": "Lifesum: AI Calorie Tracker",
+        "developer": "Lifesum",
+        "score": 4.34,
+        "minInstalls": 10000000,
+        "ratings": 379133,
+        "genre": "건강/운동",
+        "updated": 1791985748000,
+        "titleHasKeyword": false
+      },
+      {
+        "appId": "com.yazio.android",
+        "title": "Yazio(야지오): AI 칼로리 계산기",
+        "developer": "Yazio",
+        "score": 4.624099,
+        "minInstalls": 50000000,
+        "ratings": 877417,
+        "genre": "건강/운동",
+        "updated": 1793357255000,
+        "titleHasKeyword": false
+      }
+    ]
+  },
+  {
+    "category": "food",
+    "seed": "식단",
+    "keyword": "식단기록",
+    "results": [
+      {
+        "appId": "com.taejinketo.inout_webview",
+        "title": "인아웃 - 다이어트 코치 & 식단, 운동, 체중 기록",
+        "developer": "인아웃",
+        "score": 4.879574,
+        "minInstalls": 1000000,
+        "ratings": 31281,
+        "genre": "건강/운동",
+        "updated": 1790902463000,
+        "titleHasKeyword": false
+      },
+      {
+        "appId": "com.jwantplan.mealplanner",
+        "title": "식단착착 - 식단기록, 식단인증, 식단표",
+        "developer": "j.wantplan",
+        "score": 4.6296296,
+        "minInstalls": 50000,
+        "ratings": 1704,
+        "genre": "식음료",
+        "updated": 1793280143000,
+        "titleHasKeyword": true
+      },
+      {
+        "appId": "com.fatsecret.android",
+        "title": "fatsecret의 칼로리 카운터",
+        "developer": "fatsecret",
+        "score": 4.5314403,
+        "minInstalls": 50000000,
+        "ratings": 548323,
+        "genre": "건강/운동",
+        "updated": 1791953867000,
+        "titleHasKeyword": false
+      },
+      {
+        "appId": "com.pillyze.health",
+        "title": "필라이즈 - 다이어트 AI 코치, 식단, 혈당, 운동",
+        "developer": "Pillyze Inc.",
+        "score": 4.7823606,
+        "minInstalls": 500000,
+        "ratings": 15557,
+        "genre": "건강/운동",
+        "updated": 1792748471000,
+        "titleHasKeyword": false
+      },
+      {
+        "appId": "com.doinglab.dietdiaryai",
+        "title": "다이어트 카메라 - AI 칼로리 계산기·식단 관리",
+        "developer": "DoingLab Inc.",
+        "score": 4.6896553,
+        "minInstalls": 100000,
+        "ratings": 4331,
+        "genre": "건강/운동",
+        "updated": 1793342397000,
+        "titleHasKeyword": false
+      },
+      {
+        "appId": "com.lefal.mealligram",
+        "title": "밀리그램 - 앱 하나로 다이어트 기록, 계획, 공유",
+        "developer": "Kilo Inc.",
+        "score": 4.2689657,
+        "minInstalls": 100000,
+        "ratings": 3212,
+        "genre": "건강/운동",
+        "updated": 1793542934000,
+        "titleHasKeyword": false
+      },
+      {
+        "appId": "com.myfitnesspal.android",
+        "title": "MyFitnessPal: Calorie Counter",
+        "developer": "MyFitnessPal, Inc.",
+        "score": 4.1330647,
+        "minInstalls": 100000000,
+        "ratings": 2920385,
+        "genre": "건강/운동",
+        "updated": 1792790788000,
+        "titleHasKeyword": false
+      },
+      {
+        "appId": "meal.planner",
+        "title": "식단표 - 주간 식단·레시피·장보기·칼로리 계산",
+        "developer": "youmealplan.com",
+        "score": 4.8,
+        "minInstalls": 1000000,
+        "ratings": 20493,
+        "genre": "식음료",
+        "updated": 1793168269000,
+        "titleHasKeyword": false
+      },
+      {
+        "appId": "com.henzerboss.CalorieCounterAI",
+        "title": "칼로리 계산기: AI 사진 식단 기록",
+        "developer": "evsi.store",
+        "score": 4.8235292,
+        "minInstalls": 100000,
+        "ratings": 2780,
+        "genre": "건강/운동",
+        "updated": 1792407440000,
+        "titleHasKeyword": true
+      },
+      {
+        "appId": "com.iafan1229.daylog",
+        "title": "식단일기 - 몸무게, 식단 기록, 다이어트",
+        "developer": "Ha Young Lee",
+        "score": 4.5,
+        "minInstalls": 500,
+        "ratings": 8,
+        "genre": "라이프스타일",
+        "updated": 1792923305000,
+        "titleHasKeyword": true
+      }
+    ]
+  },
+  {
+    "category": "food",
+    "seed": "식단",
+    "keyword": "식단표",
+    "results": [
+      {
+        "appId": "meal.planner",
+        "title": "식단표 - 주간 식단·레시피·장보기·칼로리 계산",
+        "developer": "youmealplan.com",
+        "score": 4.8,
+        "minInstalls": 1000000,
+        "ratings": 20493,
+        "genre": "식음료",
+        "updated": 1793168269000,
+        "titleHasKeyword": true
+      },
+      {
+        "appId": "com.odflabs.mealnote",
+        "title": "식단플래너 - 식단표, 식단 기록, 장보기, 레시피",
+        "developer": "odf.labs",
+        "minInstalls": 500,
+        "genre": "식음료",
+        "updated": 1786623914000,
+        "titleHasKeyword": true
+      },
+      {
+        "appId": "com.jwantplan.mealplanner",
+        "title": "식단착착 - 식단기록, 식단인증, 식단표",
+        "developer": "j.wantplan",
+        "score": 4.6296296,
+        "minInstalls": 50000,
+        "ratings": 1704,
+        "genre": "식음료",
+        "updated": 1793280143000,
+        "titleHasKeyword": true
+      },
+      {
+        "appId": "com.yinqs.weeklymealplanner",
+        "title": "다이어리 식사 입안자 / 장보기 리스트 / 요리레시피",
+        "developer": "JoJo Apps: Meal Planner and Shopping List",
+        "score": 4.84,
+        "minInstalls": 1000000,
+        "ratings": 22396,
+        "genre": "식음료",
+        "updated": 1792743291000,
+        "titleHasKeyword": false
+      },
+      {
+        "appId": "com.ursoft.dietmanagement2",
+        "title": "유리트 식단 - 식단 관리, 식단 기록, 식비 관리",
+        "developer": "URSOFT",
+        "score": 4.83,
+        "minInstalls": 10000,
+        "ratings": 718,
+        "genre": "식음료",
+        "updated": 1793257789000,
+        "titleHasKeyword": false
+      },
+      {
+        "appId": "kr.co.addsoft.recipedrawer",
+        "title": "식단서랍 - AI 식단표·장보기 목록",
+        "developer": "애드소프트",
+        "minInstalls": 10,
+        "genre": "라이프스타일",
+        "updated": 1793311545000,
+        "titleHasKeyword": true
+      },
+      {
+        "appId": "com.lefal.mealligram",
+        "title": "밀리그램 - 앱 하나로 다이어트 기록, 계획, 공유",
+        "developer": "Kilo Inc.",
+        "score": 4.2689657,
+        "minInstalls": 100000,
+        "ratings": 3212,
+        "genre": "건강/운동",
+        "updated": 1793542934000,
+        "titleHasKeyword": false
+      },
+      {
+        "appId": "com.wazawaza.fooddiary",
+        "title": "Food Diary : Diet & Health log",
+        "developer": "HAMMANTech",
+        "score": 4.8,
+        "minInstalls": 100000,
+        "ratings": 1833,
+        "genre": "건강/운동",
+        "updated": 1789143216000,
+        "titleHasKeyword": false
+      },
+      {
+        "appId": "com.plantoeat.mobile",
+        "title": "Plan to Eat: Meal Planner",
+        "developer": "Plan to Eat",
+        "minInstalls": 100000,
+        "genre": "식음료",
+        "updated": 1791997111000,
+        "titleHasKeyword": false
+      },
+      {
+        "appId": "com.dailybits.foodjournal",
+        "title": "음식 일기",
+        "developer": "My Daily Bits LLC",
+        "score": 3.6585367,
+        "minInstalls": 5000000,
+        "ratings": 25175,
+        "genre": "건강/운동",
+        "updated": 1749227928000,
+        "titleHasKeyword": false
+      }
+    ]
+  },
+  {
+    "category": "food",
+    "seed": "식단",
+    "keyword": "식단관리",
+    "results": [
+      {
+        "appId": "com.taejinketo.inout_webview",
+        "title": "인아웃 - 다이어트 코치 & 식단, 운동, 체중 기록",
+        "developer": "인아웃",
+        "score": 4.879574,
+        "minInstalls": 1000000,
+        "ratings": 31281,
+        "genre": "건강/운동",
+        "updated": 1790902463000,
+        "titleHasKeyword": false
+      },
+      {
+        "appId": "com.pillyze.health",
+        "title": "필라이즈 - 다이어트 AI 코치, 식단, 혈당, 운동",
+        "developer": "Pillyze Inc.",
+        "score": 4.7823606,
+        "minInstalls": 500000,
+        "ratings": 15557,
+        "genre": "건강/운동",
+        "updated": 1792748471000,
+        "titleHasKeyword": false
+      },
+      {
+        "appId": "com.fatsecret.android",
+        "title": "fatsecret의 칼로리 카운터",
+        "developer": "fatsecret",
+        "score": 4.5314403,
+        "minInstalls": 50000000,
+        "ratings": 548323,
+        "genre": "건강/운동",
+        "updated": 1791953867000,
+        "titleHasKeyword": false
+      },
+      {
+        "appId": "meal.planner",
+        "title": "식단표 - 주간 식단·레시피·장보기·칼로리 계산",
+        "developer": "youmealplan.com",
+        "score": 4.8,
+        "minInstalls": 1000000,
+        "ratings": 20493,
+        "genre": "식음료",
+        "updated": 1793168269000,
+        "titleHasKeyword": false
+      },
+      {
+        "appId": "com.lefal.mealligram",
+        "title": "밀리그램 - 앱 하나로 다이어트 기록, 계획, 공유",
+        "developer": "Kilo Inc.",
+        "score": 4.2689657,
+        "minInstalls": 100000,
+        "ratings": 3212,
+        "genre": "건강/운동",
+        "updated": 1793542934000,
+        "titleHasKeyword": false
+      },
+      {
+        "appId": "com.myfitnesspal.android",
+        "title": "MyFitnessPal: Calorie Counter",
+        "developer": "MyFitnessPal, Inc.",
+        "score": 4.1330647,
+        "minInstalls": 100000000,
+        "ratings": 2920385,
+        "genre": "건강/운동",
+        "updated": 1792790788000,
+        "titleHasKeyword": false
+      },
+      {
+        "appId": "com.doinglab.dietdiaryai",
+        "title": "다이어트 카메라 - AI 칼로리 계산기·식단 관리",
+        "developer": "DoingLab Inc.",
+        "score": 4.6896553,
+        "minInstalls": 100000,
+        "ratings": 4331,
+        "genre": "건강/운동",
+        "updated": 1793342397000,
+        "titleHasKeyword": true
+      },
+      {
+        "appId": "com.jwantplan.mealplanner",
+        "title": "식단착착 - 식단기록, 식단인증, 식단표",
+        "developer": "j.wantplan",
+        "score": 4.6296296,
+        "minInstalls": 50000,
+        "ratings": 1704,
+        "genre": "식음료",
+        "updated": 1793280143000,
+        "titleHasKeyword": false
+      },
+      {
+        "appId": "com.yazio.android",
+        "title": "Yazio(야지오): AI 칼로리 계산기",
+        "developer": "Yazio",
+        "score": 4.624099,
+        "minInstalls": 50000000,
+        "ratings": 877417,
+        "genre": "건강/운동",
+        "updated": 1793357255000,
+        "titleHasKeyword": false
+      },
+      {
+        "appId": "com.henzerboss.CalorieCounterAI",
+        "title": "칼로리 계산기: AI 사진 식단 기록",
+        "developer": "evsi.store",
+        "score": 4.8235292,
+        "minInstalls": 100000,
+        "ratings": 2780,
+        "genre": "건강/운동",
+        "updated": 1792407440000,
+        "titleHasKeyword": false
+      }
+    ]
+  },
+  {
+    "category": "food",
+    "seed": "식단",
+    "keyword": "식단일기",
+    "results": [
+      {
+        "appId": "com.iafan1229.daylog",
+        "title": "식단일기 - 몸무게, 식단 기록, 다이어트",
+        "developer": "Ha Young Lee",
+        "score": 4.5,
+        "minInstalls": 500,
+        "ratings": 8,
+        "genre": "라이프스타일",
+        "updated": 1792923305000,
+        "titleHasKeyword": true
+      },
+      {
+        "appId": "com.jwantplan.mealplanner",
+        "title": "식단착착 - 식단기록, 식단인증, 식단표",
+        "developer": "j.wantplan",
+        "score": 4.6296296,
+        "minInstalls": 50000,
+        "ratings": 1704,
+        "genre": "식음료",
+        "updated": 1793280143000,
+        "titleHasKeyword": false
+      },
+      {
+        "appId": "com.taejinketo.inout_webview",
+        "title": "인아웃 - 다이어트 코치 & 식단, 운동, 체중 기록",
+        "developer": "인아웃",
+        "score": 4.879574,
+        "minInstalls": 1000000,
+        "ratings": 31281,
+        "genre": "건강/운동",
+        "updated": 1790902463000,
+        "titleHasKeyword": false
+      },
+      {
+        "appId": "com.lefal.mealligram",
+        "title": "밀리그램 - 앱 하나로 다이어트 기록, 계획, 공유",
+        "developer": "Kilo Inc.",
+        "score": 4.2689657,
+        "minInstalls": 100000,
+        "ratings": 3212,
+        "genre": "건강/운동",
+        "updated": 1793542934000,
+        "titleHasKeyword": false
+      },
+      {
+        "appId": "meal.planner",
+        "title": "식단표 - 주간 식단·레시피·장보기·칼로리 계산",
+        "developer": "youmealplan.com",
+        "score": 4.8,
+        "minInstalls": 1000000,
+        "ratings": 20493,
+        "genre": "식음료",
+        "updated": 1793168269000,
+        "titleHasKeyword": false
+      },
+      {
+        "appId": "com.doinglab.dietdiaryai",
+        "title": "다이어트 카메라 - AI 칼로리 계산기·식단 관리",
+        "developer": "DoingLab Inc.",
+        "score": 4.6896553,
+        "minInstalls": 100000,
+        "ratings": 4331,
+        "genre": "건강/운동",
+        "updated": 1793342397000,
+        "titleHasKeyword": false
+      },
+      {
+        "appId": "com.dailybits.foodjournal",
+        "title": "음식 일기",
+        "developer": "My Daily Bits LLC",
+        "score": 3.6585367,
+        "minInstalls": 5000000,
+        "ratings": 25175,
+        "genre": "건강/운동",
+        "updated": 1749227928000,
+        "titleHasKeyword": false
+      },
+      {
+        "appId": "com.ursoft.dietmanagement2",
+        "title": "유리트 식단 - 식단 관리, 식단 기록, 식비 관리",
+        "developer": "URSOFT",
+        "score": 4.83,
+        "minInstalls": 10000,
+        "ratings": 718,
+        "genre": "식음료",
+        "updated": 1793257789000,
+        "titleHasKeyword": false
+      },
+      {
+        "appId": "com.fatsecret.android",
+        "title": "fatsecret의 칼로리 카운터",
+        "developer": "fatsecret",
+        "score": 4.5314403,
+        "minInstalls": 50000000,
+        "ratings": 548323,
+        "genre": "건강/운동",
+        "updated": 1791953867000,
+        "titleHasKeyword": false
+      },
+      {
+        "appId": "com.pillyze.health",
+        "title": "필라이즈 - 다이어트 AI 코치, 식단, 혈당, 운동",
+        "developer": "Pillyze Inc.",
+        "score": 4.7823606,
+        "minInstalls": 500000,
+        "ratings": 15557,
+        "genre": "건강/운동",
+        "updated": 1792748471000,
+        "titleHasKeyword": false
+      }
+    ]
+  },
+  {
+    "category": "food",
+    "seed": "냉장고",
+    "keyword": "냉장고",
+    "results": [
+      {
+        "appId": "com.reactnativerefrigerator",
+        "title": "냉장고 털기 : 재료관리, AI 레시피, 냉장고 파먹기",
+        "developer": "Yong-il Kim",
+        "score": 4.7906976,
+        "minInstalls": 1000,
+        "ratings": 86,
+        "genre": "식음료",
+        "updated": 1793410271000,
+        "titleHasKeyword": true
+      },
+      {
+        "appId": "com.lazyheroes.erfe",
+        "title": "냉장고 파먹기 : 레시피, 냉장고 관리, 집밥, 냉파",
+        "developer": "Lazyheroes",
+        "score": 4.48,
+        "minInstalls": 10000,
+        "ratings": 266,
+        "genre": "라이프스타일",
+        "updated": 1792500174000,
+        "titleHasKeyword": true
+      },
+      {
+        "appId": "com.meolly.fridge",
+        "title": "원더 프리지: 냉장고 식품 관리, 소비기한 알림",
+        "developer": "Wonderple",
+        "score": 4.46,
+        "minInstalls": 50000,
+        "ratings": 440,
+        "genre": "식음료",
+        "updated": 1792846942000,
+        "titleHasKeyword": true
+      },
+      {
+        "appId": "com.alpicoolneutral.fridge.controller",
+        "title": "CAR FRIDGE FREEZER",
+        "developer": "Alpicool",
+        "score": 3.68,
+        "minInstalls": 1000000,
+        "ratings": 2307,
+        "genre": "도구",
+        "updated": 1789375368000,
+        "titleHasKeyword": false
+      },
+      {
+        "appId": "com.karrel.KRefrigerator4",
+        "title": "냉장고를 부탁해 - 냉장고 파먹기",
+        "developer": "karrel",
+        "minInstalls": 100,
+        "genre": "식음료",
+        "updated": 1789984778000,
+        "titleHasKeyword": true
+      },
+      {
+        "appId": "kr.co.simplebestapp.fridge",
+        "title": "냉장고 재고 관리 - 유통기한 알림, 재고 관리 자동화",
+        "developer": "저스트엠",
+        "score": 4.047619,
+        "minInstalls": 10000,
+        "ratings": 63,
+        "genre": "도구",
+        "updated": 1780048356000,
+        "titleHasKeyword": true
+      },
+      {
+        "appId": "com.moonkimvision.ourfridge",
+        "title": "우리집 냉장고 - 유통기한·장보기·식단",
+        "developer": "moonkimvision",
+        "minInstalls": 1,
+        "genre": "라이프스타일",
+        "updated": 1793030825000,
+        "titleHasKeyword": true
+      },
+      {
+        "appId": "com.exciting.fridgemate.fridgemate",
+        "title": "냉장고 셰프 - 요리 레시피 - 재료 유통기한 관리",
+        "developer": "EXCITING.",
+        "score": 4.105263,
+        "minInstalls": 1000,
+        "ratings": 19,
+        "genre": "식음료",
+        "updated": 1782849452000,
+        "titleHasKeyword": true
+      },
+      {
+        "appId": "com.naengpa.fridgechef",
+        "title": "냉장고 셰프 - AI 냉장고 파먹기",
+        "developer": "냉장고 셰프",
+        "minInstalls": 50,
+        "genre": "식음료",
+        "updated": 1784950849000,
+        "titleHasKeyword": true
+      },
+      {
+        "appId": "com.sam.myfridge",
+        "title": "우리집 냉장고 - 유통기한 알림·가족 식단표",
+        "developer": "jubimakesmagic",
+        "minInstalls": 100,
+        "genre": "식음료",
+        "updated": 1792908882000,
+        "titleHasKeyword": true
+      }
+    ]
+  },
+  {
+    "category": "food",
+    "seed": "냉장고",
+    "keyword": "냉장고 정리",
+    "results": [
+      {
+        "appId": "com.fill.up.the.fridge.fridgeorganizing.simulation.game",
+        "title": "냉장고 정리 3D",
+        "developer": "TigerGame",
+        "score": 4.6237626,
+        "minInstalls": 5000000,
+        "ratings": 22373,
+        "genre": "캐주얼",
+        "updated": 1792837697000,
+        "titleHasKeyword": true
+      },
+      {
+        "appId": "fill.up.the.frigde.organization.games",
+        "title": "냉장고 채우기: ASMR 정리게임",
+        "developer": "GameLord 3D",
+        "score": 4.35,
+        "minInstalls": 10000000,
+        "ratings": 204631,
+        "genre": "퍼즐",
+        "updated": 1792659560000,
+        "titleHasKeyword": false
+      },
+      {
+        "appId": "kr.co.simplebestapp.fridge",
+        "title": "냉장고 재고 관리 - 유통기한 알림, 재고 관리 자동화",
+        "developer": "저스트엠",
+        "score": 4.047619,
+        "minInstalls": 10000,
+        "ratings": 63,
+        "genre": "도구",
+        "updated": 1780048356000,
+        "titleHasKeyword": false
+      },
+      {
+        "appId": "com.meolly.fridge",
+        "title": "원더 프리지: 냉장고 식품 관리, 소비기한 알림",
+        "developer": "Wonderple",
+        "score": 4.46,
+        "minInstalls": 50000,
+        "ratings": 440,
+        "genre": "식음료",
+        "updated": 1792846942000,
+        "titleHasKeyword": false
+      },
+      {
+        "appId": "com.reactnativerefrigerator",
+        "title": "냉장고 털기 : 재료관리, AI 레시피, 냉장고 파먹기",
+        "developer": "Yong-il Kim",
+        "score": 4.7906976,
+        "minInstalls": 1000,
+        "ratings": 86,
+        "genre": "식음료",
+        "updated": 1793410271000,
+        "titleHasKeyword": false
+      },
+      {
+        "appId": "fill.fridge.organization.restock.organizing",
+        "title": "Restock Fridge: 나만의냉장고 정리게임",
+        "developer": "Dark Halo",
+        "score": 4.5,
+        "minInstalls": 1000000,
+        "ratings": 4228,
+        "genre": "퍼즐",
+        "updated": 1779420841000,
+        "titleHasKeyword": true
+      },
+      {
+        "appId": "com.GybeGames.FillTheFridgeTest",
+        "title": "Fill The Fridge",
+        "developer": "Rollic Games",
+        "score": 4.3174825,
+        "minInstalls": 50000000,
+        "ratings": 619651,
+        "genre": "퍼즐",
+        "updated": 1792736938000,
+        "titleHasKeyword": false
+      },
+      {
+        "appId": "com.moonkimvision.ourfridge",
+        "title": "우리집 냉장고 - 유통기한·장보기·식단",
+        "developer": "moonkimvision",
+        "minInstalls": 1,
+        "genre": "라이프스타일",
+        "updated": 1793030825000,
+        "titleHasKeyword": false
+      },
+      {
+        "appId": "com.sam.myfridge",
+        "title": "우리집 냉장고 - 유통기한 알림·가족 식단표",
+        "developer": "jubimakesmagic",
+        "minInstalls": 100,
+        "genre": "식음료",
+        "updated": 1792908882000,
+        "titleHasKeyword": false
+      },
+      {
+        "appId": "fridge.fill.up.kulkas.organize.restock",
+        "title": "ASMR 정리게임 · 냉장고 정리：냉장고 채우기",
+        "developer": "Dark Halo",
+        "score": 3.857143,
+        "minInstalls": 1000000,
+        "ratings": 4438,
+        "genre": "시뮬레이션",
+        "updated": 1778740470000,
+        "titleHasKeyword": true
+      }
+    ]
+  },
+  {
+    "category": "food",
+    "seed": "냉장고",
+    "keyword": "냉장고 관리",
+    "results": [
+      {
+        "appId": "com.reactnativerefrigerator",
+        "title": "냉장고 털기 : 재료관리, AI 레시피, 냉장고 파먹기",
+        "developer": "Yong-il Kim",
+        "score": 4.7906976,
+        "minInstalls": 1000,
+        "ratings": 86,
+        "genre": "식음료",
+        "updated": 1793410271000,
+        "titleHasKeyword": false
+      },
+      {
+        "appId": "com.meolly.fridge",
+        "title": "원더 프리지: 냉장고 식품 관리, 소비기한 알림",
+        "developer": "Wonderple",
+        "score": 4.46,
+        "minInstalls": 50000,
+        "ratings": 440,
+        "genre": "식음료",
+        "updated": 1792846942000,
+        "titleHasKeyword": false
+      },
+      {
+        "appId": "kr.co.simplebestapp.fridge",
+        "title": "냉장고 재고 관리 - 유통기한 알림, 재고 관리 자동화",
+        "developer": "저스트엠",
+        "score": 4.047619,
+        "minInstalls": 10000,
+        "ratings": 63,
+        "genre": "도구",
+        "updated": 1780048356000,
+        "titleHasKeyword": false
+      },
+      {
+        "appId": "com.lazyheroes.erfe",
+        "title": "냉장고 파먹기 : 레시피, 냉장고 관리, 집밥, 냉파",
+        "developer": "Lazyheroes",
+        "score": 4.48,
+        "minInstalls": 10000,
+        "ratings": 266,
+        "genre": "라이프스타일",
+        "updated": 1792500174000,
+        "titleHasKeyword": true
+      },
+      {
+        "appId": "com.exciting.fridgemate.fridgemate",
+        "title": "냉장고 셰프 - 요리 레시피 - 재료 유통기한 관리",
+        "developer": "EXCITING.",
+        "score": 4.105263,
+        "minInstalls": 1000,
+        "ratings": 19,
+        "genre": "식음료",
+        "updated": 1782849452000,
+        "titleHasKeyword": false
+      },
+      {
+        "appId": "woo.hyun.myfridge",
+        "title": "간단 냉장고 관리",
+        "developer": "HyunWooLee",
+        "score": 4.8,
+        "minInstalls": 1000,
+        "ratings": 5,
+        "genre": "식음료",
+        "updated": 1774871675000,
+        "titleHasKeyword": true
+      },
+      {
+        "appId": "com.moonkimvision.ourfridge",
+        "title": "우리집 냉장고 - 유통기한·장보기·식단",
+        "developer": "moonkimvision",
+        "minInstalls": 1,
+        "genre": "라이프스타일",
+        "updated": 1793030825000,
+        "titleHasKeyword": false
+      },
+      {
+        "appId": "com.sam.myfridge",
+        "title": "우리집 냉장고 - 유통기한 알림·가족 식단표",
+        "developer": "jubimakesmagic",
+        "minInstalls": 100,
+        "genre": "식음료",
+        "updated": 1792908882000,
+        "titleHasKeyword": false
+      },
+      {
+        "appId": "com.eggchef",
+        "title": "에그셰프 - 냉장고 재료관리, 요리 추천",
+        "developer": "DreamFT",
+        "score": 4.48,
+        "minInstalls": 1000,
+        "ratings": 25,
+        "genre": "식음료",
+        "updated": 1788312608000,
+        "titleHasKeyword": false
+      },
+      {
+        "appId": "com.karrel.KRefrigerator4",
+        "title": "냉장고를 부탁해 - 냉장고 파먹기",
+        "developer": "karrel",
+        "minInstalls": 100,
+        "genre": "식음료",
+        "updated": 1789984778000,
+        "titleHasKeyword": false
+      }
+    ]
+  },
+  {
+    "category": "food",
+    "seed": "냉장고",
+    "keyword": "냉장고파먹기",
+    "results": [
+      {
+        "appId": "com.lazyheroes.erfe",
+        "title": "냉장고 파먹기 : 레시피, 냉장고 관리, 집밥, 냉파",
+        "developer": "Lazyheroes",
+        "score": 4.48,
+        "minInstalls": 10000,
+        "ratings": 266,
+        "genre": "라이프스타일",
+        "updated": 1792500174000,
+        "titleHasKeyword": true
+      },
+      {
+        "appId": "com.jychoi.cookly",
+        "title": "Cookly - 냉장고 파먹기 식비절약",
+        "developer": "Jungyun Choi",
+        "score": 5,
+        "minInstalls": 500,
+        "ratings": 6,
+        "genre": "식음료",
+        "updated": 1792832241000,
+        "titleHasKeyword": true
+      },
+      {
+        "appId": "com.yorigo.mobile",
+        "title": "요리GO: SNS 레시피 자동 정리, 장보기까지",
+        "developer": "요리고",
+        "score": 3.489796,
+        "minInstalls": 1000,
+        "ratings": 49,
+        "genre": "식음료",
+        "updated": 1789873994000,
+        "titleHasKeyword": false
+      },
+      {
+        "appId": "com.crumb.crumb",
+        "title": "Fridge Recipe Generator: Crumb",
+        "developer": "Rodger Studio",
+        "minInstalls": 10000,
+        "genre": "식음료",
+        "updated": 1782461311000,
+        "titleHasKeyword": false
+      },
+      {
+        "appId": "com.supercook.app",
+        "title": "SuperCook - Recipe Generator",
+        "developer": "SuperCook",
+        "score": 4.1666665,
+        "minInstalls": 1000000,
+        "ratings": 18767,
+        "genre": "식음료",
+        "updated": 1793253859000,
+        "titleHasKeyword": false
+      },
+      {
+        "appId": "com.eggchef",
+        "title": "에그셰프 - 냉장고 재료관리, 요리 추천",
+        "developer": "DreamFT",
+        "score": 4.48,
+        "minInstalls": 1000,
+        "ratings": 25,
+        "genre": "식음료",
+        "updated": 1788312608000,
+        "titleHasKeyword": false
+      },
+      {
+        "appId": "com.taap.game.chef.cooking.universal",
+        "title": "Cooking Universal -Chef’s Game",
+        "developer": "TAAP GAME STUDIO",
+        "score": 4.6831684,
+        "minInstalls": 500000,
+        "ratings": 4577,
+        "genre": "캐주얼",
+        "updated": 1786531857000,
+        "titleHasKeyword": false
+      },
+      {
+        "appId": "kr.cookmatch.app",
+        "title": "쿡매치 - 냉장고 재료로 레시피 추천",
+        "developer": "NAHYEJIN",
+        "minInstalls": 10,
+        "genre": "식음료",
+        "updated": 1793283973000,
+        "titleHasKeyword": false
+      },
+      {
+        "appId": "app.fridgi.twa",
+        "title": "Fridgi: Recipe & Meal Planner",
+        "developer": "DayleeApps",
+        "minInstalls": 500,
+        "genre": "식음료",
+        "updated": 1791922360000,
+        "titleHasKeyword": false
+      },
+      {
+        "appId": "com.recipesage.app",
+        "title": "RecipeSage 레시피 관리",
+        "developer": "Julian Poyourow",
+        "minInstalls": 10000,
+        "genre": "식음료",
+        "updated": 1793070104000,
+        "titleHasKeyword": false
+      }
+    ]
+  },
+  {
+    "category": "food",
+    "seed": "냉장고",
+    "keyword": "냉장고 재고관리",
+    "results": [
+      {
+        "appId": "kr.co.simplebestapp.fridge",
+        "title": "냉장고 재고 관리 - 유통기한 알림, 재고 관리 자동화",
+        "developer": "저스트엠",
+        "score": 4.047619,
+        "minInstalls": 10000,
+        "ratings": 63,
+        "genre": "도구",
+        "updated": 1780048356000,
+        "titleHasKeyword": true
+      },
+      {
+        "appId": "com.reactnativerefrigerator",
+        "title": "냉장고 털기 : 재료관리, AI 레시피, 냉장고 파먹기",
+        "developer": "Yong-il Kim",
+        "score": 4.7906976,
+        "minInstalls": 1000,
+        "ratings": 86,
+        "genre": "식음료",
+        "updated": 1793410271000,
+        "titleHasKeyword": false
+      },
+      {
+        "appId": "com.meolly.fridge",
+        "title": "원더 프리지: 냉장고 식품 관리, 소비기한 알림",
+        "developer": "Wonderple",
+        "score": 4.46,
+        "minInstalls": 50000,
+        "ratings": 440,
+        "genre": "식음료",
+        "updated": 1792846942000,
+        "titleHasKeyword": false
+      },
+      {
+        "appId": "com.lazyheroes.erfe",
+        "title": "냉장고 파먹기 : 레시피, 냉장고 관리, 집밥, 냉파",
+        "developer": "Lazyheroes",
+        "score": 4.48,
+        "minInstalls": 10000,
+        "ratings": 266,
+        "genre": "라이프스타일",
+        "updated": 1792500174000,
+        "titleHasKeyword": false
+      },
+      {
+        "appId": "kr.alignplace.fridgeline",
+        "title": "Fridgeline 냉장고 재고 관리",
+        "developer": "limChoi",
+        "minInstalls": 5,
+        "genre": "라이프스타일",
+        "updated": 1788790530000,
+        "titleHasKeyword": true
+      },
+      {
+        "appId": "com.bgpworks.boxhero",
+        "title": "박스히어로 - 가장 쉬운 재고 관리",
+        "developer": "BGPworks, Inc.",
+        "score": 4.71,
+        "minInstalls": 100000,
+        "ratings": 961,
+        "genre": "비즈니스",
+        "updated": 1793002971000,
+        "titleHasKeyword": false
+      },
+      {
+        "appId": "com.exciting.fridgemate.fridgemate",
+        "title": "냉장고 셰프 - 요리 레시피 - 재료 유통기한 관리",
+        "developer": "EXCITING.",
+        "score": 4.105263,
+        "minInstalls": 1000,
+        "ratings": 19,
+        "genre": "식음료",
+        "updated": 1782849452000,
+        "titleHasKeyword": false
+      },
+      {
+        "appId": "com.devnine.traygo",
+        "title": "트레이고 - 초간단 재고관리",
+        "developer": "DevNine Apps",
+        "score": 5,
+        "minInstalls": 1000,
+        "ratings": 15,
+        "genre": "비즈니스",
+        "updated": 1792946524000,
+        "titleHasKeyword": false
+      },
+      {
+        "appId": "com.sam.myfridge",
+        "title": "우리집 냉장고 - 유통기한 알림·가족 식단표",
+        "developer": "jubimakesmagic",
+        "minInstalls": 100,
+        "genre": "식음료",
+        "updated": 1792908882000,
+        "titleHasKeyword": false
+      },
+      {
+        "appId": "woo.hyun.myfridge",
+        "title": "간단 냉장고 관리",
+        "developer": "HyunWooLee",
+        "score": 4.8,
+        "minInstalls": 1000,
+        "ratings": 5,
+        "genre": "식음료",
+        "updated": 1774871675000,
+        "titleHasKeyword": false
+      }
+    ]
+  },
+  {
+    "category": "food",
+    "seed": "식비",
+    "keyword": "식비",
+    "results": [
+      {
+        "appId": "cutboss.engelboss",
+        "title": "식비가계부 - \"식비\"만을 입력하는 간단한 가계부 앱",
+        "developer": "CUTBOSS",
+        "score": 4.74,
+        "minInstalls": 50000,
+        "ratings": 526,
+        "genre": "금융",
+        "updated": 1789118336000,
+        "titleHasKeyword": true
+      },
+      {
+        "appId": "com.ursoft.dietmanagement2",
+        "title": "유리트 식단 - 식단 관리, 식단 기록, 식비 관리",
+        "developer": "URSOFT",
+        "score": 4.83,
+        "minInstalls": 10000,
+        "ratings": 718,
+        "genre": "식음료",
+        "updated": 1793257789000,
+        "titleHasKeyword": true
+      },
+      {
+        "appId": "com.jychoi.cookly",
+        "title": "Cookly - 냉장고 파먹기 식비절약",
+        "developer": "Jungyun Choi",
+        "score": 5,
+        "minInstalls": 500,
+        "ratings": 6,
+        "genre": "식음료",
+        "updated": 1792832241000,
+        "titleHasKeyword": true
+      },
+      {
+        "appId": "com.sikjeolwan.app",
+        "title": "식비절약 - 식절완",
+        "developer": "sikjeolwan",
+        "minInstalls": 10,
+        "genre": "식음료",
+        "updated": 1775016204000,
+        "titleHasKeyword": true
+      },
+      {
+        "appId": "com.ccyiyo.story",
+        "title": "아침가게 이야기: 귀여운 요리 게임",
+        "developer": "YiYo Studios",
+        "score": 4.7277627,
+        "minInstalls": 1000000,
+        "ratings": 37403,
+        "genre": "캐주얼",
+        "updated": 1791862578000,
+        "titleHasKeyword": false
+      },
+      {
+        "appId": "com.luna.bakelog",
+        "title": "BakeLog(베이크로그) - 나만의 베이킹 다이어리",
+        "developer": "DoramiLab",
+        "score": 5,
+        "minInstalls": 500,
+        "ratings": 6,
+        "genre": "라이프스타일",
+        "updated": 1788937298000,
+        "titleHasKeyword": false
+      },
+      {
+        "appId": "com.culturehero.wifetable",
+        "title": "우리의식탁 - 요리를 스타일하다",
+        "developer": "Culture Hero Co., Ltd.",
+        "score": 4.1459856,
+        "minInstalls": 1000000,
+        "ratings": 2293,
+        "genre": "식음료",
+        "updated": 1793162248000,
+        "titleHasKeyword": false
+      },
+      {
+        "appId": "kr.illw.bium",
+        "title": "푸비 음식물쓰레기 종량기 블루투스 앱",
+        "developer": "일월정밀",
+        "score": 2.2,
+        "minInstalls": 10000,
+        "ratings": 5,
+        "genre": "라이프스타일",
+        "updated": 1789722599000,
+        "titleHasKeyword": false
+      },
+      {
+        "appId": "com.demiaworks.hankkihanjul",
+        "title": "한끼한줄 - 식단일기, 식비 가계부",
+        "developer": "demia works",
+        "minInstalls": 1,
+        "genre": "라이프스타일",
+        "updated": 1792480945000,
+        "titleHasKeyword": true
+      },
+      {
+        "appId": "mukkebi.user.app.android",
+        "title": "먹깨비 - 공공배달앱 선두주자",
+        "developer": "Mukkebi",
+        "score": 4.975728,
+        "minInstalls": 1000000,
+        "ratings": 3524,
+        "genre": "식음료",
+        "updated": 1792397739000,
+        "titleHasKeyword": false
+      }
+    ]
+  },
+  {
+    "category": "food",
+    "seed": "식비",
+    "keyword": "식비가계부",
+    "results": [
+      {
+        "appId": "cutboss.engelboss",
+        "title": "식비가계부 - \"식비\"만을 입력하는 간단한 가계부 앱",
+        "developer": "CUTBOSS",
+        "score": 4.74,
+        "minInstalls": 50000,
+        "ratings": 526,
+        "genre": "금융",
+        "updated": 1789118336000,
+        "titleHasKeyword": true
+      },
+      {
+        "appId": "com.realbyteapps.moneymanagerfree",
+        "title": "편한가계부",
+        "developer": "Realbyte Inc.",
+        "score": 4.754032,
+        "minInstalls": 10000000,
+        "ratings": 468385,
+        "genre": "금융",
+        "updated": 1792637408000,
+        "titleHasKeyword": false
+      },
+      {
+        "appId": "com.kthdd.household_account_book_app",
+        "title": "쉬운 가계부 - 캘린더,그래프,위젯으로 지출/수입 관리",
+        "developer": "donghyun12",
+        "score": 4.722772,
+        "minInstalls": 10000,
+        "ratings": 223,
+        "genre": "금융",
+        "updated": 1785645453000,
+        "titleHasKeyword": false
+      },
+      {
+        "appId": "hs.app.today",
+        "title": "다이어리 가계부",
+        "developer": "HS App",
+        "score": 4.8639054,
+        "minInstalls": 100000,
+        "ratings": 3451,
+        "genre": "금융",
+        "updated": 1791384338000,
+        "titleHasKeyword": false
+      },
+      {
+        "appId": "com.pulapp.buboo",
+        "title": "공유 가계부, 일정 - BuBoo 부부",
+        "developer": "Pula Corporation",
+        "score": 4.672355,
+        "minInstalls": 100000,
+        "ratings": 2925,
+        "genre": "라이프스타일",
+        "updated": 1792899690000,
+        "titleHasKeyword": false
+      },
+      {
+        "appId": "com.tenqube.qlip",
+        "title": "비주얼 가계부",
+        "developer": "Tenqube Inc.",
+        "score": 4.1164775,
+        "minInstalls": 500000,
+        "ratings": 18152,
+        "genre": "금융",
+        "updated": 1792642187000,
+        "titleHasKeyword": false
+      },
+      {
+        "appId": "com.kkumgom.app",
+        "title": "꿈곰 - 감정 기록 공유 가계부",
+        "developer": "꿈곰",
+        "score": 4.5833335,
+        "minInstalls": 1000,
+        "ratings": 24,
+        "genre": "금융",
+        "updated": 1783059017000,
+        "titleHasKeyword": false
+      },
+      {
+        "appId": "com.wscellbox.android.easyab",
+        "title": "쉬운가계부 - 수기 가계부",
+        "developer": "wscellbox",
+        "score": 4.903054,
+        "minInstalls": 100000,
+        "ratings": 15832,
+        "genre": "금융",
+        "updated": 1789314747000,
+        "titleHasKeyword": false
+      },
+      {
+        "appId": "com.nerdens.green_lodger",
+        "title": "초록가계부: 광고없는 공유가계부·부부·커플·여행 가계부",
+        "developer": "Nerdens",
+        "score": 4.90604,
+        "minInstalls": 50000,
+        "ratings": 1450,
+        "genre": "금융",
+        "updated": 1793193736000,
+        "titleHasKeyword": false
+      },
+      {
+        "appId": "dev.hwiveloper.ggbb",
+        "title": "가계부부 - 커플·부부가 함께 쓰는 공유 가계부",
+        "developer": "STUDIO HWI",
+        "score": 4.42,
+        "minInstalls": 1000,
+        "ratings": 54,
+        "genre": "금융",
+        "updated": 1791216296000,
+        "titleHasKeyword": false
+      }
+    ]
+  },
+  {
+    "category": "food",
+    "seed": "반찬",
+    "keyword": "반찬",
+    "results": [
+      {
+        "appId": "com.zipbanchan.byapps",
+        "title": "집반찬연구소",
+        "developer": "SANNAMCHON",
+        "score": 2.8,
+        "minInstalls": 100000,
+        "ratings": 169,
+        "genre": "식음료",
+        "updated": 1772631250000,
+        "titleHasKeyword": true
+      },
+      {
+        "appId": "com.flexg.owenfood",
+        "title": "셰프애찬 - 김치 반찬 제철먹거리 산지직송 캠핑음식 몰",
+        "developer": "셰프애찬",
+        "score": 4.25,
+        "minInstalls": 100000,
+        "ratings": 88,
+        "genre": "쇼핑",
+        "updated": 1786672526000,
+        "titleHasKeyword": true
+      },
+      {
+        "appId": "com.uneedcomms.jinganebanchancom",
+        "title": "진가네반찬-반찬,배달,반찬배달,반찬쇼핑몰,반찬주문",
+        "developer": "진가네",
+        "score": 4.285714,
+        "minInstalls": 10000,
+        "ratings": 14,
+        "genre": "쇼핑",
+        "updated": 1789454019000,
+        "titleHasKeyword": true
+      },
+      {
+        "appId": "com.byapps.yulmama",
+        "title": "율마마반찬",
+        "developer": "율마마반찬",
+        "minInstalls": 1000,
+        "genre": "쇼핑",
+        "updated": 1787125607000,
+        "titleHasKeyword": true
+      },
+      {
+        "appId": "com.imweb.appS20210228829c0d6d3982f_2b7acdfde2a45",
+        "title": "현관앞키친 - 반찬·샐러드 새벽배송 구독",
+        "developer": "현관앞키친",
+        "score": 3.5294118,
+        "minInstalls": 10000,
+        "ratings": 17,
+        "genre": "식음료",
+        "updated": 1787643859000,
+        "titleHasKeyword": true
+      },
+      {
+        "appId": "com.lbcontents.banchan",
+        "title": "더맛있는반찬 본점",
+        "developer": "lbcontents",
+        "score": 3.5333333,
+        "minInstalls": 10000,
+        "ratings": 15,
+        "genre": "식음료",
+        "updated": 1756703359000,
+        "titleHasKeyword": true
+      },
+      {
+        "appId": "com.sampleapp",
+        "title": "배달의민족",
+        "developer": "WoowaBrothers",
+        "score": 4.8163824,
+        "minInstalls": 50000000,
+        "ratings": 710381,
+        "genre": "식음료",
+        "updated": 1793050027000,
+        "titleHasKeyword": false
+      },
+      {
+        "appId": "com.ezhld.recipe",
+        "title": "요리백과 만개의레시피",
+        "developer": "만개의레시피",
+        "score": 4.798807,
+        "minInstalls": 5000000,
+        "ratings": 152177,
+        "genre": "식음료",
+        "updated": 1792973881000,
+        "titleHasKeyword": false
+      },
+      {
+        "appId": "cc.shoplink.mobile",
+        "title": "윙잇 - 세상에 없던 간편 한 끼",
+        "developer": "윙잇",
+        "score": 4.7751427,
+        "minInstalls": 1000000,
+        "ratings": 56294,
+        "genre": "식음료",
+        "updated": 1792973302000,
+        "titleHasKeyword": false
+      },
+      {
+        "appId": "kr.co.dreameut.monthfood",
+        "title": "월간푸드 - 매달 만나는 제철음식",
+        "developer": "(주)꿈꾸는이웃",
+        "score": 3.7619047,
+        "minInstalls": 100000,
+        "ratings": 1056,
+        "genre": "식음료",
+        "updated": 1793327556000,
+        "titleHasKeyword": false
+      }
+    ]
+  },
+  {
+    "category": "food",
+    "seed": "반찬",
+    "keyword": "반찬레시피",
+    "results": [
+      {
+        "appId": "com.ezhld.recipe",
+        "title": "요리백과 만개의레시피",
+        "developer": "만개의레시피",
+        "score": 4.798807,
+        "minInstalls": 5000000,
+        "ratings": 152177,
+        "genre": "식음료",
+        "updated": 1792973881000,
+        "titleHasKeyword": false
+      },
+      {
+        "appId": "woodisw.com.sumicook",
+        "title": "수미네 반찬 레시피 - 김수미 요리 반찬 레시피",
+        "developer": "WoodiSW",
+        "score": 4.64,
+        "minInstalls": 100000,
+        "ratings": 579,
+        "genre": "식음료",
+        "updated": 1704866276000,
+        "titleHasKeyword": true
+      },
+      {
+        "appId": "com.naver.soomiclass",
+        "title": "수미네 반찬 레시피 - 반찬 요리 레시피",
+        "developer": "NEXIX",
+        "score": 4.25,
+        "minInstalls": 100000,
+        "ratings": 219,
+        "genre": "식음료",
+        "updated": 1791467442000,
+        "titleHasKeyword": true
+      },
+      {
+        "appId": "woodisw.com.altrecipe",
+        "title": "알토란 레시피 - 요리 반찬 레시피",
+        "developer": "WoodiSW",
+        "score": 4.47,
+        "minInstalls": 100000,
+        "ratings": 366,
+        "genre": "식음료",
+        "updated": 1718368889000,
+        "titleHasKeyword": true
+      },
+      {
+        "appId": "com.zipbanchan.byapps",
+        "title": "집반찬연구소",
+        "developer": "SANNAMCHON",
+        "score": 2.8,
+        "minInstalls": 100000,
+        "ratings": 169,
+        "genre": "식음료",
+        "updated": 1772631250000,
+        "titleHasKeyword": false
+      },
+      {
+        "appId": "com.benefitsoft.altoran",
+        "title": "반찬 연구소 - 검증된 레시피",
+        "developer": "Defender soft",
+        "score": 3.6363637,
+        "minInstalls": 1000,
+        "ratings": 11,
+        "genre": "식음료",
+        "updated": 1692767118000,
+        "titleHasKeyword": false
+      },
+      {
+        "appId": "com.uneedcomms.jinganebanchancom",
+        "title": "진가네반찬-반찬,배달,반찬배달,반찬쇼핑몰,반찬주문",
+        "developer": "진가네",
+        "score": 4.285714,
+        "minInstalls": 10000,
+        "ratings": 14,
+        "genre": "쇼핑",
+        "updated": 1789454019000,
+        "titleHasKeyword": false
+      },
+      {
+        "appId": "com.vivivava.hemogry.app",
+        "title": "해먹으리: 유튜브·인스타 AI 레시피",
+        "developer": "VIVIVAVA",
+        "score": 4.5940595,
+        "minInstalls": 10000,
+        "ratings": 158,
+        "genre": "식음료",
+        "updated": 1793259745000,
+        "titleHasKeyword": false
+      },
+      {
+        "appId": "com.flexg.owenfood",
+        "title": "셰프애찬 - 김치 반찬 제철먹거리 산지직송 캠핑음식 몰",
+        "developer": "셰프애찬",
+        "score": 4.25,
+        "minInstalls": 100000,
+        "ratings": 88,
+        "genre": "쇼핑",
+        "updated": 1786672526000,
+        "titleHasKeyword": false
+      },
+      {
+        "appId": "com.amomong.recipe",
+        "title": "리피 - 레시피 메모, 나만의 요리책",
+        "developer": "Mocha Works",
+        "score": 4.717949,
+        "minInstalls": 1000,
+        "ratings": 39,
+        "genre": "식음료",
+        "updated": 1791118699000,
+        "titleHasKeyword": false
+      }
+    ]
+  },
+  {
+    "category": "food",
+    "seed": "반찬",
+    "keyword": "반찬배달",
+    "results": [
+      {
+        "appId": "com.uneedcomms.jinganebanchancom",
+        "title": "진가네반찬-반찬,배달,반찬배달,반찬쇼핑몰,반찬주문",
+        "developer": "진가네",
+        "score": 4.285714,
+        "minInstalls": 10000,
+        "ratings": 14,
+        "genre": "쇼핑",
+        "updated": 1789454019000,
+        "titleHasKeyword": true
+      },
+      {
+        "appId": "com.zipbanchan.byapps",
+        "title": "집반찬연구소",
+        "developer": "SANNAMCHON",
+        "score": 2.8,
+        "minInstalls": 100000,
+        "ratings": 169,
+        "genre": "식음료",
+        "updated": 1772631250000,
+        "titleHasKeyword": false
+      },
+      {
+        "appId": "com.sampleapp",
+        "title": "배달의민족",
+        "developer": "WoowaBrothers",
+        "score": 4.8163824,
+        "minInstalls": 50000000,
+        "ratings": 710381,
+        "genre": "식음료",
+        "updated": 1793050027000,
+        "titleHasKeyword": false
+      },
+      {
+        "appId": "com.flexg.owenfood",
+        "title": "셰프애찬 - 김치 반찬 제철먹거리 산지직송 캠핑음식 몰",
+        "developer": "셰프애찬",
+        "score": 4.25,
+        "minInstalls": 100000,
+        "ratings": 88,
+        "genre": "쇼핑",
+        "updated": 1786672526000,
+        "titleHasKeyword": false
+      },
+      {
+        "appId": "com.byapps.yulmama",
+        "title": "율마마반찬",
+        "developer": "율마마반찬",
+        "minInstalls": 1000,
+        "genre": "쇼핑",
+        "updated": 1787125607000,
+        "titleHasKeyword": false
+      },
+      {
+        "appId": "com.lbcontents.banchan",
+        "title": "더맛있는반찬 본점",
+        "developer": "lbcontents",
+        "score": 3.5333333,
+        "minInstalls": 10000,
+        "ratings": 15,
+        "genre": "식음료",
+        "updated": 1756703359000,
+        "titleHasKeyword": false
+      },
+      {
+        "appId": "com.fineapp.yogiyo",
+        "title": "요기요 - 배달할 때마다 포인트 적립",
+        "developer": "Wesang Co.,Ltd.",
+        "score": 4.7478585,
+        "minInstalls": 10000000,
+        "ratings": 300327,
+        "genre": "식음료",
+        "updated": 1793089145000,
+        "titleHasKeyword": false
+      },
+      {
+        "appId": "com.bcmarket",
+        "title": "반찬마켓",
+        "developer": "GODWEBS",
+        "minInstalls": 100,
+        "genre": "식음료",
+        "updated": 1712016538000,
+        "titleHasKeyword": false
+      }
+    ]
+  },
+  {
+    "category": "food",
+    "seed": "반찬",
+    "keyword": "반찬가게",
+    "results": [
+      {
+        "appId": "com.zipbanchan.byapps",
+        "title": "집반찬연구소",
+        "developer": "SANNAMCHON",
+        "score": 2.8,
+        "minInstalls": 100000,
+        "ratings": 169,
+        "genre": "식음료",
+        "updated": 1772631250000,
+        "titleHasKeyword": false
+      },
+      {
+        "appId": "com.uneedcomms.jinganebanchancom",
+        "title": "진가네반찬-반찬,배달,반찬배달,반찬쇼핑몰,반찬주문",
+        "developer": "진가네",
+        "score": 4.285714,
+        "minInstalls": 10000,
+        "ratings": 14,
+        "genre": "쇼핑",
+        "updated": 1789454019000,
+        "titleHasKeyword": false
+      },
+      {
+        "appId": "com.flexg.owenfood",
+        "title": "셰프애찬 - 김치 반찬 제철먹거리 산지직송 캠핑음식 몰",
+        "developer": "셰프애찬",
+        "score": 4.25,
+        "minInstalls": 100000,
+        "ratings": 88,
+        "genre": "쇼핑",
+        "updated": 1786672526000,
+        "titleHasKeyword": false
+      },
+      {
+        "appId": "com.byapps.yulmama",
+        "title": "율마마반찬",
+        "developer": "율마마반찬",
+        "minInstalls": 1000,
+        "genre": "쇼핑",
+        "updated": 1787125607000,
+        "titleHasKeyword": false
+      },
+      {
+        "appId": "com.lbcontents.banchan",
+        "title": "더맛있는반찬 본점",
+        "developer": "lbcontents",
+        "score": 3.5333333,
+        "minInstalls": 10000,
+        "ratings": 15,
+        "genre": "식음료",
+        "updated": 1756703359000,
+        "titleHasKeyword": false
+      },
+      {
+        "appId": "com.zigzagstudio.selly",
+        "title": "Dangol",
+        "developer": "zigzag studio",
+        "score": 4.798611,
+        "minInstalls": 50000,
+        "ratings": 1448,
+        "genre": "식음료",
+        "updated": 1790767793000,
+        "titleHasKeyword": false
+      },
+      {
+        "appId": "com.sampleapp",
+        "title": "배달의민족",
+        "developer": "WoowaBrothers",
+        "score": 4.8163824,
+        "minInstalls": 50000000,
+        "ratings": 710381,
+        "genre": "식음료",
+        "updated": 1793050027000,
+        "titleHasKeyword": false
+      },
+      {
+        "appId": "com.bcmarket",
+        "title": "반찬마켓",
+        "developer": "GODWEBS",
+        "minInstalls": 100,
+        "genre": "식음료",
+        "updated": 1712016538000,
+        "titleHasKeyword": false
+      },
+      {
+        "appId": "com.connet.nicedish2",
+        "title": "우리집반찬",
+        "developer": "(주)미디어커넷",
+        "minInstalls": 100,
+        "genre": "쇼핑",
+        "updated": 1748412164000,
+        "titleHasKeyword": false
+      },
+      {
+        "appId": "yeyak.jumun",
+        "title": "예약주문 - 떡집·반찬 주문장·작업표",
+        "developer": "chh",
+        "minInstalls": 0,
+        "genre": "비즈니스",
+        "updated": 1792709164000,
+        "titleHasKeyword": false
+      }
+    ]
+  },
+  {
+    "category": "food",
+    "seed": "반찬",
+    "keyword": "반찬해결사",
+    "results": [
+      {
+        "appId": "com.zipbanchan.byapps",
+        "title": "집반찬연구소",
+        "developer": "SANNAMCHON",
+        "score": 2.8,
+        "minInstalls": 100000,
+        "ratings": 169,
+        "genre": "식음료",
+        "updated": 1772631250000,
+        "titleHasKeyword": false
+      },
+      {
+        "appId": "com.uneedcomms.jinganebanchancom",
+        "title": "진가네반찬-반찬,배달,반찬배달,반찬쇼핑몰,반찬주문",
+        "developer": "진가네",
+        "score": 4.285714,
+        "minInstalls": 10000,
+        "ratings": 14,
+        "genre": "쇼핑",
+        "updated": 1789454019000,
+        "titleHasKeyword": false
+      },
+      {
+        "appId": "com.flexg.owenfood",
+        "title": "셰프애찬 - 김치 반찬 제철먹거리 산지직송 캠핑음식 몰",
+        "developer": "셰프애찬",
+        "score": 4.25,
+        "minInstalls": 100000,
+        "ratings": 88,
+        "genre": "쇼핑",
+        "updated": 1786672526000,
+        "titleHasKeyword": false
+      },
+      {
+        "appId": "com.lbcontents.banchan",
+        "title": "더맛있는반찬 본점",
+        "developer": "lbcontents",
+        "score": 3.5333333,
+        "minInstalls": 10000,
+        "ratings": 15,
+        "genre": "식음료",
+        "updated": 1756703359000,
+        "titleHasKeyword": false
+      },
+      {
+        "appId": "com.byapps.yulmama",
+        "title": "율마마반찬",
+        "developer": "율마마반찬",
+        "minInstalls": 1000,
+        "genre": "쇼핑",
+        "updated": 1787125607000,
+        "titleHasKeyword": false
+      },
+      {
+        "appId": "kr.co.angelinus.gift.m",
+        "title": "롯데잇츠 Lotteeatz",
+        "developer": "LOTTE GRS",
+        "score": 3.935461,
+        "minInstalls": 5000000,
+        "ratings": 15176,
+        "genre": "식음료",
+        "updated": 1792657301000,
+        "titleHasKeyword": false
+      },
+      {
+        "appId": "com.connet.nicedish2",
+        "title": "우리집반찬",
+        "developer": "(주)미디어커넷",
+        "minInstalls": 100,
+        "genre": "쇼핑",
+        "updated": 1748412164000,
+        "titleHasKeyword": false
+      },
+      {
+        "appId": "com.sampleapp",
+        "title": "배달의민족",
+        "developer": "WoowaBrothers",
+        "score": 4.8163824,
+        "minInstalls": 50000000,
+        "ratings": 710381,
+        "genre": "식음료",
+        "updated": 1793050027000,
+        "titleHasKeyword": false
+      },
+      {
+        "appId": "com.bcmarket",
+        "title": "반찬마켓",
+        "developer": "GODWEBS",
+        "minInstalls": 100,
+        "genre": "식음료",
+        "updated": 1712016538000,
+        "titleHasKeyword": false
+      },
+      {
+        "appId": "kr.co.pleasehelp",
+        "title": "해주세요 - 배달, 퀵, 청소, 이사·운반, 알바",
+        "developer": "(주)해주세요컴퍼니",
+        "score": 4.59268,
+        "minInstalls": 1000000,
+        "ratings": 8501,
+        "genre": "식음료",
+        "updated": 1787825032000,
+        "titleHasKeyword": false
+      }
+    ]
+  },
+  {
+    "category": "food",
+    "seed": "도시락",
+    "keyword": "도시락",
+    "results": [
+      {
+        "appId": "com.dosirakesim.mobileapp",
+        "title": "도시락eSIM - 해외이심 로밍 데이터 서비스",
+        "developer": "WIDEMOBILE",
+        "score": 4.8281937,
+        "minInstalls": 500000,
+        "ratings": 2161,
+        "genre": "여행 및 지역정보",
+        "updated": 1793077278000,
+        "titleHasKeyword": true
+      },
+      {
+        "appId": "com.widemobile.sink.widereserv",
+        "title": "와이파이도시락",
+        "developer": "WIDEMOBILE",
+        "score": 2.78,
+        "minInstalls": 100000,
+        "ratings": 218,
+        "genre": "여행 및 지역정보",
+        "updated": 1787014847000,
+        "titleHasKeyword": true
+      },
+      {
+        "appId": "com.boneit.android.dosirac",
+        "title": "와이파이 도시락톡",
+        "developer": "WIDEMOBILE",
+        "score": 2.78,
+        "minInstalls": 500000,
+        "ratings": 383,
+        "genre": "커뮤니케이션",
+        "updated": 1793001636000,
+        "titleHasKeyword": true
+      },
+      {
+        "appId": "kr.lunching.wooahan",
+        "title": "우아한 도시락",
+        "developer": "런칭",
+        "minInstalls": 50,
+        "genre": "식음료",
+        "updated": 1787925146000,
+        "titleHasKeyword": true
+      },
+      {
+        "appId": "studio.smallpaper.dosirak",
+        "title": "오늘의 도시락",
+        "developer": "SmallPaper",
+        "minInstalls": 10,
+        "genre": "퍼즐",
+        "updated": 1787408170000,
+        "titleHasKeyword": true
+      },
+      {
+        "appId": "com.bookcosmos.bookdosirock",
+        "title": "북도시락",
+        "developer": "북코스모스",
+        "score": 3.6,
+        "minInstalls": 5000,
+        "ratings": 10,
+        "genre": "도서/참고자료",
+        "updated": 1788226490000,
+        "titleHasKeyword": true
+      },
+      {
+        "appId": "com.solmatter.nekobento",
+        "title": "도시락 왔냥!",
+        "developer": "SOLMATTER Co., Ltd.",
+        "minInstalls": 1,
+        "genre": "퍼즐",
+        "updated": 1792134382000,
+        "titleHasKeyword": true
+      },
+      {
+        "appId": "kr.lunching.cheongnyeon",
+        "title": "청년 도시락",
+        "developer": "런칭",
+        "minInstalls": 10,
+        "genre": "식음료",
+        "updated": 1787415916000,
+        "titleHasKeyword": true
+      },
+      {
+        "appId": "kr.lunching.lunchtime",
+        "title": "런치타임 도시락",
+        "developer": "런칭",
+        "minInstalls": 100,
+        "genre": "식음료",
+        "updated": 1787744534000,
+        "titleHasKeyword": true
+      }
+    ]
+  },
+  {
+    "category": "food",
+    "seed": "도시락",
+    "keyword": "도시락esim",
+    "results": [
+      {
+        "appId": "com.dosirakesim.mobileapp",
+        "title": "도시락eSIM - 해외이심 로밍 데이터 서비스",
+        "developer": "WIDEMOBILE",
+        "score": 4.8281937,
+        "minInstalls": 500000,
+        "ratings": 2161,
+        "genre": "여행 및 지역정보",
+        "updated": 1793077278000,
+        "titleHasKeyword": false
+      },
+      {
+        "appId": "com.widemobile.sink.widereserv",
+        "title": "와이파이도시락",
+        "developer": "WIDEMOBILE",
+        "score": 2.78,
+        "minInstalls": 100000,
+        "ratings": 218,
+        "genre": "여행 및 지역정보",
+        "updated": 1787014847000,
+        "titleHasKeyword": false
+      },
+      {
+        "appId": "com.boneit.android.dosirac",
+        "title": "와이파이 도시락톡",
+        "developer": "WIDEMOBILE",
+        "score": 2.78,
+        "minInstalls": 500000,
+        "ratings": 383,
+        "genre": "커뮤니케이션",
+        "updated": 1793001636000,
+        "titleHasKeyword": false
+      },
+      {
+        "appId": "com.baycon.android.esim",
+        "title": "이심이지 eSIM - 해외여행! 로밍, 유심 대신 이심",
+        "developer": "BAYCON.INC",
+        "score": 4.955645,
+        "minInstalls": 500000,
+        "ratings": 6449,
+        "genre": "여행 및 지역정보",
+        "updated": 1785295577000,
+        "titleHasKeyword": false
+      },
+      {
+        "appId": "com.mobillium.airalo",
+        "title": "Airalo: eSIM 여행 & 인터넷",
+        "developer": "Airalo",
+        "score": 4.7,
+        "minInstalls": 10000000,
+        "ratings": 193439,
+        "genre": "여행 및 지역정보",
+        "updated": 1792142535000,
+        "titleHasKeyword": false
+      },
+      {
+        "appId": "com.rokebiesim",
+        "title": "로밍도깨비 eSIM – 데이터가 필요한 순간",
+        "developer": "Uangel Rokebi",
+        "score": 4.7940445,
+        "minInstalls": 1000000,
+        "ratings": 4109,
+        "genre": "여행 및 지역정보",
+        "updated": 1792392916000,
+        "titleHasKeyword": false
+      },
+      {
+        "appId": "com.klook",
+        "title": "클룩 KLOOK: 여행, 투어, 렌터카 예약",
+        "developer": "Klook Travel Technology Ltd.",
+        "score": 4.764209,
+        "minInstalls": 10000000,
+        "ratings": 149156,
+        "genre": "여행 및 지역정보",
+        "updated": 1792121437000,
+        "titleHasKeyword": false
+      },
+      {
+        "appId": "kr.co.millie.millieshelf",
+        "title": "밀리의 서재 - 독서와 무제한 친해지리",
+        "developer": "(주)kt 밀리의 서재",
+        "score": 4.7306705,
+        "minInstalls": 5000000,
+        "ratings": 48089,
+        "genre": "도서/참고자료",
+        "updated": 1792481043000,
+        "titleHasKeyword": false
+      },
+      {
+        "appId": "com.gigsky.gigsky",
+        "title": "eSIM & Mobile Data: GigSky",
+        "developer": "GigSky, Inc.",
+        "score": 5,
+        "minInstalls": 500000,
+        "ratings": 5635,
+        "genre": "여행 및 지역정보",
+        "updated": 1793331671000,
+        "titleHasKeyword": false
+      },
+      {
+        "appId": "com.YoStarKR.Arknights",
+        "title": "명일방주",
+        "developer": "Yostar Limited.",
+        "score": 4.345087,
+        "minInstalls": 1000000,
+        "ratings": 21317,
+        "genre": "전략",
+        "updated": 1790591745000,
+        "titleHasKeyword": false
+      }
+    ]
+  },
+  {
+    "category": "food",
+    "seed": "도시락",
+    "keyword": "도시락이심",
+    "results": [
+      {
+        "appId": "com.dosirakesim.mobileapp",
+        "title": "도시락eSIM - 해외이심 로밍 데이터 서비스",
+        "developer": "WIDEMOBILE",
+        "score": 4.8281937,
+        "minInstalls": 500000,
+        "ratings": 2161,
+        "genre": "여행 및 지역정보",
+        "updated": 1793077278000,
+        "titleHasKeyword": false
+      },
+      {
+        "appId": "com.widemobile.sink.widereserv",
+        "title": "와이파이도시락",
+        "developer": "WIDEMOBILE",
+        "score": 2.78,
+        "minInstalls": 100000,
+        "ratings": 218,
+        "genre": "여행 및 지역정보",
+        "updated": 1787014847000,
+        "titleHasKeyword": false
+      },
+      {
+        "appId": "com.baycon.android.esim",
+        "title": "이심이지 eSIM - 해외여행! 로밍, 유심 대신 이심",
+        "developer": "BAYCON.INC",
+        "score": 4.955645,
+        "minInstalls": 500000,
+        "ratings": 6449,
+        "genre": "여행 및 지역정보",
+        "updated": 1785295577000,
+        "titleHasKeyword": false
+      },
+      {
+        "appId": "com.boneit.android.dosirac",
+        "title": "와이파이 도시락톡",
+        "developer": "WIDEMOBILE",
+        "score": 2.78,
+        "minInstalls": 500000,
+        "ratings": 383,
+        "genre": "커뮤니케이션",
+        "updated": 1793001636000,
+        "titleHasKeyword": false
+      },
+      {
+        "appId": "com.mobillium.airalo",
+        "title": "Airalo: eSIM 여행 & 인터넷",
+        "developer": "Airalo",
+        "score": 4.7,
+        "minInstalls": 10000000,
+        "ratings": 193439,
+        "genre": "여행 및 지역정보",
+        "updated": 1792142535000,
+        "titleHasKeyword": false
+      },
+      {
+        "appId": "com.esimflag.apps.android.development",
+        "title": "eSimFLAG: eSIM para viajar",
+        "developer": "Movistar España",
+        "minInstalls": 100000,
+        "genre": "여행 및 지역정보",
+        "updated": 1792049599000,
+        "titleHasKeyword": false
+      },
+      {
+        "appId": "com.rokebiesim",
+        "title": "로밍도깨비 eSIM – 데이터가 필요한 순간",
+        "developer": "Uangel Rokebi",
+        "score": 4.7940445,
+        "minInstalls": 1000000,
+        "ratings": 4109,
+        "genre": "여행 및 지역정보",
+        "updated": 1792392916000,
+        "titleHasKeyword": false
+      },
+      {
+        "appId": "com.holafly.holafly",
+        "title": "Holafly eSIM: 데이터 무제한",
+        "developer": "Holafly: international eSIM",
+        "score": 4.67,
+        "minInstalls": 5000000,
+        "ratings": 96917,
+        "genre": "여행 및 지역정보",
+        "updated": 1792761193000,
+        "titleHasKeyword": false
+      },
+      {
+        "appId": "com.gigsky.gigsky",
+        "title": "eSIM & Mobile Data: GigSky",
+        "developer": "GigSky, Inc.",
+        "score": 5,
+        "minInstalls": 500000,
+        "ratings": 5635,
+        "genre": "여행 및 지역정보",
+        "updated": 1793331671000,
+        "titleHasKeyword": false
+      },
+      {
+        "appId": "com.appvillis.esim",
+        "title": "eSIM Plus:  모바일 가상 SIM",
+        "developer": "Appvillis",
+        "score": 2.7777777,
+        "minInstalls": 1000000,
+        "ratings": 4680,
+        "genre": "커뮤니케이션",
+        "updated": 1793276110000,
+        "titleHasKeyword": false
+      }
+    ]
+  },
+  {
+    "category": "food",
+    "seed": "도시락",
+    "keyword": "도시락와이파이",
+    "results": [
+      {
+        "appId": "com.widemobile.sink.widereserv",
+        "title": "와이파이도시락",
+        "developer": "WIDEMOBILE",
+        "score": 2.78,
+        "minInstalls": 100000,
+        "ratings": 218,
+        "genre": "여행 및 지역정보",
+        "updated": 1787014847000,
+        "titleHasKeyword": false
+      },
+      {
+        "appId": "com.boneit.android.dosirac",
+        "title": "와이파이 도시락톡",
+        "developer": "WIDEMOBILE",
+        "score": 2.78,
+        "minInstalls": 500000,
+        "ratings": 383,
+        "genre": "커뮤니케이션",
+        "updated": 1793001636000,
+        "titleHasKeyword": false
+      },
+      {
+        "appId": "com.dosirakesim.mobileapp",
+        "title": "도시락eSIM - 해외이심 로밍 데이터 서비스",
+        "developer": "WIDEMOBILE",
+        "score": 4.8281937,
+        "minInstalls": 500000,
+        "ratings": 2161,
+        "genre": "여행 및 지역정보",
+        "updated": 1793077278000,
+        "titleHasKeyword": false
+      },
+      {
+        "appId": "com.instabridge.android",
+        "title": "와이파이 지도 Instabridge",
+        "developer": "Instabridge Sweden AB",
+        "score": 3.9862227,
+        "minInstalls": 100000000,
+        "ratings": 4159381,
+        "genre": "생산성",
+        "updated": 1792684401000,
+        "titleHasKeyword": false
+      },
+      {
+        "appId": "io.wifimap.wifimap",
+        "title": "WiFi Map: 비밀번호 + eSIM",
+        "developer": "WiFi Map LLC",
+        "score": 4.3883495,
+        "minInstalls": 100000000,
+        "ratings": 3037408,
+        "genre": "여행 및 지역정보",
+        "updated": 1791657387000,
+        "titleHasKeyword": false
+      },
+      {
+        "appId": "com.ubnt.usurvey",
+        "title": "WiFiman",
+        "developer": "Ubiquiti Inc.",
+        "score": 4.8,
+        "minInstalls": 10000000,
+        "ratings": 323449,
+        "genre": "도구",
+        "updated": 1792095627000,
+        "titleHasKeyword": false
+      },
+      {
+        "appId": "com.netgear.netgearup",
+        "title": "NETGEAR Nighthawk WiFi Router",
+        "developer": "NETGEAR, Inc",
+        "score": 4.5416665,
+        "minInstalls": 5000000,
+        "ratings": 177066,
+        "genre": "도구",
+        "updated": 1791557787000,
+        "titleHasKeyword": false
+      },
+      {
+        "appId": "com.mobillium.airalo",
+        "title": "Airalo: eSIM 여행 & 인터넷",
+        "developer": "Airalo",
+        "score": 4.7,
+        "minInstalls": 10000000,
+        "ratings": 193439,
+        "genre": "여행 및 지역정보",
+        "updated": 1792142535000,
+        "titleHasKeyword": false
+      },
+      {
+        "appId": "com.xiaomi.router",
+        "title": "Mi Wi-Fi",
+        "developer": "Xiaomi Inc.",
+        "score": 2.18,
+        "minInstalls": 5000000,
+        "ratings": 38184,
+        "genre": "도구",
+        "updated": 1664452864000,
+        "titleHasKeyword": false
+      },
+      {
+        "appId": "com.nhn.android.nmap",
+        "title": "네이버지도 - 장소의 발견과 예약, 내비게이션",
+        "developer": "NAVER Corp.",
+        "score": 4.776863,
+        "minInstalls": 50000000,
+        "ratings": 280820,
+        "genre": "지도/내비게이션",
+        "updated": 1793196108000,
+        "titleHasKeyword": false
+      }
+    ]
+  },
+  {
+    "category": "food",
+    "seed": "도시락",
+    "keyword": "도시락톡",
+    "results": [
+      {
+        "appId": "com.boneit.android.dosirac",
+        "title": "와이파이 도시락톡",
+        "developer": "WIDEMOBILE",
+        "score": 2.78,
+        "minInstalls": 500000,
+        "ratings": 383,
+        "genre": "커뮤니케이션",
+        "updated": 1793001636000,
+        "titleHasKeyword": true
+      },
+      {
+        "appId": "com.widemobile.sink.widereserv",
+        "title": "와이파이도시락",
+        "developer": "WIDEMOBILE",
+        "score": 2.78,
+        "minInstalls": 100000,
+        "ratings": 218,
+        "genre": "여행 및 지역정보",
+        "updated": 1787014847000,
+        "titleHasKeyword": false
+      },
+      {
+        "appId": "com.dosirakesim.mobileapp",
+        "title": "도시락eSIM - 해외이심 로밍 데이터 서비스",
+        "developer": "WIDEMOBILE",
+        "score": 4.8281937,
+        "minInstalls": 500000,
+        "ratings": 2161,
+        "genre": "여행 및 지역정보",
+        "updated": 1793077278000,
+        "titleHasKeyword": false
+      },
+      {
+        "appId": "com.kakao.talk",
+        "title": "카카오톡 KakaoTalk",
+        "developer": "Kakao Corp.",
+        "score": 4.5004687,
+        "minInstalls": 100000000,
+        "ratings": 3300988,
+        "genre": "커뮤니케이션",
+        "updated": 1792658891000,
+        "titleHasKeyword": false
+      },
+      {
+        "appId": "com.hellotalk",
+        "title": "HelloTalk 헬로톡 - 영어 일본어 공부&언어교환",
+        "developer": "HelloTalk Learn Languages App",
+        "score": 3.4238806,
+        "minInstalls": 10000000,
+        "ratings": 239949,
+        "genre": "교육",
+        "updated": 1793353980000,
+        "titleHasKeyword": false
+      },
+      {
+        "appId": "com.skt.prod.dialer",
+        "title": "에이닷 전화",
+        "developer": "SKTelecom",
+        "score": 4.617408,
+        "minInstalls": 100000000,
+        "ratings": 425690,
+        "genre": "커뮤니케이션",
+        "updated": 1793091093000,
+        "titleHasKeyword": false
+      },
+      {
+        "appId": "com.coupang.mobile.eats",
+        "title": "쿠팡이츠 - 와우회원 배달비 0원",
+        "developer": "Coupang Corp.",
+        "score": 4.854815,
+        "minInstalls": 10000000,
+        "ratings": 369625,
+        "genre": "식음료",
+        "updated": 1793177308000,
+        "titleHasKeyword": false
+      },
+      {
+        "appId": "com.sampleapp",
+        "title": "배달의민족",
+        "developer": "WoowaBrothers",
+        "score": 4.8163824,
+        "minInstalls": 50000000,
+        "ratings": 710381,
+        "genre": "식음료",
+        "updated": 1793050027000,
+        "titleHasKeyword": false
+      },
+      {
+        "appId": "com.ncsoft.lineagem19",
+        "title": "리니지M",
+        "developer": "NC Corporation",
+        "score": 2.638564,
+        "minInstalls": 1000000,
+        "ratings": 84666,
+        "genre": "롤플레잉",
+        "updated": 1792376256000,
+        "titleHasKeyword": false
+      },
+      {
+        "appId": "com.nhn.android.nmap",
+        "title": "네이버지도 - 장소의 발견과 예약, 내비게이션",
+        "developer": "NAVER Corp.",
+        "score": 4.776863,
+        "minInstalls": 50000000,
+        "ratings": 280820,
+        "genre": "지도/내비게이션",
+        "updated": 1793196108000,
+        "titleHasKeyword": false
+      }
+    ]
+  },
+  {
+    "category": "food",
+    "seed": "밀키트",
+    "keyword": "밀키트",
+    "results": [
+      {
+        "appId": "com.heodakmarket.app",
+        "title": "HD마켓 - 밀키트 및 간편식 쇼핑",
+        "developer": "Fresheasy",
+        "score": 3.8055556,
+        "minInstalls": 10000,
+        "ratings": 249,
+        "genre": "쇼핑",
+        "updated": 1719213260000,
+        "titleHasKeyword": true
+      },
+      {
+        "appId": "com.seinsmart.mealkit",
+        "title": "우리동네 밀키트",
+        "developer": "세인스마트",
+        "minInstalls": 100,
+        "genre": "라이프스타일",
+        "updated": 1724589376000,
+        "titleHasKeyword": true
+      },
+      {
+        "appId": "com.dnt7.omil",
+        "title": "오밀 - 오늘의 밀키트",
+        "developer": "Dnt7Mobile",
+        "score": 4.9,
+        "minInstalls": 1000,
+        "ratings": 11,
+        "genre": "식음료",
+        "updated": 1665636583000,
+        "titleHasKeyword": true
+      },
+      {
+        "appId": "com.creator.midmeal",
+        "title": "미드밀",
+        "developer": "주식회사 미드밀",
+        "score": 4.8421054,
+        "minInstalls": 10000,
+        "ratings": 19,
+        "genre": "쇼핑",
+        "updated": 1789522702000,
+        "titleHasKeyword": false
+      },
+      {
+        "appId": "com.cookatmarket",
+        "title": "쿠캣 - 맛있는 초간편식",
+        "developer": "Cookat",
+        "score": 4.819497,
+        "minInstalls": 1000000,
+        "ratings": 26312,
+        "genre": "식음료",
+        "updated": 1787022707000,
+        "titleHasKeyword": false
+      },
+      {
+        "appId": "com.hellofresh.androidapp",
+        "title": "HelloFresh: Meal Kit & Recipes",
+        "developer": "HelloFresh SE",
+        "score": 3.9,
+        "minInstalls": 10000000,
+        "ratings": 210039,
+        "genre": "식음료",
+        "updated": 1793117133000,
+        "titleHasKeyword": false
+      },
+      {
+        "appId": "com.KIljWLGfMwbi.natively",
+        "title": "럭키밀",
+        "developer": "Monandol Company",
+        "score": 4.950413,
+        "minInstalls": 100000,
+        "ratings": 1174,
+        "genre": "식음료",
+        "updated": 1792147479000,
+        "titleHasKeyword": false
+      },
+      {
+        "appId": "com.cjfreshway.fs.freshmeal",
+        "title": "프레시밀",
+        "developer": "CJ Freshway",
+        "score": 2.7128713,
+        "minInstalls": 100000,
+        "ratings": 124,
+        "genre": "식음료",
+        "updated": 1787285433000,
+        "titleHasKeyword": false
+      },
+      {
+        "appId": "com.designmeal",
+        "title": "디자인밀",
+        "developer": "풀무원FI",
+        "score": 3.1363637,
+        "minInstalls": 10000,
+        "ratings": 23,
+        "genre": "식음료",
+        "updated": 1792999381000,
+        "titleHasKeyword": false
+      },
+      {
+        "appId": "com.everyplate.android",
+        "title": "EveryPlate: Cooking Simplified",
+        "developer": "HelloFresh SE",
+        "minInstalls": 1000000,
+        "genre": "식음료",
+        "updated": 1793117126000,
+        "titleHasKeyword": false
+      }
+    ]
+  },
+  {
+    "category": "food",
+    "seed": "밀키트",
+    "keyword": "장사의신 밀키트",
+    "results": [
+      {
+        "appId": "com.cafe24.ec.plusjooppang",
+        "title": "장신몰 - 장사의신이 만든 최저가 쇼핑몰",
+        "developer": "(주)장신컴퍼니글로벌",
+        "score": 4.63,
+        "minInstalls": 100000,
+        "ratings": 399,
+        "genre": "쇼핑",
+        "updated": 1792663267000,
+        "titleHasKeyword": false
+      },
+      {
+        "appId": "com.global.dzgkr.google",
+        "title": "갑부: 장사의 시대",
+        "developer": "BLANCOZONE NETWORK KOREA",
+        "score": 4.7677665,
+        "minInstalls": 1000000,
+        "ratings": 23628,
+        "genre": "시뮬레이션",
+        "updated": 1779415425000,
+        "titleHasKeyword": false
+      },
+      {
+        "appId": "com.uxlayer.wipoint",
+        "title": "다이소몰 – 온라인 국민가게",
+        "developer": "Asung Daiso",
+        "score": 4.829587,
+        "minInstalls": 10000000,
+        "ratings": 44831,
+        "genre": "라이프스타일",
+        "updated": 1792671672000,
+        "titleHasKeyword": false
+      },
+      {
+        "appId": "kr.rapportlabs.damoa",
+        "title": "퀸잇, 멋진 어른들의 라이프스타일링샵",
+        "developer": "라포랩스",
+        "score": 4.7093544,
+        "minInstalls": 5000000,
+        "ratings": 135132,
+        "genre": "쇼핑",
+        "updated": 1793325880000,
+        "titleHasKeyword": false
+      },
+      {
+        "appId": "com.cookapps.ShadowKnightsIdleRPG",
+        "title": "그림자 기사단 : 방치형 RPG 게임",
+        "developer": "CookApps",
+        "score": 4.2796054,
+        "minInstalls": 1000000,
+        "ratings": 24572,
+        "genre": "롤플레잉",
+        "updated": 1787794004000,
+        "titleHasKeyword": false
+      },
+      {
+        "appId": "co.jobis.szs",
+        "title": "삼쩜삼 - 세금/병원비 환급, 정부 혜택, 앱테크",
+        "developer": "JOBIS&Villains",
+        "score": 4.5438805,
+        "minInstalls": 5000000,
+        "ratings": 68010,
+        "genre": "금융",
+        "updated": 1793101135000,
+        "titleHasKeyword": false
+      },
+      {
+        "appId": "com.nexon.devcat.mm",
+        "title": "마비노기 모바일",
+        "developer": "NEXON Company",
+        "score": 2.8181067,
+        "minInstalls": 1000000,
+        "ratings": 36102,
+        "genre": "롤플레잉",
+        "updated": 1791443015000,
+        "titleHasKeyword": false
+      },
+      {
+        "appId": "com.sgra.dragon",
+        "title": "드래곤에어: 침묵의 신",
+        "developer": "Level Infinite",
+        "score": 4.3967566,
+        "minInstalls": 5000000,
+        "ratings": 377939,
+        "genre": "롤플레잉",
+        "updated": 1791881403000,
+        "titleHasKeyword": false
+      },
+      {
+        "appId": "com.cjfreshway.fs.freshmeal",
+        "title": "프레시밀",
+        "developer": "CJ Freshway",
+        "score": 2.7128713,
+        "minInstalls": 100000,
+        "ratings": 124,
+        "genre": "식음료",
+        "updated": 1787285433000,
+        "titleHasKeyword": false
+      },
+      {
+        "appId": "com.pearlabyss.blackdesertm",
+        "title": "검은사막 모바일",
+        "developer": "PEARL ABYSS",
+        "score": 4.366218,
+        "minInstalls": 1000000,
+        "ratings": 215947,
+        "genre": "롤플레잉",
+        "updated": 1792662952000,
+        "titleHasKeyword": false
+      }
+    ]
+  },
+  {
+    "category": "food",
+    "seed": "유아식",
+    "keyword": "유아식",
+    "results": [
+      {
+        "appId": "com.arin.babyfood",
+        "title": "얌플래너 – 아기 이유식·유아식 레시피 & 식단 플래너",
+        "developer": "코드래빗",
+        "score": 4.730769,
+        "minInstalls": 1000,
+        "ratings": 26,
+        "genre": "출산/육아",
+        "updated": 1789656602000,
+        "titleHasKeyword": true
+      },
+      {
+        "appId": "co.wiserapps.babyweaningsolids",
+        "title": "이유식 레시피: 아기 식단 관리",
+        "developer": "Wiserapps Software",
+        "score": 4.633333,
+        "minInstalls": 100000,
+        "ratings": 1238,
+        "genre": "출산/육아",
+        "updated": 1793090245000,
+        "titleHasKeyword": false
+      },
+      {
+        "appId": "happy.eaters.picky.baby.led.weaning.feeding.BLW.toddler.recipes.solids.meal.planner.nutrition.diet.chart",
+        "title": "Happy Eaters: Weaning Recipes",
+        "developer": "Happy Eaters: Meal Plans As Per Baby Diet Chart",
+        "minInstalls": 100000,
+        "genre": "출산/육아",
+        "updated": 1793458611000,
+        "titleHasKeyword": false
+      },
+      {
+        "appId": "kr.sknkwoxs.spoontime",
+        "title": "스푼타임 - 이유식이 쉬워진다 SpoonTime",
+        "developer": "SpoonTime Developer",
+        "score": 4.57,
+        "minInstalls": 10000,
+        "ratings": 452,
+        "genre": "출산/육아",
+        "updated": 1792125539000,
+        "titleHasKeyword": false
+      },
+      {
+        "appId": "com.hwanipapa.aisikdan",
+        "title": "아이식단 - 유아식 식단표 및 아기 반찬 기록",
+        "developer": "Lumi Dev(루미데브)",
+        "minInstalls": 50,
+        "genre": "식음료",
+        "updated": 1780726077000,
+        "titleHasKeyword": true
+      },
+      {
+        "appId": "com.linasoft.startsolids",
+        "title": "아기 이유식 기록 & BLW 가이드: Avo",
+        "developer": "Avo Parenting",
+        "minInstalls": 50000,
+        "genre": "출산/육아",
+        "updated": 1793309003000,
+        "titleHasKeyword": false
+      },
+      {
+        "appId": "com.xendevapp.firstplate",
+        "title": "First Plate: 유아식",
+        "developer": "XendevApps",
+        "minInstalls": 50,
+        "genre": "출산/육아",
+        "updated": 1793311901000,
+        "titleHasKeyword": true
+      },
+      {
+        "appId": "com.m67bf3291828.app",
+        "title": "Kids Meals: Recipes & Guides",
+        "developer": "BLW SOCIAL",
+        "minInstalls": 50000,
+        "genre": "출산/육아",
+        "updated": 1792711203000,
+        "titleHasKeyword": false
+      },
+      {
+        "appId": "com.whisperarts.erby",
+        "title": "신생아 모유 수유 일지  육아일기  Erby",
+        "developer": "Demapps LLC",
+        "score": 4.3103447,
+        "minInstalls": 1000000,
+        "ratings": 23206,
+        "genre": "출산/육아",
+        "updated": 1792671317000,
+        "titleHasKeyword": false
+      },
+      {
+        "appId": "com.yonaha.babeat.app",
+        "title": "Babeat - 이유식 큐브 & 식단 관리",
+        "developer": "Yonaha Lab",
+        "score": 5,
+        "minInstalls": 100,
+        "ratings": 8,
+        "genre": "출산/육아",
+        "updated": 1790076078000,
+        "titleHasKeyword": false
+      }
+    ]
+  },
+  {
+    "category": "food",
+    "seed": "유아식",
+    "keyword": "유아식 레시피",
+    "results": [
+      {
+        "appId": "com.arin.babyfood",
+        "title": "얌플래너 – 아기 이유식·유아식 레시피 & 식단 플래너",
+        "developer": "코드래빗",
+        "score": 4.730769,
+        "minInstalls": 1000,
+        "ratings": 26,
+        "genre": "출산/육아",
+        "updated": 1789656602000,
+        "titleHasKeyword": true
+      },
+      {
+        "appId": "com.ezhld.recipe",
+        "title": "요리백과 만개의레시피",
+        "developer": "만개의레시피",
+        "score": 4.798807,
+        "minInstalls": 5000000,
+        "ratings": 152177,
+        "genre": "식음료",
+        "updated": 1792973881000,
+        "titleHasKeyword": false
+      },
+      {
+        "appId": "com.onemoreproject.recipe",
+        "title": "냉장고 레시피북: 냉장고 파먹기·이유식 레시피",
+        "developer": "OnemoreProject",
+        "minInstalls": 5,
+        "genre": "식음료",
+        "updated": 1791779140000,
+        "titleHasKeyword": false
+      },
+      {
+        "appId": "co.wiserapps.babyweaningsolids",
+        "title": "이유식 레시피: 아기 식단 관리",
+        "developer": "Wiserapps Software",
+        "score": 4.633333,
+        "minInstalls": 100000,
+        "ratings": 1238,
+        "genre": "출산/육아",
+        "updated": 1793090245000,
+        "titleHasKeyword": false
+      },
+      {
+        "appId": "app.namnambook",
+        "title": "냠냠쩝쩝 레시피북 - 유튜브 인스타 레시피 저장",
+        "developer": "HEESOO",
+        "score": 4.876923,
+        "minInstalls": 1000,
+        "ratings": 66,
+        "genre": "식음료",
+        "updated": 1791040283000,
+        "titleHasKeyword": false
+      },
+      {
+        "appId": "cookbook.recipes.for.kids",
+        "title": "어린이 요리 건강 레시피 식단",
+        "developer": "Riafy Technologies",
+        "minInstalls": 500000,
+        "genre": "식음료",
+        "updated": 1787914338000,
+        "titleHasKeyword": false
+      },
+      {
+        "appId": "com.m67bf3291828.app",
+        "title": "Kids Meals: Recipes & Guides",
+        "developer": "BLW SOCIAL",
+        "minInstalls": 50000,
+        "genre": "출산/육아",
+        "updated": 1792711203000,
+        "titleHasKeyword": false
+      },
+      {
+        "appId": "kr.sknkwoxs.spoontime",
+        "title": "스푼타임 - 이유식이 쉬워진다 SpoonTime",
+        "developer": "SpoonTime Developer",
+        "score": 4.57,
+        "minInstalls": 10000,
+        "ratings": 452,
+        "genre": "출산/육아",
+        "updated": 1792125539000,
+        "titleHasKeyword": false
+      },
+      {
+        "appId": "happy.eaters.picky.baby.led.weaning.feeding.BLW.toddler.recipes.solids.meal.planner.nutrition.diet.chart",
+        "title": "Happy Eaters: Weaning Recipes",
+        "developer": "Happy Eaters: Meal Plans As Per Baby Diet Chart",
+        "minInstalls": 100000,
+        "genre": "출산/육아",
+        "updated": 1793458611000,
+        "titleHasKeyword": false
+      },
+      {
+        "appId": "fr.recettetek",
+        "title": "My Recipe Box: My Cookbook",
+        "developer": "CmonApp",
+        "score": 4.875,
+        "minInstalls": 1000000,
+        "ratings": 46699,
+        "genre": "식음료",
+        "updated": 1793177245000,
+        "titleHasKeyword": false
+      }
+    ]
+  },
+  {
+    "category": "food",
+    "seed": "유아식",
+    "keyword": "유아식단표",
+    "results": [
+      {
+        "appId": "com.hwanipapa.aisikdan",
+        "title": "아이식단 - 유아식 식단표 및 아기 반찬 기록",
+        "developer": "Lumi Dev(루미데브)",
+        "minInstalls": 50,
+        "genre": "식음료",
+        "updated": 1780726077000,
+        "titleHasKeyword": false
+      },
+      {
+        "appId": "com.arin.babyfood",
+        "title": "얌플래너 – 아기 이유식·유아식 레시피 & 식단 플래너",
+        "developer": "코드래빗",
+        "score": 4.730769,
+        "minInstalls": 1000,
+        "ratings": 26,
+        "genre": "출산/육아",
+        "updated": 1789656602000,
+        "titleHasKeyword": false
+      },
+      {
+        "appId": "com.odflabs.mealnote",
+        "title": "식단플래너 - 식단표, 식단 기록, 장보기, 레시피",
+        "developer": "odf.labs",
+        "minInstalls": 500,
+        "genre": "식음료",
+        "updated": 1786623914000,
+        "titleHasKeyword": false
+      },
+      {
+        "appId": "meal.planner",
+        "title": "식단표 - 주간 식단·레시피·장보기·칼로리 계산",
+        "developer": "youmealplan.com",
+        "score": 4.8,
+        "minInstalls": 1000000,
+        "ratings": 20493,
+        "genre": "식음료",
+        "updated": 1793168269000,
+        "titleHasKeyword": false
+      },
+      {
+        "appId": "co.wiserapps.babyweaningsolids",
+        "title": "이유식 레시피: 아기 식단 관리",
+        "developer": "Wiserapps Software",
+        "score": 4.633333,
+        "minInstalls": 100000,
+        "ratings": 1238,
+        "genre": "출산/육아",
+        "updated": 1793090245000,
+        "titleHasKeyword": false
+      },
+      {
+        "appId": "cookbook.recipes.for.kids",
+        "title": "어린이 요리 건강 레시피 식단",
+        "developer": "Riafy Technologies",
+        "minInstalls": 500000,
+        "genre": "식음료",
+        "updated": 1787914338000,
+        "titleHasKeyword": false
+      },
+      {
+        "appId": "com.iafan1229.daylog",
+        "title": "식단일기 - 몸무게, 식단 기록, 다이어트",
+        "developer": "Ha Young Lee",
+        "score": 4.5,
+        "minInstalls": 500,
+        "ratings": 8,
+        "genre": "라이프스타일",
+        "updated": 1792923305000,
+        "titleHasKeyword": false
+      },
+      {
+        "appId": "com.m67bf3291828.app",
+        "title": "Kids Meals: Recipes & Guides",
+        "developer": "BLW SOCIAL",
+        "minInstalls": 50000,
+        "genre": "출산/육아",
+        "updated": 1792711203000,
+        "titleHasKeyword": false
+      },
+      {
+        "appId": "com.linasoft.startsolids",
+        "title": "아기 이유식 기록 & BLW 가이드: Avo",
+        "developer": "Avo Parenting",
+        "minInstalls": 50000,
+        "genre": "출산/육아",
+        "updated": 1793309003000,
+        "titleHasKeyword": false
+      },
+      {
+        "appId": "com.toppingmate.app",
+        "title": "아기한상: 이유식 식단표",
+        "developer": "hoon82638",
+        "minInstalls": 10,
+        "genre": "출산/육아",
+        "updated": 1792641838000,
+        "titleHasKeyword": false
+      }
+    ]
+  },
+  {
+    "category": "food",
+    "seed": "유아식",
+    "keyword": "유아시계공부",
+    "results": [
+      {
+        "appId": "com.kidsclocklearning",
+        "title": "어린이 시계 공부",
+        "developer": "GeniusTools Labs",
+        "score": 3.8846154,
+        "minInstalls": 1000000,
+        "ratings": 4446,
+        "genre": "교육",
+        "updated": 1762543669000,
+        "titleHasKeyword": false
+      },
+      {
+        "appId": "com.meemu.clock",
+        "title": "시계와 시간을 배우다: 교육적인 아동용 게임 어린이게임",
+        "developer": "Meemu: Educational Learning Games for Kids age 2-5",
+        "score": 3.1,
+        "minInstalls": 100000,
+        "ratings": 258,
+        "genre": "학습",
+        "updated": 1791283924000,
+        "titleHasKeyword": false
+      },
+      {
+        "appId": "net.abe3.clock",
+        "title": "Clock Learning",
+        "developer": "abe3",
+        "score": 4.3846154,
+        "minInstalls": 1000000,
+        "ratings": 1556,
+        "genre": "교육",
+        "updated": 1789487863000,
+        "titleHasKeyword": false
+      },
+      {
+        "appId": "com.apricot.playWithClock",
+        "title": "PlayWithClock",
+        "developer": "akiapp",
+        "score": 4,
+        "minInstalls": 100000,
+        "ratings": 139,
+        "genre": "교육",
+        "updated": 1791008748000,
+        "titleHasKeyword": false
+      },
+      {
+        "appId": "com.mingoville.funclock.free",
+        "title": "Learn to tell time - Fun Clock",
+        "developer": "SAVIVO - Where Education Comes to Life",
+        "minInstalls": 100000,
+        "genre": "교육",
+        "updated": 1760002481000,
+        "titleHasKeyword": false
+      },
+      {
+        "appId": "app.kida.clock",
+        "title": "어린이를 위한 시계: 시간 발견하기",
+        "developer": "Kida Apps - Educational Apps For Kids",
+        "minInstalls": 50000,
+        "genre": "교육",
+        "updated": 1782248618000,
+        "titleHasKeyword": false
+      },
+      {
+        "appId": "com.ackad.kidsclocklearning",
+        "title": "Clock Learning",
+        "developer": "ACKAD Developer.",
+        "minInstalls": 100000,
+        "genre": "교육",
+        "updated": 1779350512000,
+        "titleHasKeyword": false
+      },
+      {
+        "appId": "com.KidsAcademy123.ClockCity",
+        "title": "Telling Time Academy",
+        "developer": "123 Kids Academy - Toddler learning games",
+        "minInstalls": 100000,
+        "genre": "교육",
+        "updated": 1792150585000,
+        "titleHasKeyword": false
+      },
+      {
+        "appId": "kr.co.smartstudy.pinkfong123numbers_android_googlemarket",
+        "title": "핑크퐁 123 숫자놀이: 어린이 따라 쓰기 게임, 공부",
+        "developer": "The Pinkfong Company",
+        "score": 4.48,
+        "minInstalls": 1000000,
+        "ratings": 3607,
+        "genre": "교육",
+        "updated": 1791253818000,
+        "titleHasKeyword": false
+      },
+      {
+        "appId": "com.aj_ted_new.KidsStudyClock",
+        "title": "게임으로 배우는 어린이 시계",
+        "developer": "AJ TED",
+        "minInstalls": 5000,
+        "genre": "교육",
+        "updated": 1785328015000,
+        "titleHasKeyword": false
+      }
+    ]
+  }
+]

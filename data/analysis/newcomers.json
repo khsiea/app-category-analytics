@@ -1,0 +1,1017 @@
+[
+  {
+    "category": "parenting",
+    "keyword": "육아",
+    "n": 10,
+    "fresh": 0,
+    "freshMaxInstalls": 0,
+    "freshMedianInstalls": 0,
+    "oldMedianInstalls": 1000000,
+    "freshTitles": []
+  },
+  {
+    "category": "parenting",
+    "keyword": "육아크루",
+    "n": 10,
+    "fresh": 1,
+    "freshMaxInstalls": 10,
+    "freshMedianInstalls": 10,
+    "oldMedianInstalls": 500000,
+    "freshTitles": [
+      "맘마 - 육아기록 어플, 수유·수(10)"
+    ]
+  },
+  {
+    "category": "parenting",
+    "keyword": "육아일기",
+    "n": 10,
+    "fresh": 2,
+    "freshMaxInstalls": 100,
+    "freshMedianInstalls": 100,
+    "oldMedianInstalls": 1000000,
+    "freshTitles": [
+      "아가노트 - 육아일기, 아기 성장(100)",
+      "마이리틀로그 - 육아일기, 아이 (10)"
+    ]
+  },
+  {
+    "category": "parenting",
+    "keyword": "육아기록",
+    "n": 10,
+    "fresh": 0,
+    "freshMaxInstalls": 0,
+    "freshMedianInstalls": 0,
+    "oldMedianInstalls": 1000000,
+    "freshTitles": []
+  },
+  {
+    "category": "parenting",
+    "keyword": "육아종합지원센터",
+    "n": 10,
+    "fresh": 0,
+    "freshMaxInstalls": 0,
+    "freshMedianInstalls": 0,
+    "oldMedianInstalls": 5000,
+    "freshTitles": []
+  },
+  {
+    "category": "parenting",
+    "keyword": "아기",
+    "n": 10,
+    "fresh": 0,
+    "freshMaxInstalls": 0,
+    "freshMedianInstalls": 0,
+    "oldMedianInstalls": 1000000,
+    "freshTitles": []
+  },
+  {
+    "category": "parenting",
+    "keyword": "아기 키우기",
+    "n": 10,
+    "fresh": 1,
+    "freshMaxInstalls": 50000,
+    "freshMedianInstalls": 50000,
+    "oldMedianInstalls": 10000000,
+    "freshTitles": [
+      "아기 돌보기 - 아기키우기 시뮬레(50000)"
+    ]
+  },
+  {
+    "category": "parenting",
+    "keyword": "아기상어",
+    "n": 10,
+    "fresh": 0,
+    "freshMaxInstalls": 0,
+    "freshMedianInstalls": 0,
+    "oldMedianInstalls": 1000000,
+    "freshTitles": []
+  },
+  {
+    "category": "parenting",
+    "keyword": "아기위젯",
+    "n": 10,
+    "fresh": 0,
+    "freshMaxInstalls": 0,
+    "freshMedianInstalls": 0,
+    "oldMedianInstalls": 1000000,
+    "freshTitles": []
+  },
+  {
+    "category": "parenting",
+    "keyword": "아기게임",
+    "n": 10,
+    "fresh": 0,
+    "freshMaxInstalls": 0,
+    "freshMedianInstalls": 0,
+    "oldMedianInstalls": 10000000,
+    "freshTitles": []
+  },
+  {
+    "category": "parenting",
+    "keyword": "임신",
+    "n": 10,
+    "fresh": 0,
+    "freshMaxInstalls": 0,
+    "freshMedianInstalls": 0,
+    "oldMedianInstalls": 1000000,
+    "freshTitles": []
+  },
+  {
+    "category": "parenting",
+    "keyword": "임신어플",
+    "n": 10,
+    "fresh": 0,
+    "freshMaxInstalls": 0,
+    "freshMedianInstalls": 0,
+    "oldMedianInstalls": 10000000,
+    "freshTitles": []
+  },
+  {
+    "category": "parenting",
+    "keyword": "임신 게임",
+    "n": 10,
+    "fresh": 2,
+    "freshMaxInstalls": 100000,
+    "freshMedianInstalls": 100000,
+    "oldMedianInstalls": 1000000,
+    "freshTitles": [
+      "Pregnant Mom Baby (10000)",
+      "Pregnant Mom : Hos(100000)"
+    ]
+  },
+  {
+    "category": "parenting",
+    "keyword": "임신 출산 게임",
+    "n": 10,
+    "fresh": 2,
+    "freshMaxInstalls": 100000,
+    "freshMedianInstalls": 100000,
+    "oldMedianInstalls": 500000,
+    "freshTitles": [
+      "Pregnant Mom Baby (10000)",
+      "Pregnant Mom : Hos(100000)"
+    ]
+  },
+  {
+    "category": "parenting",
+    "keyword": "임신육아종합포털 아이사랑",
+    "n": 10,
+    "fresh": 0,
+    "freshMaxInstalls": 0,
+    "freshMedianInstalls": 0,
+    "oldMedianInstalls": 1000000,
+    "freshTitles": []
+  },
+  {
+    "category": "parenting",
+    "keyword": "신생아",
+    "n": 10,
+    "fresh": 0,
+    "freshMaxInstalls": 0,
+    "freshMedianInstalls": 0,
+    "oldMedianInstalls": 1000000,
+    "freshTitles": []
+  },
+  {
+    "category": "parenting",
+    "keyword": "신생아어플",
+    "n": 10,
+    "fresh": 0,
+    "freshMaxInstalls": 0,
+    "freshMedianInstalls": 0,
+    "oldMedianInstalls": 1000000,
+    "freshTitles": []
+  },
+  {
+    "category": "parenting",
+    "keyword": "신생아 수유텀",
+    "n": 10,
+    "fresh": 1,
+    "freshMaxInstalls": 5,
+    "freshMedianInstalls": 5,
+    "oldMedianInstalls": 1000000,
+    "freshTitles": [
+      "식스몬: 신생아 수유·수면·기저귀(5)"
+    ]
+  },
+  {
+    "category": "parenting",
+    "keyword": "신생아 백색소음",
+    "n": 10,
+    "fresh": 2,
+    "freshMaxInstalls": 100,
+    "freshMedianInstalls": 100,
+    "oldMedianInstalls": 500000,
+    "freshTitles": [
+      "백색 소음: 아기 수면(100)",
+      "Lulla: Baby Sleep (100)"
+    ]
+  },
+  {
+    "category": "parenting",
+    "keyword": "신생아옷",
+    "n": 10,
+    "fresh": 1,
+    "freshMaxInstalls": 5000,
+    "freshMedianInstalls": 5000,
+    "oldMedianInstalls": 10000,
+    "freshTitles": [
+      "Cheap baby childre(5000)"
+    ]
+  },
+  {
+    "category": "parenting",
+    "keyword": "이유식",
+    "n": 10,
+    "fresh": 4,
+    "freshMaxInstalls": 1000,
+    "freshMedianInstalls": 500,
+    "oldMedianInstalls": 100000,
+    "freshTitles": [
+      "Babeat - 이유식 큐브 & (100)",
+      "맘마노트 - 이유식 기록·식단표·(500)",
+      "이유식 플래너(500)",
+      "얌플래너 – 아기 이유식·유아식 (1000)"
+    ]
+  },
+  {
+    "category": "parenting",
+    "keyword": "이유식계산기",
+    "n": 10,
+    "fresh": 5,
+    "freshMaxInstalls": 1000,
+    "freshMedianInstalls": 500,
+    "oldMedianInstalls": 100000,
+    "freshTitles": [
+      "얌플래너 – 아기 이유식·유아식 (1000)",
+      "Babeat - 이유식 큐브 & (100)",
+      "맘마노트 - 이유식 기록·식단표·(500)",
+      "이유식 양 계산기(10)",
+      "이유식 플래너(500)"
+    ]
+  },
+  {
+    "category": "parenting",
+    "keyword": "이유식달력",
+    "n": 10,
+    "fresh": 3,
+    "freshMaxInstalls": 1000,
+    "freshMedianInstalls": 500,
+    "oldMedianInstalls": 100000,
+    "freshTitles": [
+      "베이비 올데이: 태동·수유 기록·(500)",
+      "맘마노트 - 이유식 기록·식단표·(500)",
+      "얌플래너 – 아기 이유식·유아식 (1000)"
+    ]
+  },
+  {
+    "category": "parenting",
+    "keyword": "이유식식단표",
+    "n": 10,
+    "fresh": 5,
+    "freshMaxInstalls": 1000,
+    "freshMedianInstalls": 500,
+    "oldMedianInstalls": 10000,
+    "freshTitles": [
+      "맘마노트 - 이유식 기록·식단표·(500)",
+      "얌플래너 – 아기 이유식·유아식 (1000)",
+      "온이유식 - 초기 이유식 식단표·(10)",
+      "이유식 플래너(500)",
+      "식음표(10)"
+    ]
+  },
+  {
+    "category": "parenting",
+    "keyword": "이유식어플",
+    "n": 9,
+    "fresh": 4,
+    "freshMaxInstalls": 1000,
+    "freshMedianInstalls": 500,
+    "oldMedianInstalls": 50000,
+    "freshTitles": [
+      "이유식 플래너(500)",
+      "맘마노트 - 이유식 기록·식단표·(500)",
+      "Babeat - 이유식 큐브 & (100)",
+      "얌플래너 – 아기 이유식·유아식 (1000)"
+    ]
+  },
+  {
+    "category": "parenting",
+    "keyword": "어린이집",
+    "n": 10,
+    "fresh": 2,
+    "freshMaxInstalls": 1000,
+    "freshMedianInstalls": 1000,
+    "oldMedianInstalls": 1000000,
+    "freshTitles": [
+      "우리동네 어린이집 - 어린이집 찾(10)",
+      "꼬망세: 어린이집·유치원 교사용 (1000)"
+    ]
+  },
+  {
+    "category": "parenting",
+    "keyword": "어린이집 블랙리스트",
+    "n": 10,
+    "fresh": 0,
+    "freshMaxInstalls": 0,
+    "freshMedianInstalls": 0,
+    "oldMedianInstalls": 1000000,
+    "freshTitles": []
+  },
+  {
+    "category": "parenting",
+    "keyword": "어린이집 입소대기",
+    "n": 10,
+    "fresh": 1,
+    "freshMaxInstalls": 10,
+    "freshMedianInstalls": 10,
+    "oldMedianInstalls": 50000,
+    "freshTitles": [
+      "우리동네 어린이집 - 어린이집 찾(10)"
+    ]
+  },
+  {
+    "category": "parenting",
+    "keyword": "어린이집정보공개포털",
+    "n": 10,
+    "fresh": 3,
+    "freshMaxInstalls": 100000,
+    "freshMedianInstalls": 1000,
+    "oldMedianInstalls": 50000,
+    "freshTitles": [
+      "우리동네 어린이집 - 어린이집 찾(10)",
+      "꼬망세: 어린이집·유치원 교사용 (1000)",
+      "키즈콜2 - 학교(100000)"
+    ]
+  },
+  {
+    "category": "parenting",
+    "keyword": "어린이집 입소맵",
+    "n": 10,
+    "fresh": 3,
+    "freshMaxInstalls": 5000,
+    "freshMedianInstalls": 10,
+    "oldMedianInstalls": 1000000,
+    "freshTitles": [
+      "우리동네 어린이집 - 어린이집 찾(10)",
+      "베이비본죽 - babybonjuk(5000)",
+      "BabyKid: Family Ca(10)"
+    ]
+  },
+  {
+    "category": "parenting",
+    "keyword": "육아휴직",
+    "n": 10,
+    "fresh": 2,
+    "freshMaxInstalls": 5,
+    "freshMedianInstalls": 5,
+    "oldMedianInstalls": 50000,
+    "freshTitles": [
+      "육휴달력 - 육아휴직 급여 계산기(5)",
+      "바톤 - 맞벌이 육아휴직 교대 계(1)"
+    ]
+  },
+  {
+    "category": "parenting",
+    "keyword": "육아휴직급여신청",
+    "n": 10,
+    "fresh": 0,
+    "freshMaxInstalls": 0,
+    "freshMedianInstalls": 0,
+    "oldMedianInstalls": 1000000,
+    "freshTitles": []
+  },
+  {
+    "category": "parenting",
+    "keyword": "육아휴직계산기",
+    "n": 10,
+    "fresh": 2,
+    "freshMaxInstalls": 100,
+    "freshMedianInstalls": 100,
+    "oldMedianInstalls": 100000,
+    "freshTitles": [
+      "육휴달력 - 육아휴직 급여 계산기(5)",
+      "한국나이계산기 - 만나이, 생일알(100)"
+    ]
+  },
+  {
+    "category": "parenting",
+    "keyword": "육아휴직급여",
+    "n": 10,
+    "fresh": 1,
+    "freshMaxInstalls": 5,
+    "freshMedianInstalls": 5,
+    "oldMedianInstalls": 1000000,
+    "freshTitles": [
+      "육휴달력 - 육아휴직 급여 계산기(5)"
+    ]
+  },
+  {
+    "category": "parenting",
+    "keyword": "출산",
+    "n": 10,
+    "fresh": 0,
+    "freshMaxInstalls": 0,
+    "freshMedianInstalls": 0,
+    "oldMedianInstalls": 1000000,
+    "freshTitles": []
+  },
+  {
+    "category": "parenting",
+    "keyword": "출산게임",
+    "n": 10,
+    "fresh": 0,
+    "freshMaxInstalls": 0,
+    "freshMedianInstalls": 0,
+    "oldMedianInstalls": 500000,
+    "freshTitles": []
+  },
+  {
+    "category": "parenting",
+    "keyword": "출산어플",
+    "n": 10,
+    "fresh": 0,
+    "freshMaxInstalls": 0,
+    "freshMedianInstalls": 0,
+    "oldMedianInstalls": 1000000,
+    "freshTitles": []
+  },
+  {
+    "category": "parenting",
+    "keyword": "출산택일",
+    "n": 10,
+    "fresh": 3,
+    "freshMaxInstalls": 1000,
+    "freshMedianInstalls": 5,
+    "oldMedianInstalls": 1000000,
+    "freshTitles": [
+      "첫 선물 - 육아일기, 출산 택일(5)",
+      "천명재 - 아기 이름 점수·작명·(5)",
+      "만능만세력 - 사주, 운세, 작명(1000)"
+    ]
+  },
+  {
+    "category": "parenting",
+    "keyword": "출산 진통 게임",
+    "n": 10,
+    "fresh": 0,
+    "freshMaxInstalls": 0,
+    "freshMedianInstalls": 0,
+    "oldMedianInstalls": 1000000,
+    "freshTitles": []
+  },
+  {
+    "category": "parenting",
+    "keyword": "아이 일정",
+    "n": 10,
+    "fresh": 2,
+    "freshMaxInstalls": 5000,
+    "freshMedianInstalls": 5000,
+    "oldMedianInstalls": 5000000,
+    "freshTitles": [
+      "다다링 DADAring - 아이 (100)",
+      "아이시간 - 우리 아이 시간표 및(5000)"
+    ]
+  },
+  {
+    "category": "parenting",
+    "keyword": "육아 가계부",
+    "n": 10,
+    "fresh": 0,
+    "freshMaxInstalls": 0,
+    "freshMedianInstalls": 0,
+    "oldMedianInstalls": 500000,
+    "freshTitles": []
+  },
+  {
+    "category": "food",
+    "keyword": "레시피",
+    "n": 10,
+    "fresh": 4,
+    "freshMaxInstalls": 500000,
+    "freshMedianInstalls": 50000,
+    "oldMedianInstalls": 1000000,
+    "freshTitles": [
+      "Recipe Rush - Cook(500000)",
+      "레피타(50000)",
+      "냠냠쩝쩝 레시피북 - 유튜브 인스(1000)",
+      "레시피오 - 요리 앱·레시피 저장(10000)"
+    ]
+  },
+  {
+    "category": "food",
+    "keyword": "레시피오",
+    "n": 10,
+    "fresh": 1,
+    "freshMaxInstalls": 10000,
+    "freshMedianInstalls": 10000,
+    "oldMedianInstalls": 100000,
+    "freshTitles": [
+      "레시피오 - 요리 앱·레시피 저장(10000)"
+    ]
+  },
+  {
+    "category": "food",
+    "keyword": "레시피노트",
+    "n": 10,
+    "fresh": 3,
+    "freshMaxInstalls": 50000,
+    "freshMedianInstalls": 1000,
+    "oldMedianInstalls": 1000000,
+    "freshTitles": [
+      "리피 - 레시피 메모, 나만의 요(1000)",
+      "집밥노트 - 레시피북·식단표·냉장(50)",
+      "레피타(50000)"
+    ]
+  },
+  {
+    "category": "food",
+    "keyword": "레시피콩",
+    "n": 10,
+    "fresh": 2,
+    "freshMaxInstalls": 10000,
+    "freshMedianInstalls": 10000,
+    "oldMedianInstalls": 1000000,
+    "freshTitles": [
+      "레시피콩(10000)",
+      "냠냠쩝쩝 레시피북 - 유튜브 인스(1000)"
+    ]
+  },
+  {
+    "category": "food",
+    "keyword": "레시피북",
+    "n": 10,
+    "fresh": 4,
+    "freshMaxInstalls": 1000,
+    "freshMedianInstalls": 1000,
+    "oldMedianInstalls": 1000000,
+    "freshTitles": [
+      "냠냠쩝쩝 레시피북 - 유튜브 인스(1000)",
+      "리피 - 레시피 메모, 나만의 요(1000)",
+      "냉장고 레시피북: 냉장고 파먹기·(5)",
+      "Recipe Keeper: Che(1000)"
+    ]
+  },
+  {
+    "category": "food",
+    "keyword": "요리",
+    "n": 10,
+    "fresh": 0,
+    "freshMaxInstalls": 0,
+    "freshMedianInstalls": 0,
+    "oldMedianInstalls": 10000000,
+    "freshTitles": []
+  },
+  {
+    "category": "food",
+    "keyword": "요리게임",
+    "n": 10,
+    "fresh": 1,
+    "freshMaxInstalls": 100000,
+    "freshMedianInstalls": 100000,
+    "oldMedianInstalls": 50000000,
+    "freshTitles": [
+      "Foodie Pop!(100000)"
+    ]
+  },
+  {
+    "category": "food",
+    "keyword": "요리레시피",
+    "n": 10,
+    "fresh": 2,
+    "freshMaxInstalls": 1000,
+    "freshMedianInstalls": 1000,
+    "oldMedianInstalls": 5000000,
+    "freshTitles": [
+      "리피 - 레시피 메모, 나만의 요(1000)",
+      "요리GO: SNS 레시피 자동 정(1000)"
+    ]
+  },
+  {
+    "category": "food",
+    "keyword": "요리만들기게임",
+    "n": 10,
+    "fresh": 0,
+    "freshMaxInstalls": 0,
+    "freshMedianInstalls": 0,
+    "oldMedianInstalls": 10000000,
+    "freshTitles": []
+  },
+  {
+    "category": "food",
+    "keyword": "요리하는 게임",
+    "n": 10,
+    "fresh": 0,
+    "freshMaxInstalls": 0,
+    "freshMedianInstalls": 0,
+    "oldMedianInstalls": 10000000,
+    "freshTitles": []
+  },
+  {
+    "category": "food",
+    "keyword": "장보기",
+    "n": 10,
+    "fresh": 1,
+    "freshMaxInstalls": 10000,
+    "freshMedianInstalls": 10000,
+    "oldMedianInstalls": 10000000,
+    "freshTitles": [
+      "정리된 장보기 목록(10000)"
+    ]
+  },
+  {
+    "category": "food",
+    "keyword": "장보기메모",
+    "n": 10,
+    "fresh": 0,
+    "freshMaxInstalls": 0,
+    "freshMedianInstalls": 0,
+    "oldMedianInstalls": 10000000,
+    "freshTitles": []
+  },
+  {
+    "category": "food",
+    "keyword": "장보기리스트",
+    "n": 10,
+    "fresh": 1,
+    "freshMaxInstalls": 10000,
+    "freshMedianInstalls": 10000,
+    "oldMedianInstalls": 100000,
+    "freshTitles": [
+      "정리된 장보기 목록(10000)"
+    ]
+  },
+  {
+    "category": "food",
+    "keyword": "장보기메모장",
+    "n": 10,
+    "fresh": 1,
+    "freshMaxInstalls": 10000,
+    "freshMedianInstalls": 10000,
+    "oldMedianInstalls": 10000000,
+    "freshTitles": [
+      "정리된 장보기 목록(10000)"
+    ]
+  },
+  {
+    "category": "food",
+    "keyword": "장보기 계산",
+    "n": 10,
+    "fresh": 3,
+    "freshMaxInstalls": 10000,
+    "freshMedianInstalls": 5,
+    "oldMedianInstalls": 100000,
+    "freshTitles": [
+      "마트 계산기 - 장보기 금액 계산(5)",
+      "장보기 계산기 - SmartCar(1)",
+      "정리된 장보기 목록(10000)"
+    ]
+  },
+  {
+    "category": "food",
+    "keyword": "식단",
+    "n": 10,
+    "fresh": 0,
+    "freshMaxInstalls": 0,
+    "freshMedianInstalls": 0,
+    "oldMedianInstalls": 1000000,
+    "freshTitles": []
+  },
+  {
+    "category": "food",
+    "keyword": "식단기록",
+    "n": 10,
+    "fresh": 1,
+    "freshMaxInstalls": 500,
+    "freshMedianInstalls": 500,
+    "oldMedianInstalls": 500000,
+    "freshTitles": [
+      "식단일기 - 몸무게, 식단 기록,(500)"
+    ]
+  },
+  {
+    "category": "food",
+    "keyword": "식단표",
+    "n": 10,
+    "fresh": 2,
+    "freshMaxInstalls": 500,
+    "freshMedianInstalls": 500,
+    "oldMedianInstalls": 100000,
+    "freshTitles": [
+      "식단플래너 - 식단표, 식단 기록(500)",
+      "식단서랍 - AI 식단표·장보기 (10)"
+    ]
+  },
+  {
+    "category": "food",
+    "keyword": "식단관리",
+    "n": 10,
+    "fresh": 0,
+    "freshMaxInstalls": 0,
+    "freshMedianInstalls": 0,
+    "oldMedianInstalls": 500000,
+    "freshTitles": []
+  },
+  {
+    "category": "food",
+    "keyword": "식단일기",
+    "n": 10,
+    "fresh": 1,
+    "freshMaxInstalls": 500,
+    "freshMedianInstalls": 500,
+    "oldMedianInstalls": 500000,
+    "freshTitles": [
+      "식단일기 - 몸무게, 식단 기록,(500)"
+    ]
+  },
+  {
+    "category": "food",
+    "keyword": "냉장고",
+    "n": 10,
+    "fresh": 6,
+    "freshMaxInstalls": 10000,
+    "freshMedianInstalls": 100,
+    "oldMedianInstalls": 50000,
+    "freshTitles": [
+      "냉장고 털기 : 재료관리, AI (1000)",
+      "냉장고를 부탁해 - 냉장고 파먹기(100)",
+      "냉장고 재고 관리 - 유통기한 알(10000)",
+      "우리집 냉장고 - 유통기한·장보기(1)",
+      "냉장고 셰프 - AI 냉장고 파먹(50)",
+      "우리집 냉장고 - 유통기한 알림·(100)"
+    ]
+  },
+  {
+    "category": "food",
+    "keyword": "냉장고 정리",
+    "n": 10,
+    "fresh": 4,
+    "freshMaxInstalls": 10000,
+    "freshMedianInstalls": 1000,
+    "oldMedianInstalls": 5000000,
+    "freshTitles": [
+      "냉장고 재고 관리 - 유통기한 알(10000)",
+      "냉장고 털기 : 재료관리, AI (1000)",
+      "우리집 냉장고 - 유통기한·장보기(1)",
+      "우리집 냉장고 - 유통기한 알림·(100)"
+    ]
+  },
+  {
+    "category": "food",
+    "keyword": "냉장고 관리",
+    "n": 10,
+    "fresh": 5,
+    "freshMaxInstalls": 10000,
+    "freshMedianInstalls": 100,
+    "oldMedianInstalls": 1000,
+    "freshTitles": [
+      "냉장고 털기 : 재료관리, AI (1000)",
+      "냉장고 재고 관리 - 유통기한 알(10000)",
+      "우리집 냉장고 - 유통기한·장보기(1)",
+      "우리집 냉장고 - 유통기한 알림·(100)",
+      "냉장고를 부탁해 - 냉장고 파먹기(100)"
+    ]
+  },
+  {
+    "category": "food",
+    "keyword": "냉장고파먹기",
+    "n": 10,
+    "fresh": 4,
+    "freshMaxInstalls": 1000,
+    "freshMedianInstalls": 500,
+    "oldMedianInstalls": 10000,
+    "freshTitles": [
+      "Cookly - 냉장고 파먹기 식(500)",
+      "요리GO: SNS 레시피 자동 정(1000)",
+      "쿡매치 - 냉장고 재료로 레시피 (10)",
+      "Fridgi: Recipe & M(500)"
+    ]
+  },
+  {
+    "category": "food",
+    "keyword": "냉장고 재고관리",
+    "n": 10,
+    "fresh": 5,
+    "freshMaxInstalls": 10000,
+    "freshMedianInstalls": 1000,
+    "oldMedianInstalls": 10000,
+    "freshTitles": [
+      "냉장고 재고 관리 - 유통기한 알(10000)",
+      "냉장고 털기 : 재료관리, AI (1000)",
+      "Fridgeline 냉장고 재고 (5)",
+      "트레이고 - 초간단 재고관리(1000)",
+      "우리집 냉장고 - 유통기한 알림·(100)"
+    ]
+  },
+  {
+    "category": "food",
+    "keyword": "식비",
+    "n": 10,
+    "fresh": 3,
+    "freshMaxInstalls": 500,
+    "freshMedianInstalls": 10,
+    "oldMedianInstalls": 50000,
+    "freshTitles": [
+      "Cookly - 냉장고 파먹기 식(500)",
+      "식비절약 - 식절완(10)",
+      "한끼한줄 - 식단일기, 식비 가계(1)"
+    ]
+  },
+  {
+    "category": "food",
+    "keyword": "식비가계부",
+    "n": 10,
+    "fresh": 0,
+    "freshMaxInstalls": 0,
+    "freshMedianInstalls": 0,
+    "oldMedianInstalls": 100000,
+    "freshTitles": []
+  },
+  {
+    "category": "food",
+    "keyword": "반찬",
+    "n": 10,
+    "fresh": 0,
+    "freshMaxInstalls": 0,
+    "freshMedianInstalls": 0,
+    "oldMedianInstalls": 100000,
+    "freshTitles": []
+  },
+  {
+    "category": "food",
+    "keyword": "반찬레시피",
+    "n": 10,
+    "fresh": 1,
+    "freshMaxInstalls": 1000,
+    "freshMedianInstalls": 1000,
+    "oldMedianInstalls": 100000,
+    "freshTitles": [
+      "리피 - 레시피 메모, 나만의 요(1000)"
+    ]
+  },
+  {
+    "category": "food",
+    "keyword": "반찬배달",
+    "n": 8,
+    "fresh": 0,
+    "freshMaxInstalls": 0,
+    "freshMedianInstalls": 0,
+    "oldMedianInstalls": 100000,
+    "freshTitles": []
+  },
+  {
+    "category": "food",
+    "keyword": "반찬가게",
+    "n": 10,
+    "fresh": 1,
+    "freshMaxInstalls": 0,
+    "freshMedianInstalls": 0,
+    "oldMedianInstalls": 10000,
+    "freshTitles": [
+      "예약주문 - 떡집·반찬 주문장·작(0)"
+    ]
+  },
+  {
+    "category": "food",
+    "keyword": "반찬해결사",
+    "n": 10,
+    "fresh": 0,
+    "freshMaxInstalls": 0,
+    "freshMedianInstalls": 0,
+    "oldMedianInstalls": 100000,
+    "freshTitles": []
+  },
+  {
+    "category": "food",
+    "keyword": "도시락",
+    "n": 9,
+    "fresh": 5,
+    "freshMaxInstalls": 100,
+    "freshMedianInstalls": 10,
+    "oldMedianInstalls": 500000,
+    "freshTitles": [
+      "우아한 도시락(50)",
+      "오늘의 도시락(10)",
+      "도시락 왔냥!(1)",
+      "청년 도시락(10)",
+      "런치타임 도시락(100)"
+    ]
+  },
+  {
+    "category": "food",
+    "keyword": "도시락esim",
+    "n": 10,
+    "fresh": 0,
+    "freshMaxInstalls": 0,
+    "freshMedianInstalls": 0,
+    "oldMedianInstalls": 1000000,
+    "freshTitles": []
+  },
+  {
+    "category": "food",
+    "keyword": "도시락이심",
+    "n": 10,
+    "fresh": 0,
+    "freshMaxInstalls": 0,
+    "freshMedianInstalls": 0,
+    "oldMedianInstalls": 500000,
+    "freshTitles": []
+  },
+  {
+    "category": "food",
+    "keyword": "도시락와이파이",
+    "n": 10,
+    "fresh": 0,
+    "freshMaxInstalls": 0,
+    "freshMedianInstalls": 0,
+    "oldMedianInstalls": 10000000,
+    "freshTitles": []
+  },
+  {
+    "category": "food",
+    "keyword": "도시락톡",
+    "n": 10,
+    "fresh": 0,
+    "freshMaxInstalls": 0,
+    "freshMedianInstalls": 0,
+    "oldMedianInstalls": 10000000,
+    "freshTitles": []
+  },
+  {
+    "category": "food",
+    "keyword": "밀키트",
+    "n": 10,
+    "fresh": 0,
+    "freshMaxInstalls": 0,
+    "freshMedianInstalls": 0,
+    "oldMedianInstalls": 100000,
+    "freshTitles": []
+  },
+  {
+    "category": "food",
+    "keyword": "장사의신 밀키트",
+    "n": 10,
+    "fresh": 1,
+    "freshMaxInstalls": 100000,
+    "freshMedianInstalls": 100000,
+    "oldMedianInstalls": 1000000,
+    "freshTitles": [
+      "장신몰 - 장사의신이 만든 최저가(100000)"
+    ]
+  },
+  {
+    "category": "food",
+    "keyword": "유아식",
+    "n": 10,
+    "fresh": 4,
+    "freshMaxInstalls": 1000,
+    "freshMedianInstalls": 100,
+    "oldMedianInstalls": 100000,
+    "freshTitles": [
+      "얌플래너 – 아기 이유식·유아식 (1000)",
+      "아이식단 - 유아식 식단표 및 아(50)",
+      "First Plate: 유아식(50)",
+      "Babeat - 이유식 큐브 & (100)"
+    ]
+  },
+  {
+    "category": "food",
+    "keyword": "유아식 레시피",
+    "n": 10,
+    "fresh": 3,
+    "freshMaxInstalls": 1000,
+    "freshMedianInstalls": 1000,
+    "oldMedianInstalls": 100000,
+    "freshTitles": [
+      "얌플래너 – 아기 이유식·유아식 (1000)",
+      "냉장고 레시피북: 냉장고 파먹기·(5)",
+      "냠냠쩝쩝 레시피북 - 유튜브 인스(1000)"
+    ]
+  },
+  {
+    "category": "food",
+    "keyword": "유아식단표",
+    "n": 10,
+    "fresh": 5,
+    "freshMaxInstalls": 1000,
+    "freshMedianInstalls": 500,
+    "oldMedianInstalls": 100000,
+    "freshTitles": [
+      "아이식단 - 유아식 식단표 및 아(50)",
+      "얌플래너 – 아기 이유식·유아식 (1000)",
+      "식단플래너 - 식단표, 식단 기록(500)",
+      "식단일기 - 몸무게, 식단 기록,(500)",
+      "아기한상: 이유식 식단표(10)"
+    ]
+  },
+  {
+    "category": "food",
+    "keyword": "유아시계공부",
+    "n": 10,
+    "fresh": 0,
+    "freshMaxInstalls": 0,
+    "freshMedianInstalls": 0,
+    "oldMedianInstalls": 100000,
+    "freshTitles": []
+  }
+]

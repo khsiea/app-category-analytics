@@ -1,0 +1,27 @@
+{
+  "name": "app-category-analytics",
+  "version": "1.0.0",
+  "description": "앱 카테고리 기회 분석: 스토어 순위·리뷰·키워드 수집과 불만 분석",
+  "scripts": {
+    "collect": "NODE_USE_ENV_PROXY=1 NODE_EXTRA_CA_CERTS=${NODE_EXTRA_CA_CERTS:-/root/.ccr/ca-bundle.crt} tsx src/collect.ts",
+    "analyze": "tsx src/analyze.ts",
+    "typecheck": "tsc",
+    "collect:niche": "NODE_USE_ENV_PROXY=1 NODE_EXTRA_CA_CERTS=${NODE_EXTRA_CA_CERTS:-/root/.ccr/ca-bundle.crt} tsx src/collect-niche.ts"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/khsiea/app-category-analytics.git"
+  },
+  "bugs": {
+    "url": "https://github.com/khsiea/app-category-analytics/issues"
+  },
+  "homepage": "https://github.com/khsiea/app-category-analytics#readme",
+  "dependencies": {
+    "@types/node": "^26.6.6",
+    "google-play-scraper": "^10.1.4",
+    "tsx": "^4.23.15",
+    "typescript": "^7.0.2"
+  },
+  "private": true,
+  "type": "module"
+}

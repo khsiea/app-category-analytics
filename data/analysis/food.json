@@ -1,0 +1,2411 @@
+{
+  "category": "food",
+  "segments": [
+    {
+      "segment": "기타",
+      "gplayFree": 47,
+      "gplayGrossing": 0,
+      "appleFree": 37,
+      "appleGrossing": 45,
+      "gplayFreeTop30": 1,
+      "appleGrossingTop30": 3,
+      "gplayGrossingTop30": 0,
+      "apps": [
+        "후라이드참잘하는집",
+        "윙잇 - 세상에 없던 간편 한 끼",
+        "해피오더",
+        "성심당 멤버십",
+        "바나프레소",
+        "MEITUAN"
+      ],
+      "installsSum": 138555000
+    },
+    {
+      "segment": "프랜차이즈 자체앱",
+      "gplayFree": 28,
+      "gplayGrossing": 0,
+      "appleFree": 43,
+      "appleGrossing": 2,
+      "gplayFreeTop30": 16,
+      "appleGrossingTop30": 1,
+      "gplayGrossingTop30": 0,
+      "apps": [
+        "배스킨라빈스",
+        "교촌치킨",
+        "bhc 치킨 - Tasty, Crispy, Juicy!",
+        "버거킹 - 햄버거 킹오더·딜리버리",
+        "컴포즈커피",
+        "BBQ 치킨"
+      ],
+      "installsSum": 28170000
+    },
+    {
+      "segment": "배달 플랫폼",
+      "gplayFree": 8,
+      "gplayGrossing": 0,
+      "appleFree": 7,
+      "appleGrossing": 0,
+      "gplayFreeTop30": 6,
+      "appleGrossingTop30": 0,
+      "gplayGrossingTop30": 0,
+      "apps": [
+        "쿠팡이츠 - 와우회원 배달비 0원",
+        "배달의민족",
+        "땡겨요",
+        "요기요 - 배달할 때마다 포인트 적립",
+        "먹깨비 - 공공배달앱 선두주자",
+        "배달K: 동남아에서도 맛집 배달"
+      ],
+      "installsSum": 177100000
+    },
+    {
+      "segment": "예약·웨이팅·맛집",
+      "gplayFree": 7,
+      "gplayGrossing": 0,
+      "appleFree": 7,
+      "appleGrossing": 0,
+      "gplayFreeTop30": 4,
+      "appleGrossingTop30": 0,
+      "gplayGrossingTop30": 0,
+      "apps": [
+        "캐치테이블",
+        "타베로그 Tabelog - 일본 현지 맛집 찾기",
+        "테이블링",
+        "거지맵 - 가성비 식당·쇼핑적립·앱테크",
+        "미미테이블: 전세계 맛집 예약",
+        "먹방 로드 - 유튜버 맛집 지도"
+      ],
+      "installsSum": 12250000
+    },
+    {
+      "segment": "주류·와인",
+      "gplayFree": 4,
+      "gplayGrossing": 0,
+      "appleFree": 3,
+      "appleGrossing": 17,
+      "gplayFreeTop30": 1,
+      "appleGrossingTop30": 11,
+      "gplayGrossingTop30": 0,
+      "apps": [
+        "데일리샷 - 위스키·와인·맥주 주류 스마트오더 앱",
+        "와인디스커버리",
+        "키햐 - 위스키·와인·사케·전통주 쇼핑",
+        "Vivino: Drink the Right Wine",
+        "Vivino: Drink The Right Wine",
+        "와인앤모어 - WINE&MORE"
+      ],
+      "installsSum": 11060000
+    },
+    {
+      "segment": "장보기·식비",
+      "gplayFree": 2,
+      "gplayGrossing": 0,
+      "appleFree": 1,
+      "appleGrossing": 0,
+      "gplayFreeTop30": 1,
+      "appleGrossingTop30": 0,
+      "gplayGrossingTop30": 0,
+      "apps": [
+        "팔도감 - 4060 제철먹거리 장보기앱",
+        "핵이득마켓",
+        "팔도감 - 제철먹거리 장보기앱"
+      ],
+      "installsSum": 1100000
+    },
+    {
+      "segment": "레시피 콘텐츠",
+      "gplayFree": 2,
+      "gplayGrossing": 0,
+      "appleFree": 1,
+      "appleGrossing": 22,
+      "gplayFreeTop30": 0,
+      "appleGrossingTop30": 8,
+      "gplayGrossingTop30": 0,
+      "apps": [
+        "요리백과 만개의레시피",
+        "우리의식탁 - 요리를 스타일하다",
+        "요리백과 - 만개의 레시피",
+        "Gronda: Recipes for Chefs",
+        "レシピはクックパッド -No1節約料理や献立の検索アプリ",
+        "Eatr: 식단 관리·다이어트 건강 레시피&칼로리 기록"
+      ],
+      "installsSum": 6000000
+    },
+    {
+      "segment": "레시피 저장·정리(SNS→레시피)",
+      "gplayFree": 1,
+      "gplayGrossing": 0,
+      "appleFree": 1,
+      "appleGrossing": 6,
+      "gplayFreeTop30": 1,
+      "appleGrossingTop30": 5,
+      "gplayGrossingTop30": 0,
+      "apps": [
+        "해먹으리: 유튜브·인스타 AI 레시피",
+        "해먹으리 - AI가 SNS 요리 영상을 레시피로!",
+        "Paprika Recipe Manager 3",
+        "CookGo: 쉬운 레시피 가져오기",
+        "냠냠쩝쩝 레시피북 - 유튜브 인스타 레시피 정리",
+        "레시피 저장 & Meal Planner: ReciMe"
+      ],
+      "installsSum": 10000
+    },
+    {
+      "segment": "식단·칼로리·다이어트",
+      "gplayFree": 1,
+      "gplayGrossing": 0,
+      "appleFree": 0,
+      "appleGrossing": 2,
+      "gplayFreeTop30": 0,
+      "appleGrossingTop30": 1,
+      "gplayGrossingTop30": 0,
+      "apps": [
+        "식단착착 - 식단기록, 식단인증, 식단표",
+        "Noms - 음식 다이어리 & 기록",
+        "먹고 마시고 - 소소한 식단일기"
+      ],
+      "installsSum": 50000
+    },
+    {
+      "segment": "이유식·유아식",
+      "gplayFree": 0,
+      "gplayGrossing": 0,
+      "appleFree": 0,
+      "appleGrossing": 2,
+      "gplayFreeTop30": 0,
+      "appleGrossingTop30": 1,
+      "gplayGrossingTop30": 0,
+      "apps": [
+        "Baby Plates",
+        "냠냠일기 - 아기 이유식 기록"
+      ],
+      "installsSum": 0
+    },
+    {
+      "segment": "냉장고·재고 관리",
+      "gplayFree": 0,
+      "gplayGrossing": 0,
+      "appleFree": 0,
+      "appleGrossing": 4,
+      "gplayFreeTop30": 0,
+      "appleGrossingTop30": 0,
+      "gplayGrossingTop30": 0,
+      "apps": [
+        "냉장고 털기 : AI 재료 관리부터 냉장고 파먹기까지",
+        "우리집냉장고 - 유통기한 알림·가족 식단표",
+        "햄찌네 냉장고",
+        "Pantry - 재고·유통기한·팬트리"
+      ],
+      "installsSum": 0
+    }
+  ],
+  "segReviewStats": [
+    {
+      "segment": "프랜차이즈 자체앱",
+      "apps": 15,
+      "n": 7111,
+      "low": 5099,
+      "wish": 483,
+      "complaints": {
+        "로그인·계정": 828,
+        "오류·버그·속도": 1885,
+        "주문·배달·쿠폰": 2074,
+        "결제·구독·가격": 642,
+        "개인정보·권한": 65,
+        "광고": 96,
+        "사용성·UI": 454,
+        "정보 부족·부정확": 18,
+        "알림": 77,
+        "고객지원": 175,
+        "데이터 유실·동기화": 122,
+        "업데이트 후 악화": 251
+      },
+      "lowPct": 71.7,
+      "wishPct": 6.8,
+      "topComplaints": [
+        "주문·배달·쿠폰 40.7%",
+        "오류·버그·속도 37%",
+        "로그인·계정 16.2%",
+        "결제·구독·가격 12.6%"
+      ]
+    },
+    {
+      "segment": "배달 플랫폼",
+      "apps": 5,
+      "n": 2459,
+      "low": 837,
+      "wish": 140,
+      "complaints": {
+        "오류·버그·속도": 163,
+        "주문·배달·쿠폰": 475,
+        "결제·구독·가격": 145,
+        "로그인·계정": 39,
+        "개인정보·권한": 11,
+        "광고": 52,
+        "정보 부족·부정확": 4,
+        "고객지원": 100,
+        "사용성·UI": 51,
+        "알림": 19,
+        "데이터 유실·동기화": 5,
+        "업데이트 후 악화": 6
+      },
+      "lowPct": 34,
+      "wishPct": 5.7,
+      "topComplaints": [
+        "주문·배달·쿠폰 56.8%",
+        "오류·버그·속도 19.5%",
+        "결제·구독·가격 17.3%",
+        "고객지원 11.9%"
+      ]
+    },
+    {
+      "segment": "예약·웨이팅·맛집",
+      "apps": 6,
+      "n": 1953,
+      "low": 895,
+      "wish": 119,
+      "complaints": {
+        "결제·구독·가격": 88,
+        "로그인·계정": 166,
+        "사용성·UI": 74,
+        "오류·버그·속도": 218,
+        "주문·배달·쿠폰": 85,
+        "알림": 72,
+        "데이터 유실·동기화": 9,
+        "고객지원": 33,
+        "광고": 32,
+        "개인정보·권한": 15,
+        "업데이트 후 악화": 14,
+        "정보 부족·부정확": 2
+      },
+      "lowPct": 45.8,
+      "wishPct": 6.1,
+      "topComplaints": [
+        "오류·버그·속도 24.4%",
+        "로그인·계정 18.5%",
+        "결제·구독·가격 9.8%",
+        "주문·배달·쿠폰 9.5%"
+      ]
+    },
+    {
+      "segment": "장보기·식비",
+      "apps": 10,
+      "n": 1203,
+      "low": 176,
+      "wish": 116,
+      "complaints": {
+        "광고": 16,
+        "로그인·계정": 12,
+        "사용성·UI": 12,
+        "오류·버그·속도": 64,
+        "결제·구독·가격": 36,
+        "알림": 10,
+        "고객지원": 13,
+        "정보 부족·부정확": 1,
+        "데이터 유실·동기화": 7,
+        "업데이트 후 악화": 3,
+        "주문·배달·쿠폰": 34,
+        "개인정보·권한": 2
+      },
+      "lowPct": 14.6,
+      "wishPct": 9.6,
+      "topComplaints": [
+        "오류·버그·속도 36.4%",
+        "결제·구독·가격 20.5%",
+        "주문·배달·쿠폰 19.3%",
+        "광고 9.1%"
+      ]
+    },
+    {
+      "segment": "주류·와인",
+      "apps": 3,
+      "n": 686,
+      "low": 119,
+      "wish": 36,
+      "complaints": {
+        "로그인·계정": 5,
+        "주문·배달·쿠폰": 20,
+        "광고": 21,
+        "사용성·UI": 10,
+        "고객지원": 5,
+        "오류·버그·속도": 18,
+        "결제·구독·가격": 13,
+        "알림": 2,
+        "업데이트 후 악화": 2,
+        "데이터 유실·동기화": 3
+      },
+      "lowPct": 17.3,
+      "wishPct": 5.2,
+      "topComplaints": [
+        "광고 17.6%",
+        "주문·배달·쿠폰 16.8%",
+        "오류·버그·속도 15.1%",
+        "결제·구독·가격 10.9%"
+      ]
+    },
+    {
+      "segment": "레시피 콘텐츠",
+      "apps": 10,
+      "n": 626,
+      "low": 73,
+      "wish": 57,
+      "complaints": {
+        "오류·버그·속도": 15,
+        "업데이트 후 악화": 5,
+        "광고": 12,
+        "데이터 유실·동기화": 4,
+        "로그인·계정": 8,
+        "주문·배달·쿠폰": 2,
+        "고객지원": 1,
+        "사용성·UI": 5,
+        "결제·구독·가격": 7
+      },
+      "lowPct": 11.7,
+      "wishPct": 9.1,
+      "topComplaints": [
+        "오류·버그·속도 20.5%",
+        "광고 16.4%",
+        "로그인·계정 11%",
+        "결제·구독·가격 9.6%"
+      ]
+    },
+    {
+      "segment": "식단·칼로리·다이어트",
+      "apps": 2,
+      "n": 483,
+      "low": 33,
+      "wish": 79,
+      "complaints": {
+        "광고": 9,
+        "결제·구독·가격": 7,
+        "데이터 유실·동기화": 6,
+        "사용성·UI": 1,
+        "오류·버그·속도": 3,
+        "업데이트 후 악화": 1,
+        "고객지원": 1,
+        "로그인·계정": 1
+      },
+      "lowPct": 6.8,
+      "wishPct": 16.4,
+      "topComplaints": [
+        "광고 27.3%",
+        "결제·구독·가격 21.2%",
+        "데이터 유실·동기화 18.2%",
+        "오류·버그·속도 9.1%"
+      ]
+    },
+    {
+      "segment": "이유식·유아식",
+      "apps": 1,
+      "n": 395,
+      "low": 34,
+      "wish": 20,
+      "complaints": {
+        "오류·버그·속도": 17,
+        "로그인·계정": 9,
+        "사용성·UI": 3,
+        "고객지원": 2,
+        "데이터 유실·동기화": 2
+      },
+      "lowPct": 8.6,
+      "wishPct": 5.1,
+      "topComplaints": [
+        "오류·버그·속도 50%",
+        "로그인·계정 26.5%",
+        "사용성·UI 8.8%",
+        "고객지원 5.9%"
+      ]
+    },
+    {
+      "segment": "냉장고·재고 관리",
+      "apps": 3,
+      "n": 171,
+      "low": 28,
+      "wish": 64,
+      "complaints": {
+        "오류·버그·속도": 8,
+        "데이터 유실·동기화": 1,
+        "알림": 1,
+        "광고": 7,
+        "결제·구독·가격": 3,
+        "고객지원": 1,
+        "로그인·계정": 2,
+        "사용성·UI": 3
+      },
+      "lowPct": 16.4,
+      "wishPct": 37.4,
+      "topComplaints": [
+        "오류·버그·속도 28.6%",
+        "광고 25%",
+        "결제·구독·가격 10.7%",
+        "사용성·UI 10.7%"
+      ]
+    },
+    {
+      "segment": "레시피 저장·정리(SNS→레시피)",
+      "apps": 8,
+      "n": 163,
+      "low": 58,
+      "wish": 15,
+      "complaints": {
+        "오류·버그·속도": 20,
+        "업데이트 후 악화": 2,
+        "로그인·계정": 7,
+        "사용성·UI": 4,
+        "광고": 1,
+        "알림": 1,
+        "데이터 유실·동기화": 2,
+        "고객지원": 1,
+        "결제·구독·가격": 1
+      },
+      "lowPct": 35.6,
+      "wishPct": 9.2,
+      "topComplaints": [
+        "오류·버그·속도 34.5%",
+        "로그인·계정 12.1%",
+        "사용성·UI 6.9%",
+        "업데이트 후 악화 3.4%"
+      ]
+    },
+    {
+      "segment": "기타",
+      "apps": 2,
+      "n": 72,
+      "low": 29,
+      "wish": 2,
+      "complaints": {
+        "주문·배달·쿠폰": 21,
+        "오류·버그·속도": 7,
+        "결제·구독·가격": 8,
+        "사용성·UI": 2,
+        "광고": 3,
+        "고객지원": 1,
+        "로그인·계정": 1
+      },
+      "lowPct": 40.3,
+      "wishPct": 2.8,
+      "topComplaints": [
+        "주문·배달·쿠폰 72.4%",
+        "결제·구독·가격 27.6%",
+        "오류·버그·속도 24.1%",
+        "광고 10.3%"
+      ]
+    }
+  ],
+  "appStats": [
+    {
+      "store": "gplay",
+      "appId": "kr.co.genesiskorea.bbqchicken",
+      "title": "BBQ 치킨",
+      "segment": "프랜차이즈 자체앱",
+      "n": 592,
+      "low": 153,
+      "wish": 31,
+      "complaints": {
+        "로그인·계정": 16,
+        "오류·버그·속도": 41,
+        "주문·배달·쿠폰": 102,
+        "결제·구독·가격": 28,
+        "개인정보·권한": 2,
+        "광고": 4,
+        "사용성·UI": 6,
+        "정보 부족·부정확": 1,
+        "알림": 2,
+        "고객지원": 4,
+        "데이터 유실·동기화": 2
+      },
+      "lowPct": 25.8,
+      "wishPct": 5.2
+    },
+    {
+      "store": "gplay",
+      "appId": "com.org.yakult",
+      "title": "hy프레딧",
+      "segment": "프랜차이즈 자체앱",
+      "n": 573,
+      "low": 424,
+      "wish": 52,
+      "complaints": {
+        "로그인·계정": 84,
+        "주문·배달·쿠폰": 112,
+        "알림": 6,
+        "고객지원": 20,
+        "오류·버그·속도": 192,
+        "사용성·UI": 57,
+        "개인정보·권한": 9,
+        "결제·구독·가격": 41,
+        "업데이트 후 악화": 23,
+        "데이터 유실·동기화": 12,
+        "광고": 8,
+        "정보 부족·부정확": 5
+      },
+      "lowPct": 74,
+      "wishPct": 9.1
+    },
+    {
+      "store": "gplay",
+      "appId": "ci.dvn.composecoffee.app",
+      "title": "컴포즈커피",
+      "segment": "프랜차이즈 자체앱",
+      "n": 571,
+      "low": 465,
+      "wish": 48,
+      "complaints": {
+        "업데이트 후 악화": 27,
+        "주문·배달·쿠폰": 203,
+        "사용성·UI": 50,
+        "로그인·계정": 74,
+        "데이터 유실·동기화": 44,
+        "오류·버그·속도": 143,
+        "고객지원": 20,
+        "결제·구독·가격": 35,
+        "광고": 4,
+        "개인정보·권한": 8,
+        "알림": 7,
+        "정보 부족·부정확": 4
+      },
+      "lowPct": 81.4,
+      "wishPct": 8.4
+    },
+    {
+      "store": "gplay",
+      "appId": "com.order.kyochonchicken",
+      "title": "교촌치킨",
+      "segment": "프랜차이즈 자체앱",
+      "n": 560,
+      "low": 460,
+      "wish": 25,
+      "complaints": {
+        "업데이트 후 악화": 27,
+        "주문·배달·쿠폰": 221,
+        "사용성·UI": 55,
+        "고객지원": 15,
+        "결제·구독·가격": 83,
+        "오류·버그·속도": 126,
+        "로그인·계정": 39,
+        "데이터 유실·동기화": 6,
+        "알림": 12,
+        "개인정보·권한": 5,
+        "광고": 1
+      },
+      "lowPct": 82.1,
+      "wishPct": 4.5
+    },
+    {
+      "store": "gplay",
+      "appId": "kr.co.burgerkinghybrid",
+      "title": "버거킹 - 햄버거 킹오더·딜리버리",
+      "segment": "프랜차이즈 자체앱",
+      "n": 555,
+      "low": 454,
+      "wish": 38,
+      "complaints": {
+        "오류·버그·속도": 116,
+        "로그인·계정": 38,
+        "결제·구독·가격": 41,
+        "주문·배달·쿠폰": 183,
+        "사용성·UI": 18,
+        "개인정보·권한": 5,
+        "고객지원": 13,
+        "알림": 4,
+        "광고": 32,
+        "업데이트 후 악화": 7,
+        "정보 부족·부정확": 1,
+        "데이터 유실·동기화": 1
+      },
+      "lowPct": 81.8,
+      "wishPct": 6.8
+    },
+    {
+      "store": "gplay",
+      "appId": "kr.co.baskinrobbins.client",
+      "title": "배스킨라빈스",
+      "segment": "프랜차이즈 자체앱",
+      "n": 554,
+      "low": 403,
+      "wish": 22,
+      "complaints": {
+        "결제·구독·가격": 37,
+        "로그인·계정": 110,
+        "주문·배달·쿠폰": 141,
+        "오류·버그·속도": 195,
+        "개인정보·권한": 8,
+        "사용성·UI": 35,
+        "고객지원": 12,
+        "데이터 유실·동기화": 7,
+        "업데이트 후 악화": 11,
+        "광고": 3,
+        "정보 부족·부정확": 1,
+        "알림": 1
+      },
+      "lowPct": 72.7,
+      "wishPct": 4
+    },
+    {
+      "store": "gplay",
+      "appId": "com.susoft.CJONmart",
+      "title": "CJ더마켓",
+      "segment": "프랜차이즈 자체앱",
+      "n": 552,
+      "low": 378,
+      "wish": 39,
+      "complaints": {
+        "오류·버그·속도": 104,
+        "로그인·계정": 57,
+        "주문·배달·쿠폰": 122,
+        "결제·구독·가격": 88,
+        "고객지원": 12,
+        "광고": 26,
+        "개인정보·권한": 3,
+        "업데이트 후 악화": 3,
+        "정보 부족·부정확": 3,
+        "사용성·UI": 28,
+        "알림": 11,
+        "데이터 유실·동기화": 4
+      },
+      "lowPct": 68.5,
+      "wishPct": 7.1
+    },
+    {
+      "store": "gplay",
+      "appId": "com.shinhan.o2o",
+      "title": "땡겨요",
+      "segment": "배달 플랫폼",
+      "n": 550,
+      "low": 239,
+      "wish": 39,
+      "complaints": {
+        "오류·버그·속도": 73,
+        "주문·배달·쿠폰": 144,
+        "결제·구독·가격": 46,
+        "로그인·계정": 14,
+        "개인정보·권한": 5,
+        "광고": 9,
+        "정보 부족·부정확": 3,
+        "고객지원": 22,
+        "사용성·UI": 14,
+        "알림": 2,
+        "데이터 유실·동기화": 2
+      },
+      "lowPct": 43.5,
+      "wishPct": 7.1
+    },
+    {
+      "store": "gplay",
+      "appId": "shaker.bar.com",
+      "title": "데일리샷 - 위스키·와인·맥주 주류 스마트오더 앱",
+      "segment": "주류·와인",
+      "n": 550,
+      "low": 93,
+      "wish": 23,
+      "complaints": {
+        "로그인·계정": 5,
+        "주문·배달·쿠폰": 20,
+        "광고": 20,
+        "사용성·UI": 9,
+        "고객지원": 5,
+        "오류·버그·속도": 16,
+        "결제·구독·가격": 10,
+        "알림": 2,
+        "업데이트 후 악화": 1,
+        "데이터 유실·동기화": 2
+      },
+      "lowPct": 16.9,
+      "wishPct": 4.2
+    },
+    {
+      "store": "gplay",
+      "appId": "co.kr.catchtable.android.catchtable_app",
+      "title": "캐치테이블",
+      "segment": "예약·웨이팅·맛집",
+      "n": 526,
+      "low": 127,
+      "wish": 15,
+      "complaints": {
+        "결제·구독·가격": 13,
+        "로그인·계정": 14,
+        "사용성·UI": 15,
+        "오류·버그·속도": 28,
+        "주문·배달·쿠폰": 16,
+        "알림": 13,
+        "데이터 유실·동기화": 3,
+        "고객지원": 6,
+        "광고": 4,
+        "개인정보·권한": 1
+      },
+      "lowPct": 24.1,
+      "wishPct": 2.9
+    },
+    {
+      "store": "gplay",
+      "appId": "kr.co.angelinus.gift.m",
+      "title": "롯데잇츠 Lotteeatz",
+      "segment": "프랜차이즈 자체앱",
+      "n": 524,
+      "low": 302,
+      "wish": 42,
+      "complaints": {
+        "업데이트 후 악화": 24,
+        "주문·배달·쿠폰": 91,
+        "오류·버그·속도": 159,
+        "알림": 3,
+        "결제·구독·가격": 13,
+        "데이터 유실·동기화": 4,
+        "사용성·UI": 14,
+        "로그인·계정": 15,
+        "고객지원": 4,
+        "개인정보·권한": 1
+      },
+      "lowPct": 57.6,
+      "wishPct": 8
+    },
+    {
+      "store": "gplay",
+      "appId": "com.sampleapp",
+      "title": "배달의민족",
+      "segment": "배달 플랫폼",
+      "n": 505,
+      "low": 183,
+      "wish": 27,
+      "complaints": {
+        "주문·배달·쿠폰": 84,
+        "결제·구독·가격": 42,
+        "광고": 22,
+        "사용성·UI": 14,
+        "고객지원": 21,
+        "로그인·계정": 6,
+        "오류·버그·속도": 16,
+        "정보 부족·부정확": 1,
+        "알림": 6,
+        "데이터 유실·동기화": 1,
+        "개인정보·권한": 1
+      },
+      "lowPct": 36.2,
+      "wishPct": 5.3
+    },
+    {
+      "store": "gplay",
+      "appId": "com.foodtechkorea.bhc",
+      "title": "bhc 치킨 - Tasty, Crispy, Juicy!",
+      "segment": "프랜차이즈 자체앱",
+      "n": 500,
+      "low": 277,
+      "wish": 21,
+      "complaints": {
+        "오류·버그·속도": 62,
+        "로그인·계정": 35,
+        "사용성·UI": 48,
+        "주문·배달·쿠폰": 151,
+        "결제·구독·가격": 60,
+        "고객지원": 11,
+        "개인정보·권한": 2,
+        "데이터 유실·동기화": 1,
+        "알림": 1,
+        "광고": 1
+      },
+      "lowPct": 55.4,
+      "wishPct": 4.2
+    },
+    {
+      "store": "gplay",
+      "appId": "com.coupang.mobile.eats",
+      "title": "쿠팡이츠 - 와우회원 배달비 0원",
+      "segment": "배달 플랫폼",
+      "n": 494,
+      "low": 78,
+      "wish": 25,
+      "complaints": {
+        "주문·배달·쿠폰": 41,
+        "결제·구독·가격": 9,
+        "로그인·계정": 3,
+        "고객지원": 7,
+        "광고": 4,
+        "오류·버그·속도": 5,
+        "사용성·UI": 5,
+        "업데이트 후 악화": 1
+      },
+      "lowPct": 15.8,
+      "wishPct": 5.1
+    },
+    {
+      "store": "gplay",
+      "appId": "com.fineapp.yogiyo",
+      "title": "요기요 - 배달할 때마다 포인트 적립",
+      "segment": "배달 플랫폼",
+      "n": 486,
+      "low": 207,
+      "wish": 28,
+      "complaints": {
+        "주문·배달·쿠폰": 144,
+        "오류·버그·속도": 45,
+        "로그인·계정": 7,
+        "사용성·UI": 7,
+        "알림": 6,
+        "고객지원": 31,
+        "업데이트 후 악화": 4,
+        "결제·구독·가격": 29,
+        "광고": 5,
+        "데이터 유실·동기화": 1,
+        "개인정보·권한": 3
+      },
+      "lowPct": 42.6,
+      "wishPct": 5.8
+    },
+    {
+      "store": "apple",
+      "appId": "1217507712",
+      "title": "맥도날드",
+      "segment": "프랜차이즈 자체앱",
+      "n": 485,
+      "low": 463,
+      "wish": 33,
+      "complaints": {
+        "결제·구독·가격": 43,
+        "사용성·UI": 21,
+        "고객지원": 20,
+        "주문·배달·쿠폰": 202,
+        "오류·버그·속도": 178,
+        "로그인·계정": 43,
+        "업데이트 후 악화": 23,
+        "알림": 4,
+        "데이터 유실·동기화": 8,
+        "광고": 8,
+        "개인정보·권한": 1,
+        "정보 부족·부정확": 1
+      },
+      "lowPct": 95.5,
+      "wishPct": 6.8
+    },
+    {
+      "store": "apple",
+      "appId": "1473428031",
+      "title": "메가MGC커피",
+      "segment": "프랜차이즈 자체앱",
+      "n": 481,
+      "low": 415,
+      "wish": 53,
+      "complaints": {
+        "오류·버그·속도": 178,
+        "주문·배달·쿠폰": 183,
+        "로그인·계정": 64,
+        "결제·구독·가격": 61,
+        "알림": 11,
+        "고객지원": 13,
+        "사용성·UI": 56,
+        "업데이트 후 악화": 86,
+        "데이터 유실·동기화": 14,
+        "광고": 1,
+        "정보 부족·부정확": 1
+      },
+      "lowPct": 86.3,
+      "wishPct": 11
+    },
+    {
+      "store": "apple",
+      "appId": "1540029579",
+      "title": "교촌치킨",
+      "segment": "프랜차이즈 자체앱",
+      "n": 480,
+      "low": 366,
+      "wish": 45,
+      "complaints": {
+        "오류·버그·속도": 109,
+        "결제·구독·가격": 77,
+        "데이터 유실·동기화": 13,
+        "주문·배달·쿠폰": 215,
+        "고객지원": 15,
+        "로그인·계정": 65,
+        "사용성·UI": 32,
+        "업데이트 후 악화": 11,
+        "알림": 9,
+        "개인정보·권한": 14,
+        "광고": 2
+      },
+      "lowPct": 76.3,
+      "wishPct": 9.4
+    },
+    {
+      "store": "apple",
+      "appId": "1388891287",
+      "title": "테이블링",
+      "segment": "예약·웨이팅·맛집",
+      "n": 469,
+      "low": 305,
+      "wish": 40,
+      "complaints": {
+        "로그인·계정": 67,
+        "사용성·UI": 29,
+        "주문·배달·쿠폰": 27,
+        "결제·구독·가격": 34,
+        "광고": 6,
+        "알림": 17,
+        "오류·버그·속도": 74,
+        "데이터 유실·동기화": 1,
+        "고객지원": 7,
+        "업데이트 후 악화": 8,
+        "개인정보·권한": 7
+      },
+      "lowPct": 65,
+      "wishPct": 8.5
+    },
+    {
+      "store": "gplay",
+      "appId": "com.mealant.tabling",
+      "title": "테이블링",
+      "segment": "예약·웨이팅·맛집",
+      "n": 464,
+      "low": 208,
+      "wish": 21,
+      "complaints": {
+        "로그인·계정": 51,
+        "광고": 11,
+        "오류·버그·속도": 42,
+        "알림": 14,
+        "업데이트 후 악화": 3,
+        "개인정보·권한": 7,
+        "주문·배달·쿠폰": 8,
+        "데이터 유실·동기화": 2,
+        "사용성·UI": 12,
+        "정보 부족·부정확": 1,
+        "고객지원": 4,
+        "결제·구독·가격": 12
+      },
+      "lowPct": 44.8,
+      "wishPct": 4.5
+    },
+    {
+      "store": "apple",
+      "appId": "1485193566",
+      "title": "캐치테이블",
+      "segment": "예약·웨이팅·맛집",
+      "n": 448,
+      "low": 227,
+      "wish": 41,
+      "complaints": {
+        "오류·버그·속도": 68,
+        "로그인·계정": 31,
+        "알림": 27,
+        "사용성·UI": 16,
+        "주문·배달·쿠폰": 29,
+        "광고": 11,
+        "결제·구독·가격": 17,
+        "고객지원": 15,
+        "데이터 유실·동기화": 3,
+        "업데이트 후 악화": 3,
+        "정보 부족·부정확": 1
+      },
+      "lowPct": 50.7,
+      "wishPct": 9.2
+    },
+    {
+      "store": "apple",
+      "appId": "1445504255",
+      "title": "쿠팡이츠 - 와우회원 배달비 0원",
+      "segment": "배달 플랫폼",
+      "n": 424,
+      "low": 130,
+      "wish": 21,
+      "complaints": {
+        "로그인·계정": 9,
+        "주문·배달·쿠폰": 62,
+        "사용성·UI": 11,
+        "결제·구독·가격": 19,
+        "광고": 12,
+        "오류·버그·속도": 24,
+        "고객지원": 19,
+        "업데이트 후 악화": 1,
+        "알림": 5,
+        "개인정보·권한": 2,
+        "데이터 유실·동기화": 1
+      },
+      "lowPct": 30.7,
+      "wishPct": 5
+    },
+    {
+      "store": "apple",
+      "appId": "6742874436",
+      "title": "배스킨라빈스-배라를 배라앱으로!",
+      "segment": "프랜차이즈 자체앱",
+      "n": 422,
+      "low": 360,
+      "wish": 17,
+      "complaints": {
+        "주문·배달·쿠폰": 100,
+        "오류·버그·속도": 209,
+        "로그인·계정": 162,
+        "사용성·UI": 11,
+        "고객지원": 7,
+        "결제·구독·가격": 16,
+        "알림": 3,
+        "데이터 유실·동기화": 3,
+        "광고": 6,
+        "개인정보·권한": 4,
+        "업데이트 후 악화": 2
+      },
+      "lowPct": 85.3,
+      "wishPct": 4
+    },
+    {
+      "store": "gplay",
+      "appId": "kr.sknkwoxs.spoontime",
+      "title": "스푼타임 - 이유식이 쉬워진다 SpoonTime",
+      "segment": "이유식·유아식",
+      "n": 395,
+      "low": 34,
+      "wish": 20,
+      "complaints": {
+        "오류·버그·속도": 17,
+        "로그인·계정": 9,
+        "사용성·UI": 3,
+        "고객지원": 2,
+        "데이터 유실·동기화": 2
+      },
+      "lowPct": 8.6,
+      "wishPct": 5.1
+    },
+    {
+      "store": "gplay",
+      "appId": "com.jwantplan.mealplanner",
+      "title": "식단착착 - 식단기록, 식단인증, 식단표",
+      "segment": "식단·칼로리·다이어트",
+      "n": 361,
+      "low": 21,
+      "wish": 51,
+      "complaints": {
+        "광고": 6,
+        "결제·구독·가격": 6,
+        "데이터 유실·동기화": 6,
+        "사용성·UI": 1,
+        "오류·버그·속도": 1
+      },
+      "lowPct": 5.8,
+      "wishPct": 14.1
+    },
+    {
+      "store": "gplay",
+      "appId": "com.realbyteapps.moneymanagerfree",
+      "title": "편한가계부",
+      "segment": "장보기·식비",
+      "n": 358,
+      "low": 35,
+      "wish": 27,
+      "complaints": {
+        "광고": 11,
+        "로그인·계정": 1,
+        "사용성·UI": 9,
+        "오류·버그·속도": 11,
+        "결제·구독·가격": 11,
+        "알림": 8,
+        "고객지원": 2,
+        "정보 부족·부정확": 1
+      },
+      "lowPct": 9.8,
+      "wishPct": 7.5
+    },
+    {
+      "store": "gplay",
+      "appId": "hs.app.today",
+      "title": "다이어리 가계부",
+      "segment": "장보기·식비",
+      "n": 358,
+      "low": 22,
+      "wish": 34,
+      "complaints": {
+        "데이터 유실·동기화": 4,
+        "업데이트 후 악화": 3,
+        "오류·버그·속도": 12,
+        "사용성·UI": 1
+      },
+      "lowPct": 6.1,
+      "wishPct": 9.5
+    },
+    {
+      "store": "gplay",
+      "appId": "com.ezhld.recipe",
+      "title": "요리백과 만개의레시피",
+      "segment": "레시피 콘텐츠",
+      "n": 319,
+      "low": 32,
+      "wish": 10,
+      "complaints": {
+        "오류·버그·속도": 7,
+        "업데이트 후 악화": 5,
+        "광고": 6,
+        "데이터 유실·동기화": 4,
+        "로그인·계정": 7,
+        "주문·배달·쿠폰": 2,
+        "고객지원": 1,
+        "사용성·UI": 1
+      },
+      "lowPct": 10,
+      "wishPct": 3.1
+    },
+    {
+      "store": "gplay",
+      "appId": "com.heodakmarket.app",
+      "title": "HD마켓 - 밀키트 및 간편식 쇼핑",
+      "segment": "장보기·식비",
+      "n": 193,
+      "low": 91,
+      "wish": 9,
+      "complaints": {
+        "로그인·계정": 10,
+        "결제·구독·가격": 25,
+        "오류·버그·속도": 31,
+        "주문·배달·쿠폰": 34,
+        "광고": 2,
+        "알림": 2,
+        "고객지원": 11,
+        "데이터 유실·동기화": 2,
+        "사용성·UI": 1,
+        "개인정보·권한": 2
+      },
+      "lowPct": 47.2,
+      "wishPct": 4.7
+    },
+    {
+      "store": "gplay",
+      "appId": "com.elandeats.crm",
+      "title": "애슐리 멤버스",
+      "segment": "프랜차이즈 자체앱",
+      "n": 143,
+      "low": 89,
+      "wish": 9,
+      "complaints": {
+        "오류·버그·속도": 45,
+        "주문·배달·쿠폰": 12,
+        "결제·구독·가격": 7,
+        "고객지원": 3,
+        "로그인·계정": 10,
+        "사용성·UI": 7,
+        "업데이트 후 악화": 6
+      },
+      "lowPct": 62.2,
+      "wishPct": 6.3
+    },
+    {
+      "store": "gplay",
+      "appId": "com.ursoft.dietmanagement2",
+      "title": "유리트 식단 - 식단 관리, 식단 기록, 식비 관리",
+      "segment": "식단·칼로리·다이어트",
+      "n": 122,
+      "low": 12,
+      "wish": 28,
+      "complaints": {
+        "업데이트 후 악화": 1,
+        "고객지원": 1,
+        "광고": 3,
+        "오류·버그·속도": 2,
+        "결제·구독·가격": 1,
+        "로그인·계정": 1
+      },
+      "lowPct": 9.8,
+      "wishPct": 23
+    },
+    {
+      "store": "gplay",
+      "appId": "kr.co.wylie.m.oozy",
+      "title": "우지커피",
+      "segment": "프랜차이즈 자체앱",
+      "n": 119,
+      "low": 90,
+      "wish": 8,
+      "complaints": {
+        "오류·버그·속도": 28,
+        "고객지원": 6,
+        "주문·배달·쿠폰": 36,
+        "사용성·UI": 16,
+        "알림": 3,
+        "결제·구독·가격": 12,
+        "로그인·계정": 16,
+        "개인정보·권한": 3,
+        "데이터 유실·동기화": 3,
+        "업데이트 후 악화": 1,
+        "정보 부족·부정확": 1
+      },
+      "lowPct": 75.6,
+      "wishPct": 6.7
+    },
+    {
+      "store": "gplay",
+      "appId": "com.meolly.fridge",
+      "title": "원더 프리지: 냉장고 식품 관리, 소비기한 알림",
+      "segment": "냉장고·재고 관리",
+      "n": 117,
+      "low": 14,
+      "wish": 41,
+      "complaints": {
+        "오류·버그·속도": 5,
+        "데이터 유실·동기화": 1,
+        "알림": 1,
+        "광고": 7,
+        "결제·구독·가격": 3,
+        "고객지원": 1,
+        "로그인·계정": 1
+      },
+      "lowPct": 12,
+      "wishPct": 35
+    },
+    {
+      "store": "apple",
+      "appId": "414461255",
+      "title": "Vivino: Drink The Right Wine",
+      "segment": "주류·와인",
+      "n": 112,
+      "low": 23,
+      "wish": 10,
+      "complaints": {
+        "결제·구독·가격": 3,
+        "데이터 유실·동기화": 1,
+        "업데이트 후 악화": 1,
+        "광고": 1,
+        "오류·버그·속도": 2,
+        "사용성·UI": 1
+      },
+      "lowPct": 20.5,
+      "wishPct": 8.9
+    },
+    {
+      "store": "gplay",
+      "appId": "com.komorebi.shoppinglist",
+      "title": "쇼핑 목록 - 간단한 노트와 장보기 메모장",
+      "segment": "장보기·식비",
+      "n": 98,
+      "low": 7,
+      "wish": 8,
+      "complaints": {
+        "오류·버그·속도": 4
+      },
+      "lowPct": 7.1,
+      "wishPct": 8.2
+    },
+    {
+      "store": "gplay",
+      "appId": "com.lazyheroes.erfe",
+      "title": "냉장고 파먹기 : 레시피, 냉장고 관리, 집밥, 냉파",
+      "segment": "레시피 콘텐츠",
+      "n": 94,
+      "low": 8,
+      "wish": 17,
+      "complaints": {
+        "오류·버그·속도": 2,
+        "광고": 1
+      },
+      "lowPct": 8.5,
+      "wishPct": 18.1
+    },
+    {
+      "store": "gplay",
+      "appId": "cutboss.engelboss",
+      "title": "식비가계부 - \"식비\"만을 입력하는 간단한 가계부 앱",
+      "segment": "장보기·식비",
+      "n": 82,
+      "low": 2,
+      "wish": 17,
+      "complaints": {
+        "광고": 1
+      },
+      "lowPct": 2.4,
+      "wishPct": 20.7
+    },
+    {
+      "store": "gplay",
+      "appId": "meal.planner",
+      "title": "식단표 - 주간 식단·레시피·장보기·칼로리 계산",
+      "segment": "레시피 콘텐츠",
+      "n": 69,
+      "low": 12,
+      "wish": 11,
+      "complaints": {
+        "결제·구독·가격": 3,
+        "사용성·UI": 4,
+        "오류·버그·속도": 2
+      },
+      "lowPct": 17.4,
+      "wishPct": 15.9
+    },
+    {
+      "store": "gplay",
+      "appId": "com.wmpoplus.hoocham",
+      "title": "후라이드참잘하는집",
+      "segment": "기타",
+      "n": 64,
+      "low": 29,
+      "wish": 2,
+      "complaints": {
+        "주문·배달·쿠폰": 21,
+        "오류·버그·속도": 7,
+        "결제·구독·가격": 8,
+        "사용성·UI": 2,
+        "광고": 3,
+        "고객지원": 1,
+        "로그인·계정": 1
+      },
+      "lowPct": 45.3,
+      "wishPct": 3.1
+    },
+    {
+      "store": "gplay",
+      "appId": "com.l",
+      "title": "스마트 쇼핑 목록 - Listonic",
+      "segment": "장보기·식비",
+      "n": 59,
+      "low": 8,
+      "wish": 6,
+      "complaints": {
+        "광고": 2,
+        "로그인·계정": 1,
+        "오류·버그·속도": 1
+      },
+      "lowPct": 13.6,
+      "wishPct": 10.2
+    },
+    {
+      "store": "gplay",
+      "appId": "kr.co.simplebestapp.fridge",
+      "title": "냉장고 재고 관리 - 유통기한 알림, 재고 관리 자동화",
+      "segment": "냉장고·재고 관리",
+      "n": 49,
+      "low": 14,
+      "wish": 22,
+      "complaints": {
+        "사용성·UI": 3,
+        "오류·버그·속도": 3,
+        "로그인·계정": 1
+      },
+      "lowPct": 28.6,
+      "wishPct": 44.9
+    },
+    {
+      "store": "gplay",
+      "appId": "com.yorigo.mobile",
+      "title": "요리GO: SNS 레시피 자동 정리, 장보기까지",
+      "segment": "레시피 저장·정리(SNS→레시피)",
+      "n": 45,
+      "low": 20,
+      "wish": 7,
+      "complaints": {
+        "오류·버그·속도": 11,
+        "업데이트 후 악화": 2,
+        "로그인·계정": 2,
+        "사용성·UI": 1,
+        "광고": 1,
+        "알림": 1
+      },
+      "lowPct": 44.4,
+      "wishPct": 15.6
+    },
+    {
+      "store": "gplay",
+      "appId": "com.kthdd.household_account_book_app",
+      "title": "쉬운 가계부 - 캘린더,그래프,위젯으로 지출/수입 관리",
+      "segment": "장보기·식비",
+      "n": 45,
+      "low": 8,
+      "wish": 12,
+      "complaints": {
+        "오류·버그·속도": 3,
+        "사용성·UI": 1
+      },
+      "lowPct": 17.8,
+      "wishPct": 26.7
+    },
+    {
+      "store": "gplay",
+      "appId": "com.yinqs.weeklymealplanner",
+      "title": "다이어리 식사 입안자 / 장보기 리스트 / 요리레시피",
+      "segment": "레시피 콘텐츠",
+      "n": 45,
+      "low": 4,
+      "wish": 2,
+      "complaints": {
+        "결제·구독·가격": 2,
+        "오류·버그·속도": 1
+      },
+      "lowPct": 8.9,
+      "wishPct": 4.4
+    },
+    {
+      "store": "gplay",
+      "appId": "com.oddmentsapp.eonamrecipe",
+      "title": "어남선생 레시피",
+      "segment": "레시피 콘텐츠",
+      "n": 41,
+      "low": 10,
+      "wish": 2,
+      "complaints": {
+        "광고": 2,
+        "오류·버그·속도": 2
+      },
+      "lowPct": 24.4,
+      "wishPct": 4.9
+    },
+    {
+      "store": "apple",
+      "appId": "6748438087",
+      "title": "해먹으리 - AI가 SNS 요리 영상을 레시피로!",
+      "segment": "레시피 저장·정리(SNS→레시피)",
+      "n": 40,
+      "low": 11,
+      "wish": 1,
+      "complaints": {
+        "로그인·계정": 5,
+        "데이터 유실·동기화": 1,
+        "사용성·UI": 2,
+        "오류·버그·속도": 4,
+        "고객지원": 1
+      },
+      "lowPct": 27.5,
+      "wishPct": 2.5
+    },
+    {
+      "store": "gplay",
+      "appId": "com.riatech.cookbook",
+      "title": "한국 요리법이 담긴 요리책",
+      "segment": "레시피 저장·정리(SNS→레시피)",
+      "n": 37,
+      "low": 23,
+      "wish": 1,
+      "complaints": {
+        "사용성·UI": 1,
+        "결제·구독·가격": 1,
+        "오류·버그·속도": 4
+      },
+      "lowPct": 62.2,
+      "wishPct": 2.7
+    },
+    {
+      "store": "gplay",
+      "appId": "com.kakaku.tabelog.tourists",
+      "title": "타베로그 Tabelog - 일본 현지 맛집 찾기",
+      "segment": "예약·웨이팅·맛집",
+      "n": 31,
+      "low": 17,
+      "wish": 1,
+      "complaints": {
+        "결제·구독·가격": 9,
+        "오류·버그·속도": 3,
+        "주문·배달·쿠폰": 2,
+        "로그인·계정": 2,
+        "사용성·UI": 2,
+        "알림": 1,
+        "고객지원": 1
+      },
+      "lowPct": 54.8,
+      "wishPct": 3.2
+    },
+    {
+      "store": "apple",
+      "appId": "599836194",
+      "title": "Wine-Searcher",
+      "segment": "주류·와인",
+      "n": 24,
+      "low": 3,
+      "wish": 3,
+      "complaints": {},
+      "lowPct": 12.5,
+      "wishPct": 12.5
+    },
+    {
+      "store": "gplay",
+      "appId": "com.reactnativerefrigerator",
+      "title": "냉장고 털기 : 재료관리, AI 레시피, 냉장고 파먹기",
+      "segment": "레시피 콘텐츠",
+      "n": 21,
+      "low": 1,
+      "wish": 6,
+      "complaints": {},
+      "lowPct": 4.8,
+      "wishPct": 28.6
+    },
+    {
+      "store": "gplay",
+      "appId": "com.arin.babyfood",
+      "title": "얌플래너 – 아기 이유식·유아식 레시피 & 식단 플래너",
+      "segment": "레시피 콘텐츠",
+      "n": 21,
+      "low": 1,
+      "wish": 1,
+      "complaints": {
+        "광고": 1
+      },
+      "lowPct": 4.8,
+      "wishPct": 4.8
+    },
+    {
+      "store": "gplay",
+      "appId": "app.namnambook",
+      "title": "냠냠쩝쩝 레시피북 - 유튜브 인스타 레시피 저장",
+      "segment": "레시피 저장·정리(SNS→레시피)",
+      "n": 18,
+      "low": 2,
+      "wish": 3,
+      "complaints": {
+        "데이터 유실·동기화": 1,
+        "오류·버그·속도": 1
+      },
+      "lowPct": 11.1,
+      "wishPct": 16.7
+    },
+    {
+      "store": "apple",
+      "appId": "6752922875",
+      "title": "타베로그 Tabelog - 일본 현지 맛집 찾기",
+      "segment": "예약·웨이팅·맛집",
+      "n": 15,
+      "low": 11,
+      "wish": 1,
+      "complaints": {
+        "오류·버그·속도": 3,
+        "주문·배달·쿠폰": 3,
+        "결제·구독·가격": 3,
+        "로그인·계정": 1
+      },
+      "lowPct": 73.3,
+      "wishPct": 6.7
+    },
+    {
+      "store": "gplay",
+      "appId": "com.amomong.recipe",
+      "title": "리피 - 레시피 메모, 나만의 요리책",
+      "segment": "레시피 저장·정리(SNS→레시피)",
+      "n": 12,
+      "low": 0,
+      "wish": 3,
+      "complaints": {},
+      "lowPct": 0,
+      "wishPct": 25
+    },
+    {
+      "store": "apple",
+      "appId": "1164423781",
+      "title": "Gronda: Recipes for Chefs",
+      "segment": "레시피 콘텐츠",
+      "n": 8,
+      "low": 3,
+      "wish": 7,
+      "complaints": {
+        "결제·구독·가격": 2,
+        "오류·버그·속도": 1,
+        "로그인·계정": 1
+      },
+      "lowPct": 37.5,
+      "wishPct": 87.5
+    },
+    {
+      "store": "gplay",
+      "appId": "fr.recettetek",
+      "title": "My Recipe Box: My Cookbook",
+      "segment": "레시피 저장·정리(SNS→레시피)",
+      "n": 8,
+      "low": 1,
+      "wish": 0,
+      "complaints": {},
+      "lowPct": 12.5,
+      "wishPct": 0
+    },
+    {
+      "store": "gplay",
+      "appId": "com.creator.midmeal",
+      "title": "미드밀",
+      "segment": "기타",
+      "n": 8,
+      "low": 0,
+      "wish": 0,
+      "complaints": {},
+      "lowPct": 0,
+      "wishPct": 0
+    },
+    {
+      "store": "gplay",
+      "appId": "com.recipe.rush.cooking.games",
+      "title": "Recipe Rush - Cooking Games",
+      "segment": "레시피 콘텐츠",
+      "n": 7,
+      "low": 2,
+      "wish": 0,
+      "complaints": {
+        "광고": 2
+      },
+      "lowPct": 28.6,
+      "wishPct": 0
+    },
+    {
+      "store": "gplay",
+      "appId": "jp.tyabaken.historytodonotes",
+      "title": "쇼핑 목록 - 장보기 리스트 메모 & 위젯",
+      "segment": "장보기·식비",
+      "n": 6,
+      "low": 3,
+      "wish": 2,
+      "complaints": {
+        "오류·버그·속도": 2,
+        "데이터 유실·동기화": 1
+      },
+      "lowPct": 50,
+      "wishPct": 33.3
+    },
+    {
+      "store": "gplay",
+      "appId": "com.jychoi.cookly",
+      "title": "Cookly - 냉장고 파먹기 식비절약",
+      "segment": "냉장고·재고 관리",
+      "n": 5,
+      "low": 0,
+      "wish": 1,
+      "complaints": {},
+      "lowPct": 0,
+      "wishPct": 20
+    },
+    {
+      "store": "gplay",
+      "appId": "com.dnt7.omil",
+      "title": "오밀 - 오늘의 밀키트",
+      "segment": "장보기·식비",
+      "n": 3,
+      "low": 0,
+      "wish": 1,
+      "complaints": {},
+      "lowPct": 0,
+      "wishPct": 33.3
+    },
+    {
+      "store": "gplay",
+      "appId": "com.recipebro.cookingbuddy",
+      "title": "레시피 정리앱: Recipe Bro",
+      "segment": "레시피 저장·정리(SNS→레시피)",
+      "n": 2,
+      "low": 0,
+      "wish": 0,
+      "complaints": {},
+      "lowPct": 0,
+      "wishPct": 0
+    },
+    {
+      "store": "gplay",
+      "appId": "com.cookbook.cbapp",
+      "title": "CookBook - Recipe Manager",
+      "segment": "레시피 저장·정리(SNS→레시피)",
+      "n": 1,
+      "low": 1,
+      "wish": 0,
+      "complaints": {},
+      "lowPct": 100,
+      "wishPct": 0
+    },
+    {
+      "store": "gplay",
+      "appId": "com.vladlee.shoppinglist",
+      "title": "Enchlist: 장보기 가계부",
+      "segment": "장보기·식비",
+      "n": 1,
+      "low": 0,
+      "wish": 0,
+      "complaints": {},
+      "lowPct": 0,
+      "wishPct": 0
+    },
+    {
+      "store": "gplay",
+      "appId": "com.odflabs.mealnote",
+      "title": "식단플래너 - 식단표, 식단 기록, 장보기, 레시피",
+      "segment": "레시피 콘텐츠",
+      "n": 1,
+      "low": 0,
+      "wish": 1,
+      "complaints": {},
+      "lowPct": 0,
+      "wishPct": 100
+    }
+  ],
+  "kwStats": [
+    {
+      "keyword": "반찬가게",
+      "seed": "반찬",
+      "isSeed": false,
+      "top3": [
+        "집반찬연구소(10만,★2.8)",
+        "진가네반찬-반찬,배달,반찬배달,반찬쇼(1만,★4.3)",
+        "셰프애찬 - 김치 반찬 제철먹거리 산(10만,★4.3)"
+      ],
+      "median": 10000,
+      "top3Avg": 70000,
+      "avgScore": 4.08,
+      "stale": 3,
+      "titleMatch": 0,
+      "weakness": 5
+    },
+    {
+      "keyword": "반찬해결사",
+      "seed": "반찬",
+      "isSeed": false,
+      "top3": [
+        "집반찬연구소(10만,★2.8)",
+        "진가네반찬-반찬,배달,반찬배달,반찬쇼(1만,★4.3)",
+        "셰프애찬 - 김치 반찬 제철먹거리 산(10만,★4.3)"
+      ],
+      "median": 100000,
+      "top3Avg": 70000,
+      "avgScore": 4.03,
+      "stale": 3,
+      "titleMatch": 0,
+      "weakness": 5
+    },
+    {
+      "keyword": "밀키트",
+      "seed": "밀키트",
+      "isSeed": true,
+      "top3": [
+        "HD마켓 - 밀키트 및 간편식 쇼핑(1만,★3.8)",
+        "우리동네 밀키트(0만,★0.0)",
+        "오밀 - 오늘의 밀키트(0만,★4.9)"
+      ],
+      "median": 100000,
+      "top3Avg": 3700,
+      "avgScore": 4.13,
+      "stale": 3,
+      "titleMatch": 3,
+      "weakness": 4
+    },
+    {
+      "keyword": "유아식단표",
+      "seed": "유아식",
+      "isSeed": false,
+      "top3": [
+        "아이식단 - 유아식 식단표 및 아기 (0만,★0.0)",
+        "얌플래너 – 아기 이유식·유아식 레시(0만,★4.7)",
+        "식단플래너 - 식단표, 식단 기록, (0만,★0.0)"
+      ],
+      "median": 50000,
+      "top3Avg": 516.6666666666666,
+      "avgScore": 4.67,
+      "stale": 0,
+      "titleMatch": 0,
+      "weakness": 3
+    },
+    {
+      "keyword": "냉장고파먹기",
+      "seed": "냉장고",
+      "isSeed": false,
+      "top3": [
+        "냉장고 파먹기 : 레시피, 냉장고 관(1만,★4.5)",
+        "Cookly - 냉장고 파먹기 식비절(0만,★5.0)",
+        "요리GO: SNS 레시피 자동 정리,(0만,★3.5)"
+      ],
+      "median": 10000,
+      "top3Avg": 3833.3333333333335,
+      "avgScore": 4.38,
+      "stale": 0,
+      "titleMatch": 2,
+      "weakness": 3
+    },
+    {
+      "keyword": "냉장고 관리",
+      "seed": "냉장고",
+      "isSeed": false,
+      "top3": [
+        "냉장고 털기 : 재료관리, AI 레시(0만,★4.8)",
+        "원더 프리지: 냉장고 식품 관리, 소(5만,★4.5)",
+        "냉장고 재고 관리 - 유통기한 알림,(1만,★4.0)"
+      ],
+      "median": 1000,
+      "top3Avg": 20333.333333333332,
+      "avgScore": 4.45,
+      "stale": 0,
+      "titleMatch": 2,
+      "weakness": 3
+    },
+    {
+      "keyword": "냉장고 재고관리",
+      "seed": "냉장고",
+      "isSeed": false,
+      "top3": [
+        "냉장고 재고 관리 - 유통기한 알림,(1만,★4.0)",
+        "냉장고 털기 : 재료관리, AI 레시(0만,★4.8)",
+        "원더 프리지: 냉장고 식품 관리, 소(5만,★4.5)"
+      ],
+      "median": 1000,
+      "top3Avg": 20333.333333333332,
+      "avgScore": 4.55,
+      "stale": 0,
+      "titleMatch": 2,
+      "weakness": 3
+    },
+    {
+      "keyword": "반찬",
+      "seed": "반찬",
+      "isSeed": true,
+      "top3": [
+        "집반찬연구소(10만,★2.8)",
+        "셰프애찬 - 김치 반찬 제철먹거리 산(10만,★4.3)",
+        "진가네반찬-반찬,배달,반찬배달,반찬쇼(1만,★4.3)"
+      ],
+      "median": 100000,
+      "top3Avg": 70000,
+      "avgScore": 4.06,
+      "stale": 1,
+      "titleMatch": 6,
+      "weakness": 3
+    },
+    {
+      "keyword": "도시락이심",
+      "seed": "도시락",
+      "isSeed": false,
+      "top3": [
+        "도시락eSIM - 해외이심 로밍 데이(50만,★4.8)",
+        "와이파이도시락(10만,★2.8)",
+        "이심이지 eSIM - 해외여행! 로밍(50만,★5.0)"
+      ],
+      "median": 500000,
+      "top3Avg": 366666.6666666667,
+      "avgScore": 4.14,
+      "stale": 0,
+      "titleMatch": 0,
+      "weakness": 3
+    },
+    {
+      "keyword": "도시락와이파이",
+      "seed": "도시락",
+      "isSeed": false,
+      "top3": [
+        "와이파이도시락(10만,★2.8)",
+        "와이파이 도시락톡(50만,★2.8)",
+        "도시락eSIM - 해외이심 로밍 데이(50만,★4.8)"
+      ],
+      "median": 10000000,
+      "top3Avg": 366666.6666666667,
+      "avgScore": 3.98,
+      "stale": 1,
+      "titleMatch": 0,
+      "weakness": 3
+    },
+    {
+      "keyword": "도시락톡",
+      "seed": "도시락",
+      "isSeed": false,
+      "top3": [
+        "와이파이 도시락톡(50만,★2.8)",
+        "와이파이도시락(10만,★2.8)",
+        "도시락eSIM - 해외이심 로밍 데이(50만,★4.8)"
+      ],
+      "median": 10000000,
+      "top3Avg": 366666.6666666667,
+      "avgScore": 4,
+      "stale": 0,
+      "titleMatch": 1,
+      "weakness": 3
+    },
+    {
+      "keyword": "유아시계공부",
+      "seed": "유아식",
+      "isSeed": false,
+      "top3": [
+        "어린이 시계 공부(100만,★3.9)",
+        "시계와 시간을 배우다: 교육적인 아동(10만,★3.1)",
+        "Clock Learning(100만,★4.4)"
+      ],
+      "median": 100000,
+      "top3Avg": 700000,
+      "avgScore": 3.97,
+      "stale": 1,
+      "titleMatch": 0,
+      "weakness": 3
+    },
+    {
+      "keyword": "반찬배달",
+      "seed": "반찬",
+      "isSeed": false,
+      "top3": [
+        "진가네반찬-반찬,배달,반찬배달,반찬쇼(1만,★4.3)",
+        "집반찬연구소(10만,★2.8)",
+        "배달의민족(5000만,★4.8)"
+      ],
+      "median": 100000,
+      "top3Avg": 16703333.333333334,
+      "avgScore": 4.07,
+      "stale": 2,
+      "titleMatch": 1,
+      "weakness": 3
+    },
+    {
+      "keyword": "식비",
+      "seed": "식비",
+      "isSeed": true,
+      "top3": [
+        "식비가계부 - \"식비\"만을 입력하는 (5만,★4.7)",
+        "유리트 식단 - 식단 관리, 식단 기(1만,★4.8)",
+        "Cookly - 냉장고 파먹기 식비절(0만,★5.0)"
+      ],
+      "median": 10000,
+      "top3Avg": 20166.666666666668,
+      "avgScore": 4.45,
+      "stale": 0,
+      "titleMatch": 5,
+      "weakness": 2
+    },
+    {
+      "keyword": "냉장고",
+      "seed": "냉장고",
+      "isSeed": true,
+      "top3": [
+        "냉장고 털기 : 재료관리, AI 레시(0만,★4.8)",
+        "냉장고 파먹기 : 레시피, 냉장고 관(1만,★4.5)",
+        "원더 프리지: 냉장고 식품 관리, 소(5만,★4.5)"
+      ],
+      "median": 1000,
+      "top3Avg": 20333.333333333332,
+      "avgScore": 4.26,
+      "stale": 0,
+      "titleMatch": 9,
+      "weakness": 2
+    },
+    {
+      "keyword": "유아식",
+      "seed": "유아식",
+      "isSeed": true,
+      "top3": [
+        "얌플래너 – 아기 이유식·유아식 레시(0만,★4.7)",
+        "이유식 레시피: 아기 식단 관리(10만,★4.6)",
+        "Happy Eaters: Weanin(10만,★0.0)"
+      ],
+      "median": 50000,
+      "top3Avg": 67000,
+      "avgScore": 4.65,
+      "stale": 0,
+      "titleMatch": 3,
+      "weakness": 2
+    },
+    {
+      "keyword": "장보기 계산",
+      "seed": "장보기",
+      "isSeed": false,
+      "top3": [
+        "쇼핑 계산기(10만,★4.5)",
+        "Enchlist: 장보기 가계부(10만,★5.0)",
+        "쇼핑 계산기(10만,★0.0)"
+      ],
+      "median": 50000,
+      "top3Avg": 100000,
+      "avgScore": 4.71,
+      "stale": 1,
+      "titleMatch": 1,
+      "weakness": 2
+    },
+    {
+      "keyword": "식단일기",
+      "seed": "식단",
+      "isSeed": false,
+      "top3": [
+        "식단일기 - 몸무게, 식단 기록, 다(0만,★4.5)",
+        "식단착착 - 식단기록, 식단인증, 식(5만,★4.6)",
+        "인아웃 - 다이어트 코치 & 식단, (100만,★4.9)"
+      ],
+      "median": 500000,
+      "top3Avg": 350166.6666666667,
+      "avgScore": 4.56,
+      "stale": 1,
+      "titleMatch": 1,
+      "weakness": 2
+    },
+    {
+      "keyword": "도시락",
+      "seed": "도시락",
+      "isSeed": true,
+      "top3": [
+        "도시락eSIM - 해외이심 로밍 데이(50만,★4.8)",
+        "와이파이도시락(10만,★2.8)",
+        "와이파이 도시락톡(50만,★2.8)"
+      ],
+      "median": 100,
+      "top3Avg": 366666.6666666667,
+      "avgScore": 3.5,
+      "stale": 0,
+      "titleMatch": 9,
+      "weakness": 2
+    },
+    {
+      "keyword": "도시락esim",
+      "seed": "도시락",
+      "isSeed": false,
+      "top3": [
+        "도시락eSIM - 해외이심 로밍 데이(50만,★4.8)",
+        "와이파이도시락(10만,★2.8)",
+        "와이파이 도시락톡(50만,★2.8)"
+      ],
+      "median": 1000000,
+      "top3Avg": 366666.6666666667,
+      "avgScore": 4.37,
+      "stale": 0,
+      "titleMatch": 0,
+      "weakness": 2
+    },
+    {
+      "keyword": "레시피오",
+      "seed": "레시피",
+      "isSeed": false,
+      "top3": [
+        "레시피오 - 요리 앱·레시피 저장·레(1만,★4.6)",
+        "SuperCook - Recipe G(100만,★4.2)",
+        "레시피 정리앱: Recipe Bro(10만,★4.8)"
+      ],
+      "median": 100000,
+      "top3Avg": 370000,
+      "avgScore": 4.59,
+      "stale": 0,
+      "titleMatch": 1,
+      "weakness": 2
+    },
+    {
+      "keyword": "레시피북",
+      "seed": "레시피",
+      "isSeed": false,
+      "top3": [
+        "냠냠쩝쩝 레시피북 - 유튜브 인스타 (0만,★4.9)",
+        "My Recipe Box: My Co(100만,★4.9)",
+        "리피 - 레시피 메모, 나만의 요리책(0만,★4.7)"
+      ],
+      "median": 100000,
+      "top3Avg": 334000,
+      "avgScore": 4.81,
+      "stale": 0,
+      "titleMatch": 3,
+      "weakness": 1
+    },
+    {
+      "keyword": "식단표",
+      "seed": "식단",
+      "isSeed": false,
+      "top3": [
+        "식단표 - 주간 식단·레시피·장보기·(100만,★4.8)",
+        "식단플래너 - 식단표, 식단 기록, (0만,★0.0)",
+        "식단착착 - 식단기록, 식단인증, 식(5만,★4.6)"
+      ],
+      "median": 100000,
+      "top3Avg": 350166.6666666667,
+      "avgScore": 4.55,
+      "stale": 1,
+      "titleMatch": 4,
+      "weakness": 1
+    },
+    {
+      "keyword": "장보기",
+      "seed": "장보기",
+      "isSeed": true,
+      "top3": [
+        "쇼핑 목록 - 간단한 노트와 장보기 (10만,★4.9)",
+        "롯데마트 제타 - 온라인 신선 장보기(100만,★4.7)",
+        "한살림 - 한살림장보기(50만,★3.2)"
+      ],
+      "median": 10000000,
+      "top3Avg": 533333.3333333334,
+      "avgScore": 4.58,
+      "stale": 0,
+      "titleMatch": 5,
+      "weakness": 1
+    },
+    {
+      "keyword": "유아식 레시피",
+      "seed": "유아식",
+      "isSeed": false,
+      "top3": [
+        "얌플래너 – 아기 이유식·유아식 레시(0만,★4.7)",
+        "요리백과 만개의레시피(500만,★4.8)",
+        "냉장고 레시피북: 냉장고 파먹기·이유(0만,★0.0)"
+      ],
+      "median": 100000,
+      "top3Avg": 1667001.6666666667,
+      "avgScore": 4.75,
+      "stale": 0,
+      "titleMatch": 1,
+      "weakness": 1
+    },
+    {
+      "keyword": "요리레시피",
+      "seed": "요리",
+      "isSeed": false,
+      "top3": [
+        "요리백과 만개의레시피(500만,★4.8)",
+        "어남선생 레시피(10만,★4.3)",
+        "레시피 정리앱: Recipe Bro(10만,★4.8)"
+      ],
+      "median": 1000000,
+      "top3Avg": 1733333.3333333333,
+      "avgScore": 4.46,
+      "stale": 0,
+      "titleMatch": 0,
+      "weakness": 1
+    },
+    {
+      "keyword": "반찬레시피",
+      "seed": "반찬",
+      "isSeed": false,
+      "top3": [
+        "요리백과 만개의레시피(500만,★4.8)",
+        "수미네 반찬 레시피 - 김수미 요리 (10만,★4.6)",
+        "수미네 반찬 레시피 - 반찬 요리 레(10만,★4.3)"
+      ],
+      "median": 100000,
+      "top3Avg": 1733333.3333333333,
+      "avgScore": 4.24,
+      "stale": 3,
+      "titleMatch": 3,
+      "weakness": 1
+    },
+    {
+      "keyword": "레시피노트",
+      "seed": "레시피",
+      "isSeed": false,
+      "top3": [
+        "요리백과 만개의레시피(500만,★4.8)",
+        "리피 - 레시피 메모, 나만의 요리책(0만,★4.7)",
+        "My Recipe Box: My Co(100만,★4.9)"
+      ],
+      "median": 100000,
+      "top3Avg": 2000333.3333333333,
+      "avgScore": 4.76,
+      "stale": 0,
+      "titleMatch": 0,
+      "weakness": 1
+    },
+    {
+      "keyword": "레시피콩",
+      "seed": "레시피",
+      "isSeed": false,
+      "top3": [
+        "레시피콩(1만,★3.7)",
+        "My Recipe Box: My Co(100만,★4.9)",
+        "한국 요리법이 담긴 요리책(500만,★4.1)"
+      ],
+      "median": 1000000,
+      "top3Avg": 2003333.3333333333,
+      "avgScore": 4.47,
+      "stale": 0,
+      "titleMatch": 1,
+      "weakness": 1
+    },
+    {
+      "keyword": "식비가계부",
+      "seed": "식비",
+      "isSeed": false,
+      "top3": [
+        "식비가계부 - \"식비\"만을 입력하는 (5만,★4.7)",
+        "편한가계부(1000만,★4.8)",
+        "쉬운 가계부 - 캘린더,그래프,위젯으(1만,★4.7)"
+      ],
+      "median": 100000,
+      "top3Avg": 3353333.3333333335,
+      "avgScore": 4.67,
+      "stale": 0,
+      "titleMatch": 1,
+      "weakness": 1
+    },
+    {
+      "keyword": "장보기리스트",
+      "seed": "장보기",
+      "isSeed": false,
+      "top3": [
+        "스마트 쇼핑 목록 - Listonic(1000만,★4.6)",
+        "쇼핑 목록 - 간단한 노트와 장보기 (10만,★4.9)",
+        "Enchlist: 장보기 가계부(10만,★5.0)"
+      ],
+      "median": 100000,
+      "top3Avg": 3400000,
+      "avgScore": 4.53,
+      "stale": 0,
+      "titleMatch": 1,
+      "weakness": 1
+    },
+    {
+      "keyword": "장사의신 밀키트",
+      "seed": "밀키트",
+      "isSeed": false,
+      "top3": [
+        "장신몰 - 장사의신이 만든 최저가 쇼(10만,★4.6)",
+        "갑부: 장사의 시대(100만,★4.8)",
+        "다이소몰 – 온라인 국민가게(1000만,★4.8)"
+      ],
+      "median": 1000000,
+      "top3Avg": 3700000,
+      "avgScore": 4.21,
+      "stale": 0,
+      "titleMatch": 0,
+      "weakness": 1
+    },
+    {
+      "keyword": "식단관리",
+      "seed": "식단",
+      "isSeed": false,
+      "top3": [
+        "인아웃 - 다이어트 코치 & 식단, (100만,★4.9)",
+        "필라이즈 - 다이어트 AI 코치, 식(50만,★4.8)",
+        "fatsecret의 칼로리 카운터(5000만,★4.5)"
+      ],
+      "median": 1000000,
+      "top3Avg": 17166666.666666668,
+      "avgScore": 4.62,
+      "stale": 0,
+      "titleMatch": 1,
+      "weakness": 1
+    },
+    {
+      "keyword": "요리하는 게임",
+      "seed": "요리",
+      "isSeed": false,
+      "top3": [
+        "마이리틀셰프 - 요리게임 식당 경영 (100만,★4.5)",
+        "내 요리: 미치도록 빠른 레스토랑 요(5000만,★4.6)",
+        "Cookingo: Perfect Me(1000만,★0.0)"
+      ],
+      "median": 10000000,
+      "top3Avg": 20333333.333333332,
+      "avgScore": 4.57,
+      "stale": 0,
+      "titleMatch": 0,
+      "weakness": 1
+    },
+    {
+      "keyword": "장보기메모장",
+      "seed": "장보기",
+      "isSeed": false,
+      "top3": [
+        "쇼핑 목록 - 간단한 노트와 장보기 (10만,★4.9)",
+        "장보기 메모(5만,★4.8)",
+        "컬러노트 메모장 - 노트 메모 위젯(10000만,★4.9)"
+      ],
+      "median": 10000000,
+      "top3Avg": 33383333.333333332,
+      "avgScore": 4.65,
+      "stale": 0,
+      "titleMatch": 1,
+      "weakness": 1
+    },
+    {
+      "keyword": "요리만들기게임",
+      "seed": "요리",
+      "isSeed": false,
+      "top3": [
+        "요리게임 & 쿠킹피버 (Royal C(5000만,★4.6)",
+        "내 요리: 미치도록 빠른 레스토랑 요(5000만,★4.6)",
+        "쿠킹 다이어리: 요리 게임(1000만,★4.5)"
+      ],
+      "median": 10000000,
+      "top3Avg": 36666666.666666664,
+      "avgScore": 4.63,
+      "stale": 0,
+      "titleMatch": 0,
+      "weakness": 1
+    },
+    {
+      "keyword": "레시피",
+      "seed": "레시피",
+      "isSeed": true,
+      "top3": [
+        "요리백과 만개의레시피(500만,★4.8)",
+        "Recipe Rush - Cookin(50만,★4.7)",
+        "레피타(5만,★0.0)"
+      ],
+      "median": 500000,
+      "top3Avg": 1850000,
+      "avgScore": 4.62,
+      "stale": 0,
+      "titleMatch": 5,
+      "weakness": 0
+    },
+    {
+      "keyword": "냉장고 정리",
+      "seed": "냉장고",
+      "isSeed": false,
+      "top3": [
+        "냉장고 정리 3D(500만,★4.6)",
+        "냉장고 채우기: ASMR 정리게임(1000만,★4.3)",
+        "냉장고 재고 관리 - 유통기한 알림,(1만,★4.0)"
+      ],
+      "median": 1000000,
+      "top3Avg": 5003333.333333333,
+      "avgScore": 4.37,
+      "stale": 0,
+      "titleMatch": 3,
+      "weakness": 0
+    },
+    {
+      "keyword": "식단기록",
+      "seed": "식단",
+      "isSeed": false,
+      "top3": [
+        "인아웃 - 다이어트 코치 & 식단, (100만,★4.9)",
+        "식단착착 - 식단기록, 식단인증, 식(5만,★4.6)",
+        "fatsecret의 칼로리 카운터(5000만,★4.5)"
+      ],
+      "median": 500000,
+      "top3Avg": 17016666.666666668,
+      "avgScore": 4.6,
+      "stale": 0,
+      "titleMatch": 3,
+      "weakness": 0
+    },
+    {
+      "keyword": "식단",
+      "seed": "식단",
+      "isSeed": true,
+      "top3": [
+        "인아웃 - 다이어트 코치 & 식단, (100만,★4.9)",
+        "fatsecret의 칼로리 카운터(5000만,★4.5)",
+        "필라이즈 - 다이어트 AI 코치, 식(50만,★4.8)"
+      ],
+      "median": 1000000,
+      "top3Avg": 17166666.666666668,
+      "avgScore": 4.57,
+      "stale": 0,
+      "titleMatch": 6,
+      "weakness": 0
+    },
+    {
+      "keyword": "장보기메모",
+      "seed": "장보기",
+      "isSeed": false,
+      "top3": [
+        "장보기 메모(5만,★4.8)",
+        "컬러노트 메모장 - 노트 메모 위젯(10000만,★4.9)",
+        "쇼핑 목록 - 간단한 노트와 장보기 (10만,★4.9)"
+      ],
+      "median": 10000000,
+      "top3Avg": 33383333.333333332,
+      "avgScore": 4.56,
+      "stale": 0,
+      "titleMatch": 3,
+      "weakness": 0
+    },
+    {
+      "keyword": "요리",
+      "seed": "요리",
+      "isSeed": true,
+      "top3": [
+        "요리백과 만개의레시피(500만,★4.8)",
+        "Cookingdom - 요리의 나라(5000만,★4.5)",
+        "내 요리: 미치도록 빠른 레스토랑 요(5000만,★4.6)"
+      ],
+      "median": 10000000,
+      "top3Avg": 35000000,
+      "avgScore": 4.47,
+      "stale": 0,
+      "titleMatch": 7,
+      "weakness": 0
+    },
+    {
+      "keyword": "요리게임",
+      "seed": "요리",
+      "isSeed": false,
+      "top3": [
+        "내 요리: 미치도록 빠른 레스토랑 요(5000만,★4.6)",
+        "쿠킹 매드니스 - 셰프의 레스토랑 게(10000만,★4.7)",
+        "마이리틀셰프 - 요리게임 식당 경영 (100만,★4.5)"
+      ],
+      "median": 50000000,
+      "top3Avg": 50333333.333333336,
+      "avgScore": 4.44,
+      "stale": 0,
+      "titleMatch": 4,
+      "weakness": 0
+    }
+  ]
+}

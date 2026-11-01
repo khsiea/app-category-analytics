@@ -1,0 +1,4638 @@
+[
+  {
+    "category": "parenting",
+    "seed": "육아",
+    "keyword": "육아",
+    "results": [
+      {
+        "appId": "yducky.application.babytime",
+        "title": "베이비타임 - BabyTime (수유, 육아, 일기)",
+        "developer": "Simfler",
+        "score": 4.944911,
+        "minInstalls": 1000000,
+        "ratings": 39707,
+        "genre": "출산/육아",
+        "updated": 1792666687000,
+        "titleHasKeyword": true
+      },
+      {
+        "appId": "net.mommom.momstouch",
+        "title": "맘맘 - 아이랑 갈곳, 살것 추천",
+        "developer": "Wonderweeks",
+        "score": 4.8641686,
+        "minInstalls": 500000,
+        "ratings": 12875,
+        "genre": "여행 및 지역정보",
+        "updated": 1792548234000,
+        "titleHasKeyword": false
+      },
+      {
+        "appId": "com.google.android.apps.kids.familylink",
+        "title": "Google Family Link",
+        "developer": "Google LLC",
+        "score": 4.459892,
+        "minInstalls": 100000000,
+        "ratings": 5477365,
+        "genre": "도구",
+        "updated": 1793053635000,
+        "titleHasKeyword": false
+      },
+      {
+        "appId": "com.jejememe.daybabyday",
+        "title": "쑥쑥찰칵 - 아기 사진 공유 사진 정리 육아앱",
+        "developer": "JEJEMEME Inc.",
+        "score": 4.873102,
+        "minInstalls": 1000000,
+        "ratings": 28006,
+        "genre": "출산/육아",
+        "updated": 1793257298000,
+        "titleHasKeyword": true
+      },
+      {
+        "appId": "jp.co.sakabou.piyolog",
+        "title": "육아 기록 - 삐요로그: 신생아 모유수유, 아기 발달",
+        "developer": "PiyoLog Inc.",
+        "score": 4.8498583,
+        "minInstalls": 1000000,
+        "ratings": 28846,
+        "genre": "출산/육아",
+        "updated": 1791535983000,
+        "titleHasKeyword": true
+      },
+      {
+        "appId": "org.findmykids.app",
+        "title": "Find my kids: 가족 위치 추적",
+        "developer": "LETEM LTD",
+        "score": 4.6245112,
+        "minInstalls": 50000000,
+        "ratings": 2068542,
+        "genre": "출산/육아",
+        "updated": 1793288283000,
+        "titleHasKeyword": false
+      },
+      {
+        "appId": "com.mommytalkappv1",
+        "title": "마미톡 - 임신, 육아 필수 앱",
+        "developer": "LifeX, Inc.",
+        "score": 4.8372326,
+        "minInstalls": 1000000,
+        "ratings": 20117,
+        "genre": "출산/육아",
+        "updated": 1793065804000,
+        "titleHasKeyword": true
+      },
+      {
+        "appId": "us.mitene",
+        "title": "FamilyAlbum - 패밀리 앨범",
+        "developer": "MIXI, Inc.",
+        "score": 4.8452086,
+        "minInstalls": 10000000,
+        "ratings": 366505,
+        "genre": "출산/육아",
+        "updated": 1792664878000,
+        "titleHasKeyword": false
+      },
+      {
+        "appId": "com.omega.babyleap",
+        "title": "Baby Leap: 아기 발달·성장 기록 육아 다이어리",
+        "developer": "Omega Solutions, Inc.",
+        "minInstalls": 100000,
+        "genre": "출산/육아",
+        "updated": 1793094612000,
+        "titleHasKeyword": true
+      },
+      {
+        "appId": "kr.villagebaby.billyapplication",
+        "title": "베이비빌리 - 임신, 임신준비, 육아, 태교 앱",
+        "developer": "VillageBaby Inc.",
+        "score": 4.9313254,
+        "minInstalls": 1000000,
+        "ratings": 11860,
+        "genre": "출산/육아",
+        "updated": 1792736828000,
+        "titleHasKeyword": true
+      }
+    ]
+  },
+  {
+    "category": "parenting",
+    "seed": "육아",
+    "keyword": "육아크루",
+    "results": [
+      {
+        "appId": "com.yugacrew.yugacrewApp",
+        "title": "육아크루 (육아친구, 어린이집/유치원현황, 학습지도안)",
+        "developer": "Dinoz.Co.,Ltd.",
+        "score": 4.887574,
+        "minInstalls": 10000,
+        "ratings": 1371,
+        "genre": "출산/육아",
+        "updated": 1792651038000,
+        "titleHasKeyword": true
+      },
+      {
+        "appId": "com.moms.momsdiary",
+        "title": "임신 육아일기 포토북 출판 지원 - 맘스다이어리",
+        "developer": "Moms Inc.",
+        "score": 4.921348,
+        "minInstalls": 500000,
+        "ratings": 42073,
+        "genre": "출산/육아",
+        "updated": 1790068889000,
+        "titleHasKeyword": false
+      },
+      {
+        "appId": "im.mamma.app",
+        "title": "맘마 - 육아기록 어플, 수유·수면·AI 육아 상담",
+        "developer": "스페시파이",
+        "minInstalls": 10,
+        "genre": "출산/육아",
+        "updated": 1789805010000,
+        "titleHasKeyword": false
+      },
+      {
+        "appId": "net.mommom.momstouch",
+        "title": "맘맘 - 아이랑 갈곳, 살것 추천",
+        "developer": "Wonderweeks",
+        "score": 4.8641686,
+        "minInstalls": 500000,
+        "ratings": 12875,
+        "genre": "여행 및 지역정보",
+        "updated": 1792548234000,
+        "titleHasKeyword": false
+      },
+      {
+        "appId": "com.jejememe.daybabyday",
+        "title": "쑥쑥찰칵 - 아기 사진 공유 사진 정리 육아앱",
+        "developer": "JEJEMEME Inc.",
+        "score": 4.873102,
+        "minInstalls": 1000000,
+        "ratings": 28006,
+        "genre": "출산/육아",
+        "updated": 1793257298000,
+        "titleHasKeyword": false
+      },
+      {
+        "appId": "com.mommytalkappv1",
+        "title": "마미톡 - 임신, 육아 필수 앱",
+        "developer": "LifeX, Inc.",
+        "score": 4.8372326,
+        "minInstalls": 1000000,
+        "ratings": 20117,
+        "genre": "출산/육아",
+        "updated": 1793065804000,
+        "titleHasKeyword": false
+      },
+      {
+        "appId": "com.appmd.fever",
+        "title": "열나요 - 집에서 시작하는 우리 아이 열관리",
+        "developer": "모바일닥터",
+        "score": 3.8430736,
+        "minInstalls": 1000000,
+        "ratings": 9998,
+        "genre": "출산/육아",
+        "updated": 1792134602000,
+        "titleHasKeyword": false
+      },
+      {
+        "appId": "yducky.application.babytime",
+        "title": "베이비타임 - BabyTime (수유, 육아, 일기)",
+        "developer": "Simfler",
+        "score": 4.944911,
+        "minInstalls": 1000000,
+        "ratings": 39707,
+        "genre": "출산/육아",
+        "updated": 1792666687000,
+        "titleHasKeyword": false
+      },
+      {
+        "appId": "com.srmam2020.app",
+        "title": "럽맘 - 임신·출산·육아, 임신주수와 산모수첩",
+        "developer": "luvmom Inc.",
+        "score": 4.912796,
+        "minInstalls": 100000,
+        "ratings": 10581,
+        "genre": "출산/육아",
+        "updated": 1792922829000,
+        "titleHasKeyword": false
+      },
+      {
+        "appId": "kr.co.yuhankimberly.mobile.momq",
+        "title": "맘큐 - 유한킴벌리 직영몰 momQ",
+        "developer": "유한킴벌리(주)",
+        "score": 3.1650486,
+        "minInstalls": 500000,
+        "ratings": 1250,
+        "genre": "쇼핑",
+        "updated": 1790141418000,
+        "titleHasKeyword": false
+      }
+    ]
+  },
+  {
+    "category": "parenting",
+    "seed": "육아",
+    "keyword": "육아일기",
+    "results": [
+      {
+        "appId": "yducky.application.babytime",
+        "title": "베이비타임 - BabyTime (수유, 육아, 일기)",
+        "developer": "Simfler",
+        "score": 4.944911,
+        "minInstalls": 1000000,
+        "ratings": 39707,
+        "genre": "출산/육아",
+        "updated": 1792666687000,
+        "titleHasKeyword": false
+      },
+      {
+        "appId": "com.moms.momsdiary",
+        "title": "임신 육아일기 포토북 출판 지원 - 맘스다이어리",
+        "developer": "Moms Inc.",
+        "score": 4.921348,
+        "minInstalls": 500000,
+        "ratings": 42073,
+        "genre": "출산/육아",
+        "updated": 1790068889000,
+        "titleHasKeyword": true
+      },
+      {
+        "appId": "com.whisperarts.erby",
+        "title": "신생아 모유 수유 일지  육아일기  Erby",
+        "developer": "Demapps LLC",
+        "score": 4.3103447,
+        "minInstalls": 1000000,
+        "ratings": 23206,
+        "genre": "출산/육아",
+        "updated": 1792671317000,
+        "titleHasKeyword": true
+      },
+      {
+        "appId": "com.amanefactory.totsukitoka",
+        "title": "280days : 부부가 공유하는 \"임신 기록/일기\"",
+        "developer": "amane factory inc.",
+        "score": 4.617937,
+        "minInstalls": 1000000,
+        "ratings": 40071,
+        "genre": "출산/육아",
+        "updated": 1785829139000,
+        "titleHasKeyword": false
+      },
+      {
+        "appId": "com.babynote.baby_note",
+        "title": "아가노트 - 육아일기, 아기 성장기록, 가족공유",
+        "developer": "BroSister",
+        "score": 4.892857,
+        "minInstalls": 100,
+        "ratings": 28,
+        "genre": "출산/육아",
+        "updated": 1790573450000,
+        "titleHasKeyword": true
+      },
+      {
+        "appId": "com.arong.mybaby_history",
+        "title": "마이리틀로그 - 육아일기, 아이 성장기록",
+        "developer": "tyeom-2",
+        "minInstalls": 10,
+        "genre": "라이프스타일",
+        "updated": 1791874144000,
+        "titleHasKeyword": true
+      },
+      {
+        "appId": "com.liveyap.timehut.bbmemo",
+        "title": "Bebememo - 아기의 스마트 사진 앨범",
+        "developer": "Bebememo, Inc.",
+        "score": 4.5317073,
+        "minInstalls": 500000,
+        "ratings": 5117,
+        "genre": "출산/육아",
+        "updated": 1793171573000,
+        "titleHasKeyword": false
+      },
+      {
+        "appId": "com.nighp.babytracker_android",
+        "title": "육아일기장",
+        "developer": "NIGHP SOFTWARE",
+        "score": 4.8,
+        "minInstalls": 1000000,
+        "ratings": 72029,
+        "genre": "출산/육아",
+        "updated": 1792227919000,
+        "titleHasKeyword": true
+      },
+      {
+        "appId": "jp.co.sakabou.piyolog",
+        "title": "육아 기록 - 삐요로그: 신생아 모유수유, 아기 발달",
+        "developer": "PiyoLog Inc.",
+        "score": 4.8498583,
+        "minInstalls": 1000000,
+        "ratings": 28846,
+        "genre": "출산/육아",
+        "updated": 1791535983000,
+        "titleHasKeyword": false
+      },
+      {
+        "appId": "com.casoft.gbdiary",
+        "title": "꼬박일기 - 일기, 일기장, 기분일기장, 다이어리",
+        "developer": "CASOFT",
+        "score": 4.8090153,
+        "minInstalls": 100000,
+        "ratings": 9578,
+        "genre": "라이프스타일",
+        "updated": 1793289567000,
+        "titleHasKeyword": false
+      }
+    ]
+  },
+  {
+    "category": "parenting",
+    "seed": "육아",
+    "keyword": "육아기록",
+    "results": [
+      {
+        "appId": "yducky.application.babytime",
+        "title": "베이비타임 - BabyTime (수유, 육아, 일기)",
+        "developer": "Simfler",
+        "score": 4.944911,
+        "minInstalls": 1000000,
+        "ratings": 39707,
+        "genre": "출산/육아",
+        "updated": 1792666687000,
+        "titleHasKeyword": false
+      },
+      {
+        "appId": "jp.co.sakabou.piyolog",
+        "title": "육아 기록 - 삐요로그: 신생아 모유수유, 아기 발달",
+        "developer": "PiyoLog Inc.",
+        "score": 4.8498583,
+        "minInstalls": 1000000,
+        "ratings": 28846,
+        "genre": "출산/육아",
+        "updated": 1791535983000,
+        "titleHasKeyword": true
+      },
+      {
+        "appId": "com.nighp.babytracker_android",
+        "title": "육아일기장",
+        "developer": "NIGHP SOFTWARE",
+        "score": 4.8,
+        "minInstalls": 1000000,
+        "ratings": 72029,
+        "genre": "출산/육아",
+        "updated": 1792227919000,
+        "titleHasKeyword": false
+      },
+      {
+        "appId": "com.whisperarts.erby",
+        "title": "신생아 모유 수유 일지  육아일기  Erby",
+        "developer": "Demapps LLC",
+        "score": 4.3103447,
+        "minInstalls": 1000000,
+        "ratings": 23206,
+        "genre": "출산/육아",
+        "updated": 1792671317000,
+        "titleHasKeyword": false
+      },
+      {
+        "appId": "com.jejememe.daybabyday",
+        "title": "쑥쑥찰칵 - 아기 사진 공유 사진 정리 육아앱",
+        "developer": "JEJEMEME Inc.",
+        "score": 4.873102,
+        "minInstalls": 1000000,
+        "ratings": 28006,
+        "genre": "출산/육아",
+        "updated": 1793257298000,
+        "titleHasKeyword": false
+      },
+      {
+        "appId": "com.amanefactory.totsukitoka",
+        "title": "280days : 부부가 공유하는 \"임신 기록/일기\"",
+        "developer": "amane factory inc.",
+        "score": 4.617937,
+        "minInstalls": 1000000,
+        "ratings": 40071,
+        "genre": "출산/육아",
+        "updated": 1785829139000,
+        "titleHasKeyword": false
+      },
+      {
+        "appId": "com.mommytalkappv1",
+        "title": "마미톡 - 임신, 육아 필수 앱",
+        "developer": "LifeX, Inc.",
+        "score": 4.8372326,
+        "minInstalls": 1000000,
+        "ratings": 20117,
+        "genre": "출산/육아",
+        "updated": 1793065804000,
+        "titleHasKeyword": false
+      },
+      {
+        "appId": "com.baby.sleep.tracker.feeding.diaper.free",
+        "title": "Luli: 아기 수면 분석·수유어플·육아 기록",
+        "developer": "SimpleInnovation",
+        "minInstalls": 50000,
+        "genre": "출산/육아",
+        "updated": 1793376677000,
+        "titleHasKeyword": true
+      },
+      {
+        "appId": "com.drillyapps.babydaybook",
+        "title": "Baby Daybook: 수유시간어플. 신생아 수유일지",
+        "developer": "Baltapis",
+        "score": 4.61,
+        "minInstalls": 1000000,
+        "ratings": 69238,
+        "genre": "출산/육아",
+        "updated": 1793224156000,
+        "titleHasKeyword": false
+      },
+      {
+        "appId": "com.wachanga.babycare",
+        "title": "애기 수유시간: 베이비 수유어플, 분유시간어플＋육아일기",
+        "developer": "Wachanga",
+        "score": 4.6887417,
+        "minInstalls": 5000000,
+        "ratings": 111145,
+        "genre": "출산/육아",
+        "updated": 1793196966000,
+        "titleHasKeyword": false
+      }
+    ]
+  },
+  {
+    "category": "parenting",
+    "seed": "육아",
+    "keyword": "육아종합지원센터",
+    "results": [
+      {
+        "appId": "kr.co.jnet.sylib",
+        "title": "성남시 육아종합지원센터",
+        "developer": "jnet",
+        "score": 4.3125,
+        "minInstalls": 10000,
+        "ratings": 16,
+        "genre": "라이프스타일",
+        "updated": 1785241313000,
+        "titleHasKeyword": true
+      },
+      {
+        "appId": "com.swing2app.v3.de601e70a7cd841719636357d2e96f897",
+        "title": "안산시육아종합지원센터",
+        "developer": "안산시육아종합지원센터",
+        "minInstalls": 500,
+        "genre": "출산/육아",
+        "updated": 1761618129000,
+        "titleHasKeyword": true
+      },
+      {
+        "appId": "com.swing2app.v3.d7712bc145208465ea3e9cb3619e7e76c",
+        "title": "서초구육아종합지원센터",
+        "developer": "서초구육아종합지원센터",
+        "score": 5,
+        "minInstalls": 1000,
+        "ratings": 149,
+        "genre": "출산/육아",
+        "updated": 1785968517000,
+        "titleHasKeyword": true
+      },
+      {
+        "appId": "com.hustay.swing.df3618c671d25461b982079be1968bf64",
+        "title": "경기화성시육아종합지원센터",
+        "developer": "화성시육아종합지원센터",
+        "score": 3.15,
+        "minInstalls": 5000,
+        "ratings": 20,
+        "genre": "출산/육아",
+        "updated": 1787126166000,
+        "titleHasKeyword": true
+      },
+      {
+        "appId": "com.swing2app.v3.d6d34ad9729684ecf9b034a3184800478",
+        "title": "수원시동부육아종합지원센터",
+        "developer": "수원시동부육아종합지원센터",
+        "minInstalls": 1000,
+        "genre": "출산/육아",
+        "updated": 1781167994000,
+        "titleHasKeyword": true
+      },
+      {
+        "appId": "kr.or.sdmkdcenter.android",
+        "title": "서대문구육아종합지원센터",
+        "developer": "서대문구육아종합지원센터",
+        "minInstalls": 1000,
+        "genre": "라이프스타일",
+        "updated": 1787401894000,
+        "titleHasKeyword": true
+      },
+      {
+        "appId": "com.ulsani.webapp",
+        "title": "울산광역시육아종합지원센터 울아이랑",
+        "developer": "가우테크",
+        "score": 4.7058825,
+        "minInstalls": 5000,
+        "ratings": 34,
+        "genre": "교육",
+        "updated": 1785981976000,
+        "titleHasKeyword": true
+      },
+      {
+        "appId": "com.yugacrew.yugacrewApp",
+        "title": "육아크루 (육아친구, 어린이집/유치원현황, 학습지도안)",
+        "developer": "Dinoz.Co.,Ltd.",
+        "score": 4.887574,
+        "minInstalls": 10000,
+        "ratings": 1371,
+        "genre": "출산/육아",
+        "updated": 1792651038000,
+        "titleHasKeyword": false
+      },
+      {
+        "appId": "com.swing2app.v3.de226164322564ef7995cbae667b97f23",
+        "title": "강남구육아종합지원센터",
+        "developer": "서울강남구육아종합지원센터",
+        "minInstalls": 100,
+        "genre": "출산/육아",
+        "updated": 1785968236000,
+        "titleHasKeyword": true
+      },
+      {
+        "appId": "com.mw.Android_KidsLove2",
+        "title": "아이사랑 모바일",
+        "developer": "교육부(영유아안전정보과)",
+        "score": 1.4008098,
+        "minInstalls": 1000000,
+        "ratings": 6273,
+        "genre": "출산/육아",
+        "updated": 1758767533000,
+        "titleHasKeyword": false
+      }
+    ]
+  },
+  {
+    "category": "parenting",
+    "seed": "아기",
+    "keyword": "아기",
+    "results": [
+      {
+        "appId": "yducky.application.babytime",
+        "title": "베이비타임 - BabyTime (수유, 육아, 일기)",
+        "developer": "Simfler",
+        "score": 4.944911,
+        "minInstalls": 1000000,
+        "ratings": 39707,
+        "genre": "출산/육아",
+        "updated": 1792666687000,
+        "titleHasKeyword": false
+      },
+      {
+        "appId": "com.hp.babyapp",
+        "title": "아기 + | 우리 아기 추적기",
+        "developer": "Philips Electronics UK Limited",
+        "score": 4.728395,
+        "minInstalls": 5000000,
+        "ratings": 99708,
+        "genre": "출산/육아",
+        "updated": 1763734777000,
+        "titleHasKeyword": true
+      },
+      {
+        "appId": "jp.co.sakabou.piyolog",
+        "title": "육아 기록 - 삐요로그: 신생아 모유수유, 아기 발달",
+        "developer": "PiyoLog Inc.",
+        "score": 4.8498583,
+        "minInstalls": 1000000,
+        "ratings": 28846,
+        "genre": "출산/육아",
+        "updated": 1791535983000,
+        "titleHasKeyword": true
+      },
+      {
+        "appId": "com.nighp.babytracker_android",
+        "title": "육아일기장",
+        "developer": "NIGHP SOFTWARE",
+        "score": 4.8,
+        "minInstalls": 1000000,
+        "ratings": 72029,
+        "genre": "출산/육아",
+        "updated": 1792227919000,
+        "titleHasKeyword": false
+      },
+      {
+        "appId": "com.whisperarts.erby",
+        "title": "신생아 모유 수유 일지  육아일기  Erby",
+        "developer": "Demapps LLC",
+        "score": 4.3103447,
+        "minInstalls": 1000000,
+        "ratings": 23206,
+        "genre": "출산/육아",
+        "updated": 1792671317000,
+        "titleHasKeyword": false
+      },
+      {
+        "appId": "kr.villagebaby.billyapplication",
+        "title": "베이비빌리 - 임신, 임신준비, 육아, 태교 앱",
+        "developer": "VillageBaby Inc.",
+        "score": 4.9313254,
+        "minInstalls": 1000000,
+        "ratings": 11860,
+        "genre": "출산/육아",
+        "updated": 1792736828000,
+        "titleHasKeyword": false
+      },
+      {
+        "appId": "com.amanefactory.totsukitoka",
+        "title": "280days : 부부가 공유하는 \"임신 기록/일기\"",
+        "developer": "amane factory inc.",
+        "score": 4.617937,
+        "minInstalls": 1000000,
+        "ratings": 40071,
+        "genre": "출산/육아",
+        "updated": 1785829139000,
+        "titleHasKeyword": false
+      },
+      {
+        "appId": "com.kinedu.appkinedu",
+        "title": "Kinedu: Baby Development",
+        "developer": "Kinedu INC",
+        "score": 4.875,
+        "minInstalls": 5000000,
+        "ratings": 42509,
+        "genre": "출산/육아",
+        "updated": 1793224910000,
+        "titleHasKeyword": false
+      },
+      {
+        "appId": "com.seacloud.bc",
+        "title": "Baby Connect: Newborn Tracker",
+        "developer": "Seacloud Software",
+        "score": 5,
+        "minInstalls": 100000,
+        "ratings": 10833,
+        "genre": "출산/육아",
+        "updated": 1793222973000,
+        "titleHasKeyword": false
+      },
+      {
+        "appId": "com.wachanga.babycare",
+        "title": "애기 수유시간: 베이비 수유어플, 분유시간어플＋육아일기",
+        "developer": "Wachanga",
+        "score": 4.6887417,
+        "minInstalls": 5000000,
+        "ratings": 111145,
+        "genre": "출산/육아",
+        "updated": 1793196966000,
+        "titleHasKeyword": false
+      }
+    ]
+  },
+  {
+    "category": "parenting",
+    "seed": "아기",
+    "keyword": "아기 키우기",
+    "results": [
+      {
+        "appId": "mother.simulator.baby.care.games",
+        "title": "아기 돌보기 - 아기키우기 시뮬레이션, 엄마 게임",
+        "developer": "JMH Developers OU",
+        "minInstalls": 50000,
+        "genre": "캐주얼",
+        "updated": 1773217811000,
+        "titleHasKeyword": true
+      },
+      {
+        "appId": "com.gpg.ninemonths",
+        "title": "Idle 9 Months",
+        "developer": "Green Panda Games",
+        "score": 4.5420055,
+        "minInstalls": 10000000,
+        "ratings": 575823,
+        "genre": "시뮬레이션",
+        "updated": 1787048247000,
+        "titleHasKeyword": false
+      },
+      {
+        "appId": "com.kigle.project.pororo.babycare",
+        "title": "뽀로로 키우기 - 어린이 게임, 돌보기, 습관, 육성",
+        "developer": "KIGLE",
+        "score": 4.257426,
+        "minInstalls": 100000,
+        "ratings": 512,
+        "genre": "학습",
+        "updated": 1773204982000,
+        "titleHasKeyword": false
+      },
+      {
+        "appId": "com.alimastudios.nursery",
+        "title": "Alima's Baby Nursery",
+        "developer": "Alima Studios",
+        "score": 4.075472,
+        "minInstalls": 5000000,
+        "ratings": 11797,
+        "genre": "학습",
+        "updated": 1792245466000,
+        "titleHasKeyword": false
+      },
+      {
+        "appId": "com.pazugames.chicbaby2",
+        "title": "베이비 케어 : 아기 게임 - 옷 입히기 게임",
+        "developer": "Pazu Games",
+        "score": 3.837838,
+        "minInstalls": 10000000,
+        "ratings": 22818,
+        "genre": "학습",
+        "updated": 1786529311000,
+        "titleHasKeyword": false
+      },
+      {
+        "appId": "com.kigle.cocobi.babycare",
+        "title": "코코비 아기 돌보기 - 베이비시터,아기 키우기,역할놀이",
+        "developer": "KIGLE",
+        "score": 4.039604,
+        "minInstalls": 10000000,
+        "ratings": 7781,
+        "genre": "학습",
+        "updated": 1788490300000,
+        "titleHasKeyword": true
+      },
+      {
+        "appId": "com.kigle.babycare",
+        "title": "뽀로로와 크롱의 아기 돌보기",
+        "developer": "ICONIX",
+        "score": 3.86,
+        "minInstalls": 100000,
+        "ratings": 484,
+        "genre": "학습",
+        "updated": 1765769920000,
+        "titleHasKeyword": false
+      },
+      {
+        "appId": "com.tutotoons.app.gigglebabies",
+        "title": "Giggle Babies - 아기 돌보기",
+        "developer": "TutoTOONS",
+        "score": 3.9433963,
+        "minInstalls": 10000000,
+        "ratings": 18220,
+        "genre": "학습",
+        "updated": 1791263293000,
+        "titleHasKeyword": false
+      },
+      {
+        "appId": "com.lgdstudio.ilife",
+        "title": "i Live - 내 작은 것이 살아 있다..",
+        "developer": "LGD Studio SRLS",
+        "score": 3.65,
+        "minInstalls": 5000000,
+        "ratings": 118484,
+        "genre": "시뮬레이션",
+        "updated": 1779150122000,
+        "titleHasKeyword": false
+      },
+      {
+        "appId": "com.sinyee.babybus.care",
+        "title": "아기 팬더  돌보기",
+        "developer": "BabyBus",
+        "score": 2.8666666,
+        "minInstalls": 100000000,
+        "ratings": 196116,
+        "genre": "학습",
+        "updated": 1789954154000,
+        "titleHasKeyword": false
+      }
+    ]
+  },
+  {
+    "category": "parenting",
+    "seed": "아기",
+    "keyword": "아기상어",
+    "results": [
+      {
+        "appId": "kr.co.smartstudy.bbsworld_android_googlemarket",
+        "title": "아기상어 키즈 월드: 유아 동요 영상 놀이 게임",
+        "developer": "The Pinkfong Company",
+        "score": 3.52,
+        "minInstalls": 5000000,
+        "ratings": 2803,
+        "genre": "교육",
+        "updated": 1791964521000,
+        "titleHasKeyword": true
+      },
+      {
+        "appId": "kr.co.smartstudy.babyshark_android_googlemarket",
+        "title": "핑크퐁 상어 가족: 키즈 유아 어린이 게임, 동요",
+        "developer": "The Pinkfong Company",
+        "score": 3.65,
+        "minInstalls": 50000000,
+        "ratings": 44827,
+        "genre": "교육",
+        "updated": 1792039593000,
+        "titleHasKeyword": false
+      },
+      {
+        "appId": "kr.co.smartstudy.cartown_android_googlemarket",
+        "title": "아기상어 자동차 동요 마을: 유아 어린이 게임 & 동요",
+        "developer": "The Pinkfong Company",
+        "score": 3.45,
+        "minInstalls": 5000000,
+        "ratings": 9103,
+        "genre": "교육",
+        "updated": 1787616818000,
+        "titleHasKeyword": true
+      },
+      {
+        "appId": "kr.co.smartstudy.bbsdentistgame_android_googlemarket",
+        "title": "아기상어 치과놀이: 어린이 동물 병원, 치과 의사 게임",
+        "developer": "The Pinkfong Company",
+        "score": 3.6515152,
+        "minInstalls": 500000,
+        "ratings": 600,
+        "genre": "학습",
+        "updated": 1792991232000,
+        "titleHasKeyword": true
+      },
+      {
+        "appId": "kr.co.smartstudy.bbshospitalgame_android_googlemarket",
+        "title": "아기상어 병원놀이: 어린이 병원, 동물병원, 의사 게임",
+        "developer": "The Pinkfong Company",
+        "score": 3.35,
+        "minInstalls": 1000000,
+        "ratings": 1305,
+        "genre": "교육",
+        "updated": 1792126610000,
+        "titleHasKeyword": true
+      },
+      {
+        "appId": "kr.co.smartstudy.singingphone_android_googlemarket",
+        "title": "핑크퐁 아기상어 전화놀이: 유아 핸드폰 & 전화 게임",
+        "developer": "The Pinkfong Company",
+        "score": 3.83,
+        "minInstalls": 10000000,
+        "ratings": 21890,
+        "genre": "교육",
+        "updated": 1789970200000,
+        "titleHasKeyword": true
+      },
+      {
+        "appId": "kr.co.smartstudy.kidspuzzlefun_android_googlemarket",
+        "title": "아기상어 퍼즐 맞추기: 유아, 어린이, 아이 퍼즐게임",
+        "developer": "The Pinkfong Company",
+        "score": 3.17,
+        "minInstalls": 1000000,
+        "ratings": 3962,
+        "genre": "교육",
+        "updated": 1789102574000,
+        "titleHasKeyword": true
+      },
+      {
+        "appId": "kr.co.smartstudy.bodlebookiapfree_android_googlemarket",
+        "title": "핑크퐁 아기상어 인기 동요",
+        "developer": "The Pinkfong Company",
+        "score": 4.29,
+        "minInstalls": 1000000,
+        "ratings": 11217,
+        "genre": "교육",
+        "updated": 1761281833000,
+        "titleHasKeyword": true
+      },
+      {
+        "appId": "kr.co.smartstudy.bbspizzagame_android_googlemarket",
+        "title": "아기상어 피자 만들기: 유아 요리 배달 시뮬레이터 게임",
+        "developer": "The Pinkfong Company",
+        "score": 3.69,
+        "minInstalls": 1000000,
+        "ratings": 1809,
+        "genre": "교육",
+        "updated": 1792996573000,
+        "titleHasKeyword": true
+      },
+      {
+        "appId": "kr.co.smartstudy.bbschefgame_android_googlemarket",
+        "title": "아기상어 요리사 게임: 어린이 요리 놀이, 음식 만들기",
+        "developer": "The Pinkfong Company",
+        "score": 3.262295,
+        "minInstalls": 500000,
+        "ratings": 512,
+        "genre": "교육",
+        "updated": 1788934188000,
+        "titleHasKeyword": true
+      }
+    ]
+  },
+  {
+    "category": "parenting",
+    "seed": "아기",
+    "keyword": "아기위젯",
+    "results": [
+      {
+        "appId": "princ.care.bwidget",
+        "title": "아기 위젯 : 아기 개월수, 임신 주수, 신체 자동계산",
+        "developer": "PREIR ENT.",
+        "score": 4.564586,
+        "minInstalls": 500000,
+        "ratings": 7345,
+        "genre": "출산/육아",
+        "updated": 1779075137000,
+        "titleHasKeyword": true
+      },
+      {
+        "appId": "com.wachanga.babycare",
+        "title": "애기 수유시간: 베이비 수유어플, 분유시간어플＋육아일기",
+        "developer": "Wachanga",
+        "score": 4.6887417,
+        "minInstalls": 5000000,
+        "ratings": 111145,
+        "genre": "출산/육아",
+        "updated": 1793196966000,
+        "titleHasKeyword": false
+      },
+      {
+        "appId": "com.whisperarts.erby",
+        "title": "신생아 모유 수유 일지  육아일기  Erby",
+        "developer": "Demapps LLC",
+        "score": 4.3103447,
+        "minInstalls": 1000000,
+        "ratings": 23206,
+        "genre": "출산/육아",
+        "updated": 1792671317000,
+        "titleHasKeyword": false
+      },
+      {
+        "appId": "yducky.application.babytime",
+        "title": "베이비타임 - BabyTime (수유, 육아, 일기)",
+        "developer": "Simfler",
+        "score": 4.944911,
+        "minInstalls": 1000000,
+        "ratings": 39707,
+        "genre": "출산/육아",
+        "updated": 1792666687000,
+        "titleHasKeyword": false
+      },
+      {
+        "appId": "com.amanefactory.totsukitoka",
+        "title": "280days : 부부가 공유하는 \"임신 기록/일기\"",
+        "developer": "amane factory inc.",
+        "score": 4.617937,
+        "minInstalls": 1000000,
+        "ratings": 40071,
+        "genre": "출산/육아",
+        "updated": 1785829139000,
+        "titleHasKeyword": false
+      },
+      {
+        "appId": "com.liveyap.timehut.bbmemo",
+        "title": "Bebememo - 아기의 스마트 사진 앨범",
+        "developer": "Bebememo, Inc.",
+        "score": 4.5317073,
+        "minInstalls": 500000,
+        "ratings": 5117,
+        "genre": "출산/육아",
+        "updated": 1793171573000,
+        "titleHasKeyword": false
+      },
+      {
+        "appId": "org.twisevictory.apps.ex",
+        "title": "엄마, 나는 자라고 있어요",
+        "developer": "The Wonder Weeks",
+        "score": 2.5,
+        "minInstalls": 500000,
+        "ratings": 3927,
+        "genre": "출산/육아",
+        "updated": 1793281179000,
+        "titleHasKeyword": false
+      },
+      {
+        "appId": "jp.co.sakabou.piyolog",
+        "title": "육아 기록 - 삐요로그: 신생아 모유수유, 아기 발달",
+        "developer": "PiyoLog Inc.",
+        "score": 4.8498583,
+        "minInstalls": 1000000,
+        "ratings": 28846,
+        "genre": "출산/육아",
+        "updated": 1791535983000,
+        "titleHasKeyword": false
+      },
+      {
+        "appId": "com.mommytalkappv1",
+        "title": "마미톡 - 임신, 육아 필수 앱",
+        "developer": "LifeX, Inc.",
+        "score": 4.8372326,
+        "minInstalls": 1000000,
+        "ratings": 20117,
+        "genre": "출산/육아",
+        "updated": 1793065804000,
+        "titleHasKeyword": false
+      },
+      {
+        "appId": "com.amila.parenting",
+        "title": "육아일기 - 신생아 트래커: 모유수유 및 수유어플",
+        "developer": "Amila",
+        "score": 4.970297,
+        "minInstalls": 1000000,
+        "ratings": 135167,
+        "genre": "출산/육아",
+        "updated": 1792502744000,
+        "titleHasKeyword": false
+      }
+    ]
+  },
+  {
+    "category": "parenting",
+    "seed": "아기",
+    "keyword": "아기게임",
+    "results": [
+      {
+        "appId": "com.joongly.kids.learning.games",
+        "title": "1,2,3,4세 어린이를 위한 쉬운 게임",
+        "developer": "Kakadoo",
+        "score": 4.3884616,
+        "minInstalls": 10000000,
+        "ratings": 73279,
+        "genre": "학습",
+        "updated": 1786118501000,
+        "titleHasKeyword": false
+      },
+      {
+        "appId": "com.iz.baby.world.kids.learning.games.balloon.popping.educational",
+        "title": "2세 이상 유아용 아기 게임 - 어린이 교육용 게임",
+        "developer": "Timpy Games For Kids, Toddlers & Baby",
+        "score": 4.347826,
+        "minInstalls": 1000000,
+        "ratings": 10251,
+        "genre": "학습",
+        "updated": 1792159042000,
+        "titleHasKeyword": true
+      },
+      {
+        "appId": "com.bimiboo.birthday",
+        "title": "비미 부 키즈: 2-5세 어린이를 위한 학습 아기게임",
+        "developer": "Bimi Boo Kids Learning Games for Toddlers FZ-LLC",
+        "score": 4.39,
+        "minInstalls": 5000000,
+        "ratings": 22071,
+        "genre": "학습",
+        "updated": 1792666964000,
+        "titleHasKeyword": true
+      },
+      {
+        "appId": "com.rvappstudios.baby.toddler.kids.games.learning.activity",
+        "title": "유아용 아기 게임: 배우고 놀기, 숫자, 수학, 퍼즐",
+        "developer": "RV AppStudios",
+        "score": 4.42,
+        "minInstalls": 50000000,
+        "ratings": 60631,
+        "genre": "학습",
+        "updated": 1792848781000,
+        "titleHasKeyword": true
+      },
+      {
+        "appId": "com.rvappstudios.baby.games.piano.phone.kids",
+        "title": "아기 게임- 피아노, 전화",
+        "developer": "RV AppStudios",
+        "score": 4.3058825,
+        "minInstalls": 50000000,
+        "ratings": 63021,
+        "genre": "학습",
+        "updated": 1791986397000,
+        "titleHasKeyword": true
+      },
+      {
+        "appId": "com.happytools.learning.kids.games",
+        "title": "2, 3, 4세 유아를 위한 베이비 게임",
+        "developer": "Bebi Family: preschool learning games for kids",
+        "score": 4.56,
+        "minInstalls": 10000000,
+        "ratings": 243782,
+        "genre": "학습",
+        "updated": 1792761959000,
+        "titleHasKeyword": false
+      },
+      {
+        "appId": "com.pazugames.chicbaby2",
+        "title": "베이비 케어 : 아기 게임 - 옷 입히기 게임",
+        "developer": "Pazu Games",
+        "score": 3.837838,
+        "minInstalls": 10000000,
+        "ratings": 22818,
+        "genre": "학습",
+        "updated": 1786529311000,
+        "titleHasKeyword": true
+      },
+      {
+        "appId": "com.kigle.pororocook.pack",
+        "title": "뽀로로 요리놀이 - 주방, 키친, 쉐프, 베이킹, 쿠킹",
+        "developer": "KIGLE",
+        "score": 4.13,
+        "minInstalls": 1000000,
+        "ratings": 2124,
+        "genre": "교육",
+        "updated": 1765439516000,
+        "titleHasKeyword": false
+      },
+      {
+        "appId": "com.kakadoo.kids.learning.preschool.baby.games",
+        "title": "2세 이상의 아기를 위한 교육용 어린이 게임",
+        "developer": "Kakadoo",
+        "score": 4.25,
+        "minInstalls": 500000,
+        "ratings": 5054,
+        "genre": "학습",
+        "updated": 1786189915000,
+        "titleHasKeyword": false
+      },
+      {
+        "appId": "com.iz.baby.games.kids.toddler.learning.shark.puzzle.game",
+        "title": "2, 3, 4 세 아동용 게임",
+        "developer": "IDZ Digital Private Limited",
+        "score": 3.4805195,
+        "minInstalls": 10000000,
+        "ratings": 10905,
+        "genre": "학습",
+        "updated": 1792065188000,
+        "titleHasKeyword": false
+      }
+    ]
+  },
+  {
+    "category": "parenting",
+    "seed": "임신",
+    "keyword": "임신",
+    "results": [
+      {
+        "appId": "com.mommytalkappv1",
+        "title": "마미톡 - 임신, 육아 필수 앱",
+        "developer": "LifeX, Inc.",
+        "score": 4.8372326,
+        "minInstalls": 1000000,
+        "ratings": 20117,
+        "genre": "출산/육아",
+        "updated": 1793065804000,
+        "titleHasKeyword": true
+      },
+      {
+        "appId": "kr.villagebaby.billyapplication",
+        "title": "베이비빌리 - 임신, 임신준비, 육아, 태교 앱",
+        "developer": "VillageBaby Inc.",
+        "score": 4.9313254,
+        "minInstalls": 1000000,
+        "ratings": 11860,
+        "genre": "출산/육아",
+        "updated": 1792736828000,
+        "titleHasKeyword": true
+      },
+      {
+        "appId": "com.amanefactory.totsukitoka",
+        "title": "280days : 부부가 공유하는 \"임신 기록/일기\"",
+        "developer": "amane factory inc.",
+        "score": 4.617937,
+        "minInstalls": 1000000,
+        "ratings": 40071,
+        "genre": "출산/육아",
+        "updated": 1785829139000,
+        "titleHasKeyword": true
+      },
+      {
+        "appId": "org.iggymedia.periodtracker",
+        "title": "생리달력 Flo: 생리주기관리와 예측,배란및 임신트래커",
+        "developer": "Flo Health Inc.",
+        "score": 4.8031807,
+        "minInstalls": 100000000,
+        "ratings": 5170188,
+        "genre": "건강/운동",
+        "updated": 1792769900000,
+        "titleHasKeyword": true
+      },
+      {
+        "appId": "com.wachanga.pregnancy",
+        "title": "임신 주수 계산 & 기록: 맘스다이어리",
+        "developer": "Wachanga",
+        "score": 4.38,
+        "minInstalls": 10000000,
+        "ratings": 218957,
+        "genre": "출산/육아",
+        "updated": 1793200157000,
+        "titleHasKeyword": true
+      },
+      {
+        "appId": "com.mas.apps.pregnancy",
+        "title": "Pregnancy Tracker by Sprout",
+        "developer": "Sprout Apps",
+        "score": 4.75,
+        "minInstalls": 1000000,
+        "ratings": 31400,
+        "genre": "출산/육아",
+        "updated": 1784842455000,
+        "titleHasKeyword": false
+      },
+      {
+        "appId": "com.popularapp.periodcalendar",
+        "title": "여성생리달력 - 생리 및 가임기간 임신 배란",
+        "developer": "Simple Design Ltd.",
+        "score": 4.8357,
+        "minInstalls": 100000000,
+        "ratings": 4897592,
+        "genre": "건강/운동",
+        "updated": 1792137804000,
+        "titleHasKeyword": true
+      },
+      {
+        "appId": "com.hp.pregnancy.lite",
+        "title": "Pregnancy + | Tracker App",
+        "developer": "Philips Electronics UK Limited",
+        "score": 4.7935104,
+        "minInstalls": 50000000,
+        "ratings": 3703697,
+        "genre": "출산/육아",
+        "updated": 1793024090000,
+        "titleHasKeyword": false
+      },
+      {
+        "appId": "androidgecko.com.himommy",
+        "title": "HiMommy: 임신 주수·진통 타이머",
+        "developer": "HiMommy - Pregnancy Day By Day  - Expecting Baby",
+        "minInstalls": 1000000,
+        "genre": "출산/육아",
+        "updated": 1793461269000,
+        "titleHasKeyword": true
+      },
+      {
+        "appId": "com.gravid.gravid",
+        "title": "Preglife - Pregnancy Tracker",
+        "developer": "Preglife",
+        "minInstalls": 1000000,
+        "genre": "출산/육아",
+        "updated": 1793102272000,
+        "titleHasKeyword": false
+      }
+    ]
+  },
+  {
+    "category": "parenting",
+    "seed": "임신",
+    "keyword": "임신어플",
+    "results": [
+      {
+        "appId": "com.mommytalkappv1",
+        "title": "마미톡 - 임신, 육아 필수 앱",
+        "developer": "LifeX, Inc.",
+        "score": 4.8372326,
+        "minInstalls": 1000000,
+        "ratings": 20117,
+        "genre": "출산/육아",
+        "updated": 1793065804000,
+        "titleHasKeyword": false
+      },
+      {
+        "appId": "kr.villagebaby.billyapplication",
+        "title": "베이비빌리 - 임신, 임신준비, 육아, 태교 앱",
+        "developer": "VillageBaby Inc.",
+        "score": 4.9313254,
+        "minInstalls": 1000000,
+        "ratings": 11860,
+        "genre": "출산/육아",
+        "updated": 1792736828000,
+        "titleHasKeyword": false
+      },
+      {
+        "appId": "com.wachanga.pregnancy",
+        "title": "임신 주수 계산 & 기록: 맘스다이어리",
+        "developer": "Wachanga",
+        "score": 4.38,
+        "minInstalls": 10000000,
+        "ratings": 218957,
+        "genre": "출산/육아",
+        "updated": 1793200157000,
+        "titleHasKeyword": false
+      },
+      {
+        "appId": "com.amanefactory.totsukitoka",
+        "title": "280days : 부부가 공유하는 \"임신 기록/일기\"",
+        "developer": "amane factory inc.",
+        "score": 4.617937,
+        "minInstalls": 1000000,
+        "ratings": 40071,
+        "genre": "출산/육아",
+        "updated": 1785829139000,
+        "titleHasKeyword": false
+      },
+      {
+        "appId": "org.iggymedia.periodtracker",
+        "title": "생리달력 Flo: 생리주기관리와 예측,배란및 임신트래커",
+        "developer": "Flo Health Inc.",
+        "score": 4.8031807,
+        "minInstalls": 100000000,
+        "ratings": 5170188,
+        "genre": "건강/운동",
+        "updated": 1792769900000,
+        "titleHasKeyword": false
+      },
+      {
+        "appId": "com.hp.pregnancy.lite",
+        "title": "Pregnancy + | Tracker App",
+        "developer": "Philips Electronics UK Limited",
+        "score": 4.7935104,
+        "minInstalls": 50000000,
+        "ratings": 3703697,
+        "genre": "출산/육아",
+        "updated": 1793024090000,
+        "titleHasKeyword": false
+      },
+      {
+        "appId": "com.srmam2020.app",
+        "title": "럽맘 - 임신·출산·육아, 임신주수와 산모수첩",
+        "developer": "luvmom Inc.",
+        "score": 4.912796,
+        "minInstalls": 100000,
+        "ratings": 10581,
+        "genre": "출산/육아",
+        "updated": 1792922829000,
+        "titleHasKeyword": false
+      },
+      {
+        "appId": "com.popularapp.periodcalendar",
+        "title": "여성생리달력 - 생리 및 가임기간 임신 배란",
+        "developer": "Simple Design Ltd.",
+        "score": 4.8357,
+        "minInstalls": 100000000,
+        "ratings": 4897592,
+        "genre": "건강/운동",
+        "updated": 1792137804000,
+        "titleHasKeyword": false
+      },
+      {
+        "appId": "com.clue.android",
+        "title": "Clue: Period & Cycle Tracker",
+        "developer": "Clue Period Tracker by BioWink",
+        "score": 4.503268,
+        "minInstalls": 50000000,
+        "ratings": 1505421,
+        "genre": "건강/운동",
+        "updated": 1793289666000,
+        "titleHasKeyword": false
+      },
+      {
+        "appId": "yducky.application.babytime",
+        "title": "베이비타임 - BabyTime (수유, 육아, 일기)",
+        "developer": "Simfler",
+        "score": 4.944911,
+        "minInstalls": 1000000,
+        "ratings": 39707,
+        "genre": "출산/육아",
+        "updated": 1792666687000,
+        "titleHasKeyword": false
+      }
+    ]
+  },
+  {
+    "category": "parenting",
+    "seed": "임신",
+    "keyword": "임신 게임",
+    "results": [
+      {
+        "appId": "com.gameimake.newbornbabycarehalloweenhospital",
+        "title": "Pregnant Mom : Daycare Games",
+        "developer": "GameiMake",
+        "minInstalls": 500000,
+        "genre": "시뮬레이션",
+        "updated": 1789219283000,
+        "titleHasKeyword": false
+      },
+      {
+        "appId": "com.bigruby.PregnantTwinsNewbornCare",
+        "title": "Pregnant Twins Newborn Care",
+        "developer": "Big Ruby Studios",
+        "score": 4.42,
+        "minInstalls": 1000000,
+        "ratings": 12137,
+        "genre": "롤플레잉",
+        "updated": 1774246936000,
+        "titleHasKeyword": false
+      },
+      {
+        "appId": "com.gpg.ninemonths",
+        "title": "Idle 9 Months",
+        "developer": "Green Panda Games",
+        "score": 4.5420055,
+        "minInstalls": 10000000,
+        "ratings": 575823,
+        "genre": "시뮬레이션",
+        "updated": 1787048247000,
+        "titleHasKeyword": false
+      },
+      {
+        "appId": "com.GameiFun.PragnantMomTwinsbabycare",
+        "title": "엄마와 아기 - 여자 게임",
+        "developer": "Technorex Softwares",
+        "score": 3.6,
+        "minInstalls": 500000,
+        "ratings": 1961,
+        "genre": "캐주얼",
+        "updated": 1759756823000,
+        "titleHasKeyword": false
+      },
+      {
+        "appId": "com.playNfun.MermaidPragnanctCheckupAndBabyCare",
+        "title": "Mermaid Mom & Baby Care Games",
+        "developer": "R . S Game",
+        "score": 3.4285715,
+        "minInstalls": 500000,
+        "ratings": 1933,
+        "genre": "롤플레잉",
+        "updated": 1764747366000,
+        "titleHasKeyword": false
+      },
+      {
+        "appId": "com.gamehouse.delicious15",
+        "title": "Delicious - Miracle of Life",
+        "developer": "GameHouse LLC",
+        "score": 4.3,
+        "minInstalls": 10000000,
+        "ratings": 99599,
+        "genre": "캐주얼",
+        "updated": 1773231362000,
+        "titleHasKeyword": false
+      },
+      {
+        "appId": "com.Girls.Mobile.Games.Pregnant.Mom.Baby.Shower.Care.Simulator",
+        "title": "Pregnant Mom Baby Shower Care",
+        "developer": "Girls Mobile Games - Baby Fun",
+        "minInstalls": 10000,
+        "genre": "롤플레잉",
+        "updated": 1789033085000,
+        "titleHasKeyword": false
+      },
+      {
+        "appId": "mycity.newbornbaby",
+        "title": "My City : Newborn baby",
+        "developer": "My Town Games Ltd",
+        "score": 3.764706,
+        "minInstalls": 10000000,
+        "ratings": 21596,
+        "genre": "학습",
+        "updated": 1787116858000,
+        "titleHasKeyword": false
+      },
+      {
+        "appId": "com.pregnantmom.mothersimulatorgames",
+        "title": "Pregnant Mom : Hospital Doctor",
+        "developer": "Baby Aadhya Games",
+        "minInstalls": 100000,
+        "genre": "롤플레잉",
+        "updated": 1786715156000,
+        "titleHasKeyword": false
+      },
+      {
+        "appId": "com.gameicreate.pregnantmombabydaycarecenter",
+        "title": "Pregnant Mommy Care Games",
+        "developer": "GameSticky",
+        "score": 4,
+        "minInstalls": 1000000,
+        "ratings": 1157,
+        "genre": "롤플레잉",
+        "updated": 1790315355000,
+        "titleHasKeyword": false
+      }
+    ]
+  },
+  {
+    "category": "parenting",
+    "seed": "임신",
+    "keyword": "임신 출산 게임",
+    "results": [
+      {
+        "appId": "com.gameimake.newbornbabycarehalloweenhospital",
+        "title": "Pregnant Mom : Daycare Games",
+        "developer": "GameiMake",
+        "minInstalls": 500000,
+        "genre": "시뮬레이션",
+        "updated": 1789219283000,
+        "titleHasKeyword": false
+      },
+      {
+        "appId": "com.bigruby.PregnantTwinsNewbornCare",
+        "title": "Pregnant Twins Newborn Care",
+        "developer": "Big Ruby Studios",
+        "score": 4.42,
+        "minInstalls": 1000000,
+        "ratings": 12137,
+        "genre": "롤플레잉",
+        "updated": 1774246936000,
+        "titleHasKeyword": false
+      },
+      {
+        "appId": "com.GameiFun.PragnantMomTwinsbabycare",
+        "title": "엄마와 아기 - 여자 게임",
+        "developer": "Technorex Softwares",
+        "score": 3.6,
+        "minInstalls": 500000,
+        "ratings": 1961,
+        "genre": "캐주얼",
+        "updated": 1759756823000,
+        "titleHasKeyword": false
+      },
+      {
+        "appId": "com.humbly.pregnant.mother.simulator.pregnancy.life.game",
+        "title": "임신한 엄마: 임신 게임",
+        "developer": "Humbly Tech",
+        "score": 3.7142856,
+        "minInstalls": 500000,
+        "ratings": 840,
+        "genre": "롤플레잉",
+        "updated": 1793190906000,
+        "titleHasKeyword": false
+      },
+      {
+        "appId": "com.gpg.ninemonths",
+        "title": "Idle 9 Months",
+        "developer": "Green Panda Games",
+        "score": 4.5420055,
+        "minInstalls": 10000000,
+        "ratings": 575823,
+        "genre": "시뮬레이션",
+        "updated": 1787048247000,
+        "titleHasKeyword": false
+      },
+      {
+        "appId": "com.mermaid.pragnanctcheckup.newbornbabycare.games",
+        "title": "Mermaid Game: Newborn,Pregnant",
+        "developer": "Yories: Learning Apps & Games for Boys and Girls",
+        "minInstalls": 500000,
+        "genre": "시뮬레이션",
+        "updated": 1779360364000,
+        "titleHasKeyword": false
+      },
+      {
+        "appId": "com.Girls.Mobile.Games.Pregnant.Mom.Baby.Shower.Care.Simulator",
+        "title": "Pregnant Mom Baby Shower Care",
+        "developer": "Girls Mobile Games - Baby Fun",
+        "minInstalls": 10000,
+        "genre": "롤플레잉",
+        "updated": 1789033085000,
+        "titleHasKeyword": false
+      },
+      {
+        "appId": "com.gameicreate.pregnantmombabydaycarecenter",
+        "title": "Pregnant Mommy Care Games",
+        "developer": "GameSticky",
+        "score": 4,
+        "minInstalls": 1000000,
+        "ratings": 1157,
+        "genre": "롤플레잉",
+        "updated": 1790315355000,
+        "titleHasKeyword": false
+      },
+      {
+        "appId": "com.pregnantmom.mothersimulatorgames",
+        "title": "Pregnant Mom : Hospital Doctor",
+        "developer": "Baby Aadhya Games",
+        "minInstalls": 100000,
+        "genre": "롤플레잉",
+        "updated": 1786715156000,
+        "titleHasKeyword": false
+      },
+      {
+        "appId": "com.taglinegames.pregnanttwinsnewborncare",
+        "title": "임신한 엄마 돌보기: 아기 & 어린이",
+        "developer": "Shreeji Video Developer",
+        "minInstalls": 10000,
+        "genre": "학습",
+        "updated": 1788244776000,
+        "titleHasKeyword": false
+      }
+    ]
+  },
+  {
+    "category": "parenting",
+    "seed": "임신",
+    "keyword": "임신육아종합포털 아이사랑",
+    "results": [
+      {
+        "appId": "com.mw.Android_KidsLove2",
+        "title": "아이사랑 모바일",
+        "developer": "교육부(영유아안전정보과)",
+        "score": 1.4008098,
+        "minInstalls": 1000000,
+        "ratings": 6273,
+        "genre": "출산/육아",
+        "updated": 1758767533000,
+        "titleHasKeyword": false
+      },
+      {
+        "appId": "com.google.android.apps.kids.familylink",
+        "title": "Google Family Link",
+        "developer": "Google LLC",
+        "score": 4.459892,
+        "minInstalls": 100000000,
+        "ratings": 5477365,
+        "genre": "도구",
+        "updated": 1793053635000,
+        "titleHasKeyword": false
+      },
+      {
+        "appId": "com.coquisoft.parentlove",
+        "title": "ParentLove: Baby Tracker",
+        "developer": "ParentLove Baby Tracker by Coquisoft",
+        "minInstalls": 100000,
+        "genre": "출산/육아",
+        "updated": 1792613322000,
+        "titleHasKeyword": false
+      },
+      {
+        "appId": "com.mommytalkappv1",
+        "title": "마미톡 - 임신, 육아 필수 앱",
+        "developer": "LifeX, Inc.",
+        "score": 4.8372326,
+        "minInstalls": 1000000,
+        "ratings": 20117,
+        "genre": "출산/육아",
+        "updated": 1793065804000,
+        "titleHasKeyword": false
+      },
+      {
+        "appId": "yducky.application.babytime",
+        "title": "베이비타임 - BabyTime (수유, 육아, 일기)",
+        "developer": "Simfler",
+        "score": 4.944911,
+        "minInstalls": 1000000,
+        "ratings": 39707,
+        "genre": "출산/육아",
+        "updated": 1792666687000,
+        "titleHasKeyword": false
+      },
+      {
+        "appId": "kr.go.phis.prApp",
+        "title": "아이마중",
+        "developer": "보건복지부/한국사회보장정보원",
+        "score": 4.04,
+        "minInstalls": 50000,
+        "ratings": 121,
+        "genre": "출산/육아",
+        "updated": 1791958782000,
+        "titleHasKeyword": false
+      },
+      {
+        "appId": "com.kidslox.app",
+        "title": "부모 통제 - Kidslox",
+        "developer": "Kidslox, Inc.",
+        "score": 4.262136,
+        "minInstalls": 1000000,
+        "ratings": 36407,
+        "genre": "출산/육아",
+        "updated": 1789383787000,
+        "titleHasKeyword": false
+      },
+      {
+        "appId": "com.amila.parenting",
+        "title": "육아일기 - 신생아 트래커: 모유수유 및 수유어플",
+        "developer": "Amila",
+        "score": 4.970297,
+        "minInstalls": 1000000,
+        "ratings": 135167,
+        "genre": "출산/육아",
+        "updated": 1792502744000,
+        "titleHasKeyword": false
+      },
+      {
+        "appId": "com.mobilefence.family",
+        "title": "모바일펜스 - 자녀 스마트폰 관리",
+        "developer": "Mobile Fence",
+        "score": 4.240798,
+        "minInstalls": 1000000,
+        "ratings": 58740,
+        "genre": "출산/육아",
+        "updated": 1793177125000,
+        "titleHasKeyword": false
+      },
+      {
+        "appId": "kr.rapportlabs.damoa",
+        "title": "퀸잇, 멋진 어른들의 라이프스타일링샵",
+        "developer": "라포랩스",
+        "score": 4.7093544,
+        "minInstalls": 5000000,
+        "ratings": 135132,
+        "genre": "쇼핑",
+        "updated": 1793325880000,
+        "titleHasKeyword": false
+      }
+    ]
+  },
+  {
+    "category": "parenting",
+    "seed": "신생아",
+    "keyword": "신생아",
+    "results": [
+      {
+        "appId": "yducky.application.babytime",
+        "title": "베이비타임 - BabyTime (수유, 육아, 일기)",
+        "developer": "Simfler",
+        "score": 4.944911,
+        "minInstalls": 1000000,
+        "ratings": 39707,
+        "genre": "출산/육아",
+        "updated": 1792666687000,
+        "titleHasKeyword": false
+      },
+      {
+        "appId": "jp.co.sakabou.piyolog",
+        "title": "육아 기록 - 삐요로그: 신생아 모유수유, 아기 발달",
+        "developer": "PiyoLog Inc.",
+        "score": 4.8498583,
+        "minInstalls": 1000000,
+        "ratings": 28846,
+        "genre": "출산/육아",
+        "updated": 1791535983000,
+        "titleHasKeyword": true
+      },
+      {
+        "appId": "com.whisperarts.erby",
+        "title": "신생아 모유 수유 일지  육아일기  Erby",
+        "developer": "Demapps LLC",
+        "score": 4.3103447,
+        "minInstalls": 1000000,
+        "ratings": 23206,
+        "genre": "출산/육아",
+        "updated": 1792671317000,
+        "titleHasKeyword": true
+      },
+      {
+        "appId": "com.mommytalkappv1",
+        "title": "마미톡 - 임신, 육아 필수 앱",
+        "developer": "LifeX, Inc.",
+        "score": 4.8372326,
+        "minInstalls": 1000000,
+        "ratings": 20117,
+        "genre": "출산/육아",
+        "updated": 1793065804000,
+        "titleHasKeyword": false
+      },
+      {
+        "appId": "com.drillyapps.babydaybook",
+        "title": "Baby Daybook: 수유시간어플. 신생아 수유일지",
+        "developer": "Baltapis",
+        "score": 4.61,
+        "minInstalls": 1000000,
+        "ratings": 69238,
+        "genre": "출산/육아",
+        "updated": 1793224156000,
+        "titleHasKeyword": true
+      },
+      {
+        "appId": "simple.babytracker.newbornfeeding.babycare",
+        "title": "육아일기 - 신생아 트래커: 모유수유 및 수유어플",
+        "developer": "Easy Fitness App",
+        "score": 4.604651,
+        "minInstalls": 1000000,
+        "ratings": 12857,
+        "genre": "출산/육아",
+        "updated": 1779705601000,
+        "titleHasKeyword": true
+      },
+      {
+        "appId": "com.hp.babyapp",
+        "title": "아기 + | 우리 아기 추적기",
+        "developer": "Philips Electronics UK Limited",
+        "score": 4.728395,
+        "minInstalls": 5000000,
+        "ratings": 99708,
+        "genre": "출산/육아",
+        "updated": 1763734777000,
+        "titleHasKeyword": false
+      },
+      {
+        "appId": "com.amila.parenting",
+        "title": "육아일기 - 신생아 트래커: 모유수유 및 수유어플",
+        "developer": "Amila",
+        "score": 4.970297,
+        "minInstalls": 1000000,
+        "ratings": 135167,
+        "genre": "출산/육아",
+        "updated": 1792502744000,
+        "titleHasKeyword": true
+      },
+      {
+        "appId": "com.nighp.babytracker_android",
+        "title": "육아일기장",
+        "developer": "NIGHP SOFTWARE",
+        "score": 4.8,
+        "minInstalls": 1000000,
+        "ratings": 72029,
+        "genre": "출산/육아",
+        "updated": 1792227919000,
+        "titleHasKeyword": false
+      },
+      {
+        "appId": "com.wte.view",
+        "title": "Pregnancy Tracker & Baby App",
+        "developer": "What to Expect",
+        "score": 4.8297873,
+        "minInstalls": 5000000,
+        "ratings": 121722,
+        "genre": "출산/육아",
+        "updated": 1791787803000,
+        "titleHasKeyword": false
+      }
+    ]
+  },
+  {
+    "category": "parenting",
+    "seed": "신생아",
+    "keyword": "신생아어플",
+    "results": [
+      {
+        "appId": "yducky.application.babytime",
+        "title": "베이비타임 - BabyTime (수유, 육아, 일기)",
+        "developer": "Simfler",
+        "score": 4.944911,
+        "minInstalls": 1000000,
+        "ratings": 39707,
+        "genre": "출산/육아",
+        "updated": 1792666687000,
+        "titleHasKeyword": false
+      },
+      {
+        "appId": "jp.co.sakabou.piyolog",
+        "title": "육아 기록 - 삐요로그: 신생아 모유수유, 아기 발달",
+        "developer": "PiyoLog Inc.",
+        "score": 4.8498583,
+        "minInstalls": 1000000,
+        "ratings": 28846,
+        "genre": "출산/육아",
+        "updated": 1791535983000,
+        "titleHasKeyword": false
+      },
+      {
+        "appId": "com.whisperarts.erby",
+        "title": "신생아 모유 수유 일지  육아일기  Erby",
+        "developer": "Demapps LLC",
+        "score": 4.3103447,
+        "minInstalls": 1000000,
+        "ratings": 23206,
+        "genre": "출산/육아",
+        "updated": 1792671317000,
+        "titleHasKeyword": false
+      },
+      {
+        "appId": "com.hp.babyapp",
+        "title": "아기 + | 우리 아기 추적기",
+        "developer": "Philips Electronics UK Limited",
+        "score": 4.728395,
+        "minInstalls": 5000000,
+        "ratings": 99708,
+        "genre": "출산/육아",
+        "updated": 1763734777000,
+        "titleHasKeyword": false
+      },
+      {
+        "appId": "com.wachanga.babycare",
+        "title": "애기 수유시간: 베이비 수유어플, 분유시간어플＋육아일기",
+        "developer": "Wachanga",
+        "score": 4.6887417,
+        "minInstalls": 5000000,
+        "ratings": 111145,
+        "genre": "출산/육아",
+        "updated": 1793196966000,
+        "titleHasKeyword": false
+      },
+      {
+        "appId": "com.mommytalkappv1",
+        "title": "마미톡 - 임신, 육아 필수 앱",
+        "developer": "LifeX, Inc.",
+        "score": 4.8372326,
+        "minInstalls": 1000000,
+        "ratings": 20117,
+        "genre": "출산/육아",
+        "updated": 1793065804000,
+        "titleHasKeyword": false
+      },
+      {
+        "appId": "com.jejememe.daybabyday",
+        "title": "쑥쑥찰칵 - 아기 사진 공유 사진 정리 육아앱",
+        "developer": "JEJEMEME Inc.",
+        "score": 4.873102,
+        "minInstalls": 1000000,
+        "ratings": 28006,
+        "genre": "출산/육아",
+        "updated": 1793257298000,
+        "titleHasKeyword": false
+      },
+      {
+        "appId": "simple.babytracker.newbornfeeding.babycare",
+        "title": "육아일기 - 신생아 트래커: 모유수유 및 수유어플",
+        "developer": "Easy Fitness App",
+        "score": 4.604651,
+        "minInstalls": 1000000,
+        "ratings": 12857,
+        "genre": "출산/육아",
+        "updated": 1779705601000,
+        "titleHasKeyword": false
+      },
+      {
+        "appId": "com.drillyapps.babydaybook",
+        "title": "Baby Daybook: 수유시간어플. 신생아 수유일지",
+        "developer": "Baltapis",
+        "score": 4.61,
+        "minInstalls": 1000000,
+        "ratings": 69238,
+        "genre": "출산/육아",
+        "updated": 1793224156000,
+        "titleHasKeyword": false
+      },
+      {
+        "appId": "com.to_do_list_studio.baby_tracker.baby_care.sleep.feeding.breastfeeding.tinilog",
+        "title": "베이비 트래커: 수유와 수면",
+        "developer": "Productivity Apps Studio",
+        "minInstalls": 10000,
+        "genre": "출산/육아",
+        "updated": 1789037865000,
+        "titleHasKeyword": false
+      }
+    ]
+  },
+  {
+    "category": "parenting",
+    "seed": "신생아",
+    "keyword": "신생아 수유텀",
+    "results": [
+      {
+        "appId": "com.wachanga.babycare",
+        "title": "애기 수유시간: 베이비 수유어플, 분유시간어플＋육아일기",
+        "developer": "Wachanga",
+        "score": 4.6887417,
+        "minInstalls": 5000000,
+        "ratings": 111145,
+        "genre": "출산/육아",
+        "updated": 1793196966000,
+        "titleHasKeyword": false
+      },
+      {
+        "appId": "yducky.application.babytime",
+        "title": "베이비타임 - BabyTime (수유, 육아, 일기)",
+        "developer": "Simfler",
+        "score": 4.944911,
+        "minInstalls": 1000000,
+        "ratings": 39707,
+        "genre": "출산/육아",
+        "updated": 1792666687000,
+        "titleHasKeyword": false
+      },
+      {
+        "appId": "jp.co.sakabou.piyolog",
+        "title": "육아 기록 - 삐요로그: 신생아 모유수유, 아기 발달",
+        "developer": "PiyoLog Inc.",
+        "score": 4.8498583,
+        "minInstalls": 1000000,
+        "ratings": 28846,
+        "genre": "출산/육아",
+        "updated": 1791535983000,
+        "titleHasKeyword": false
+      },
+      {
+        "appId": "com.to_do_list_studio.baby_tracker.baby_care.sleep.feeding.breastfeeding.tinilog",
+        "title": "베이비 트래커: 수유와 수면",
+        "developer": "Productivity Apps Studio",
+        "minInstalls": 10000,
+        "genre": "출산/육아",
+        "updated": 1789037865000,
+        "titleHasKeyword": false
+      },
+      {
+        "appId": "com.whisperarts.erby",
+        "title": "신생아 모유 수유 일지  육아일기  Erby",
+        "developer": "Demapps LLC",
+        "score": 4.3103447,
+        "minInstalls": 1000000,
+        "ratings": 23206,
+        "genre": "출산/육아",
+        "updated": 1792671317000,
+        "titleHasKeyword": false
+      },
+      {
+        "appId": "com.amila.parenting",
+        "title": "육아일기 - 신생아 트래커: 모유수유 및 수유어플",
+        "developer": "Amila",
+        "score": 4.970297,
+        "minInstalls": 1000000,
+        "ratings": 135167,
+        "genre": "출산/육아",
+        "updated": 1792502744000,
+        "titleHasKeyword": false
+      },
+      {
+        "appId": "simple.babytracker.newbornfeeding.babycare",
+        "title": "육아일기 - 신생아 트래커: 모유수유 및 수유어플",
+        "developer": "Easy Fitness App",
+        "score": 4.604651,
+        "minInstalls": 1000000,
+        "ratings": 12857,
+        "genre": "출산/육아",
+        "updated": 1779705601000,
+        "titleHasKeyword": false
+      },
+      {
+        "appId": "com.bettep.sixmon",
+        "title": "식스몬: 신생아 수유·수면·기저귀 기록",
+        "developer": "Bettep",
+        "minInstalls": 5,
+        "genre": "출산/육아",
+        "updated": 1793297449000,
+        "titleHasKeyword": false
+      },
+      {
+        "appId": "com.mjello.baby",
+        "title": "Mjello: Baby Tracker - 베이비 트래커",
+        "developer": "Mjello",
+        "minInstalls": 5000,
+        "genre": "출산/육아",
+        "updated": 1792785611000,
+        "titleHasKeyword": false
+      },
+      {
+        "appId": "com.seacloud.bc",
+        "title": "Baby Connect: Newborn Tracker",
+        "developer": "Seacloud Software",
+        "score": 5,
+        "minInstalls": 100000,
+        "ratings": 10833,
+        "genre": "출산/육아",
+        "updated": 1793222973000,
+        "titleHasKeyword": false
+      }
+    ]
+  },
+  {
+    "category": "parenting",
+    "seed": "신생아",
+    "keyword": "신생아 백색소음",
+    "results": [
+      {
+        "appId": "com.amikulich.babysleep",
+        "title": "아기 숙면을 위한 백색소음",
+        "developer": "AMICOOLSOFT",
+        "score": 4.91,
+        "minInstalls": 1000000,
+        "ratings": 74356,
+        "genre": "건강/운동",
+        "updated": 1791301062000,
+        "titleHasKeyword": false
+      },
+      {
+        "appId": "com.amila.whitenoise",
+        "title": "어린이를 위한 수면 소리",
+        "developer": "Amila",
+        "minInstalls": 10000,
+        "genre": "건강/운동",
+        "updated": 1788625031000,
+        "titleHasKeyword": false
+      },
+      {
+        "appId": "com.stormtech.whitenoise",
+        "title": "백색 소음: 아기 수면",
+        "developer": "StormTech Apps",
+        "minInstalls": 100,
+        "genre": "출산/육아",
+        "updated": 1792406917000,
+        "titleHasKeyword": false
+      },
+      {
+        "appId": "com.whisperarts.white.noise.whispy",
+        "title": "수면어플 - 아기를 위한 백색 소음",
+        "developer": "Demapps LLC",
+        "score": 4.516129,
+        "minInstalls": 100000,
+        "ratings": 4395,
+        "genre": "출산/육아",
+        "updated": 1779443328000,
+        "titleHasKeyword": false
+      },
+      {
+        "appId": "com.tarahonich.relaxsleepsounds",
+        "title": "수면 사운드 백색 소음",
+        "developer": "Beforest Apps",
+        "score": 4.63,
+        "minInstalls": 1000000,
+        "ratings": 22381,
+        "genre": "건강/운동",
+        "updated": 1788344497000,
+        "titleHasKeyword": false
+      },
+      {
+        "appId": "com.urbandroid.babysleep",
+        "title": "Baby Sleep: 아기가 즉시 잠들도록 도와줍니다",
+        "developer": "Petr Nálevka (Urbandroid)",
+        "score": 4.7,
+        "minInstalls": 5000000,
+        "ratings": 74159,
+        "genre": "출산/육아",
+        "updated": 1764087726000,
+        "titleHasKeyword": false
+      },
+      {
+        "appId": "com.dowble.lulla",
+        "title": "Lulla: Baby Sleep White Noise",
+        "developer": "Dowble",
+        "minInstalls": 100,
+        "genre": "출산/육아",
+        "updated": 1784340310000,
+        "titleHasKeyword": false
+      },
+      {
+        "appId": "com.amikulich.whitenoise",
+        "title": "백색 잡음",
+        "developer": "AMICOOLSOFT",
+        "score": 4.25,
+        "minInstalls": 100000,
+        "ratings": 7587,
+        "genre": "건강/운동",
+        "updated": 1790364217000,
+        "titleHasKeyword": false
+      },
+      {
+        "appId": "by.si.soundsleeper.free",
+        "title": "Sound Sleeper Baby White Noise",
+        "developer": "Parents2ParentsApps",
+        "score": 3.6,
+        "minInstalls": 500000,
+        "ratings": 5764,
+        "genre": "출산/육아",
+        "updated": 1754998268000,
+        "titleHasKeyword": false
+      },
+      {
+        "appId": "air.com.botiki.sleep",
+        "title": "White Noise: Baby Sleep Sounds",
+        "developer": "Night Party Games: Charades, Quiz, Roulette, Fun!",
+        "minInstalls": 10000,
+        "genre": "건강/운동",
+        "updated": 1785846493000,
+        "titleHasKeyword": false
+      }
+    ]
+  },
+  {
+    "category": "parenting",
+    "seed": "신생아",
+    "keyword": "신생아옷",
+    "results": [
+      {
+        "appId": "kr.co.smartskin.monopino1",
+        "title": "베베르망 - 앙증맞은 북유럽감성의 아기옷",
+        "developer": "ONE FNC Inc.",
+        "score": 4.016949,
+        "minInstalls": 100000,
+        "ratings": 59,
+        "genre": "쇼핑",
+        "updated": 1789453219000,
+        "titleHasKeyword": false
+      },
+      {
+        "appId": "co.touchapps.chicbaby",
+        "title": "세련된 아기 옷 입히기 게임 Chic Baby",
+        "developer": "Pazu Games",
+        "score": 3.1666667,
+        "minInstalls": 1000000,
+        "ratings": 7180,
+        "genre": "학습",
+        "updated": 1793192364000,
+        "titleHasKeyword": false
+      },
+      {
+        "appId": "ru.bebakids.bebakids",
+        "title": "BEBAKIDS Детская одежда",
+        "developer": "BEBAKIDS",
+        "minInstalls": 50000,
+        "genre": "쇼핑",
+        "updated": 1791803342000,
+        "titleHasKeyword": false
+      },
+      {
+        "appId": "com.baby_clothes.kidsweather",
+        "title": "Как одевать ребенка по погоде",
+        "developer": "Tony Lead Company",
+        "minInstalls": 5000,
+        "genre": "날씨",
+        "updated": 1793004845000,
+        "titleHasKeyword": false
+      },
+      {
+        "appId": "yducky.application.babytime",
+        "title": "베이비타임 - BabyTime (수유, 육아, 일기)",
+        "developer": "Simfler",
+        "score": 4.944911,
+        "minInstalls": 1000000,
+        "ratings": 39707,
+        "genre": "출산/육아",
+        "updated": 1792666687000,
+        "titleHasKeyword": false
+      },
+      {
+        "appId": "com.baby.clothing.onlineshopping.babyclothe",
+        "title": "Cheap baby children's clothing",
+        "developer": "aptivdev",
+        "minInstalls": 5000,
+        "genre": "쇼핑",
+        "updated": 1769891179000,
+        "titleHasKeyword": false
+      },
+      {
+        "appId": "com.cheapbabyclothes.childrensclothing.babyclothing.newbornclothes.babyclothe.babyclothes",
+        "title": "baby clothes",
+        "developer": "SimAppsPriority",
+        "minInstalls": 1000,
+        "genre": "쇼핑",
+        "updated": 1751217843000,
+        "titleHasKeyword": false
+      },
+      {
+        "appId": "com.cheapclothes.babydresses.babygirldresses.babygirlclothes",
+        "title": "Cheap baby girl clothes",
+        "developer": "Richard Studios DE",
+        "minInstalls": 5000,
+        "genre": "쇼핑",
+        "updated": 1769806326000,
+        "titleHasKeyword": false
+      },
+      {
+        "appId": "co.shopney.nunubebe",
+        "title": "Nunu Bebe",
+        "developer": "Nunu Bebe & Accessories",
+        "minInstalls": 100,
+        "genre": "쇼핑",
+        "updated": 1781686062000,
+        "titleHasKeyword": false
+      },
+      {
+        "appId": "com.alimastudios.DressUp",
+        "title": "Alima's Baby Dress Up",
+        "developer": "Alima Studios",
+        "minInstalls": 10000,
+        "genre": "캐주얼",
+        "updated": 1792437933000,
+        "titleHasKeyword": false
+      }
+    ]
+  },
+  {
+    "category": "parenting",
+    "seed": "이유식",
+    "keyword": "이유식",
+    "results": [
+      {
+        "appId": "kr.sknkwoxs.spoontime",
+        "title": "스푼타임 - 이유식이 쉬워진다 SpoonTime",
+        "developer": "SpoonTime Developer",
+        "score": 4.57,
+        "minInstalls": 10000,
+        "ratings": 452,
+        "genre": "출산/육아",
+        "updated": 1792125539000,
+        "titleHasKeyword": true
+      },
+      {
+        "appId": "com.appg.mommaplanner",
+        "title": "맘마플래너 - 전문가 검증 기반 이유식 관리",
+        "developer": "맘마플래너",
+        "score": 4.3431373,
+        "minInstalls": 10000,
+        "ratings": 326,
+        "genre": "출산/육아",
+        "updated": 1788278319000,
+        "titleHasKeyword": true
+      },
+      {
+        "appId": "com.linasoft.startsolids",
+        "title": "아기 이유식 기록 & BLW 가이드: Avo",
+        "developer": "Avo Parenting",
+        "minInstalls": 50000,
+        "genre": "출산/육아",
+        "updated": 1793309003000,
+        "titleHasKeyword": true
+      },
+      {
+        "appId": "co.wiserapps.babyweaningsolids",
+        "title": "이유식 레시피: 아기 식단 관리",
+        "developer": "Wiserapps Software",
+        "score": 4.633333,
+        "minInstalls": 100000,
+        "ratings": 1238,
+        "genre": "출산/육아",
+        "updated": 1793090245000,
+        "titleHasKeyword": true
+      },
+      {
+        "appId": "com.yonaha.babeat.app",
+        "title": "Babeat - 이유식 큐브 & 식단 관리",
+        "developer": "Yonaha Lab",
+        "score": 5,
+        "minInstalls": 100,
+        "ratings": 8,
+        "genre": "출산/육아",
+        "updated": 1790076078000,
+        "titleHasKeyword": true
+      },
+      {
+        "appId": "com.nunkoib.mamma",
+        "title": "맘마노트 - 이유식 기록·식단표·큐브",
+        "developer": "눈코입",
+        "score": 4.375,
+        "minInstalls": 500,
+        "ratings": 8,
+        "genre": "출산/육아",
+        "updated": 1792393463000,
+        "titleHasKeyword": true
+      },
+      {
+        "appId": "com.mineelab.momsrecipes",
+        "title": "이유식 플래너",
+        "developer": "Minee Lab",
+        "score": 4.5789475,
+        "minInstalls": 500,
+        "ratings": 19,
+        "genre": "출산/육아",
+        "updated": 1792128522000,
+        "titleHasKeyword": true
+      },
+      {
+        "appId": "com.arin.babyfood",
+        "title": "얌플래너 – 아기 이유식·유아식 레시피 & 식단 플래너",
+        "developer": "코드래빗",
+        "score": 4.730769,
+        "minInstalls": 1000,
+        "ratings": 26,
+        "genre": "출산/육아",
+        "updated": 1789656602000,
+        "titleHasKeyword": true
+      },
+      {
+        "appId": "com.digitas.solidstarts",
+        "title": "Solid Starts: Baby Food App",
+        "developer": "Solid Starts",
+        "score": 4.7105265,
+        "minInstalls": 1000000,
+        "ratings": 25399,
+        "genre": "출산/육아",
+        "updated": 1793117925000,
+        "titleHasKeyword": false
+      },
+      {
+        "appId": "yducky.application.babytime",
+        "title": "베이비타임 - BabyTime (수유, 육아, 일기)",
+        "developer": "Simfler",
+        "score": 4.944911,
+        "minInstalls": 1000000,
+        "ratings": 39707,
+        "genre": "출산/육아",
+        "updated": 1792666687000,
+        "titleHasKeyword": false
+      }
+    ]
+  },
+  {
+    "category": "parenting",
+    "seed": "이유식",
+    "keyword": "이유식계산기",
+    "results": [
+      {
+        "appId": "kr.sknkwoxs.spoontime",
+        "title": "스푼타임 - 이유식이 쉬워진다 SpoonTime",
+        "developer": "SpoonTime Developer",
+        "score": 4.57,
+        "minInstalls": 10000,
+        "ratings": 452,
+        "genre": "출산/육아",
+        "updated": 1792125539000,
+        "titleHasKeyword": false
+      },
+      {
+        "appId": "com.arin.babyfood",
+        "title": "얌플래너 – 아기 이유식·유아식 레시피 & 식단 플래너",
+        "developer": "코드래빗",
+        "score": 4.730769,
+        "minInstalls": 1000,
+        "ratings": 26,
+        "genre": "출산/육아",
+        "updated": 1789656602000,
+        "titleHasKeyword": false
+      },
+      {
+        "appId": "com.yonaha.babeat.app",
+        "title": "Babeat - 이유식 큐브 & 식단 관리",
+        "developer": "Yonaha Lab",
+        "score": 5,
+        "minInstalls": 100,
+        "ratings": 8,
+        "genre": "출산/육아",
+        "updated": 1790076078000,
+        "titleHasKeyword": false
+      },
+      {
+        "appId": "com.nunkoib.mamma",
+        "title": "맘마노트 - 이유식 기록·식단표·큐브",
+        "developer": "눈코입",
+        "score": 4.375,
+        "minInstalls": 500,
+        "ratings": 8,
+        "genre": "출산/육아",
+        "updated": 1792393463000,
+        "titleHasKeyword": false
+      },
+      {
+        "appId": "com.appg.mommaplanner",
+        "title": "맘마플래너 - 전문가 검증 기반 이유식 관리",
+        "developer": "맘마플래너",
+        "score": 4.3431373,
+        "minInstalls": 10000,
+        "ratings": 326,
+        "genre": "출산/육아",
+        "updated": 1788278319000,
+        "titleHasKeyword": false
+      },
+      {
+        "appId": "kr.co.simplebestapp.calculator",
+        "title": "모두의 계산기 - 실생활 계산",
+        "developer": "Mojise",
+        "score": 4.12,
+        "minInstalls": 100000,
+        "ratings": 260,
+        "genre": "도구",
+        "updated": 1782479655000,
+        "titleHasKeyword": false
+      },
+      {
+        "appId": "com.age.calculator.birthday.reminder.calender.dateofbirth",
+        "title": "나이 계산기 - 생년월일",
+        "developer": "GreenFields1",
+        "minInstalls": 100000,
+        "genre": "도구",
+        "updated": 1792687995000,
+        "titleHasKeyword": false
+      },
+      {
+        "appId": "com.cooltime.babyfoodcalc",
+        "title": "이유식 양 계산기",
+        "developer": "Cooltime Studio",
+        "minInstalls": 10,
+        "genre": "출산/육아",
+        "updated": 1789310839000,
+        "titleHasKeyword": false
+      },
+      {
+        "appId": "com.mineelab.momsrecipes",
+        "title": "이유식 플래너",
+        "developer": "Minee Lab",
+        "score": 4.5789475,
+        "minInstalls": 500,
+        "ratings": 19,
+        "genre": "출산/육아",
+        "updated": 1792128522000,
+        "titleHasKeyword": false
+      },
+      {
+        "appId": "com.ng_labs.agecalculator",
+        "title": "Age & Date Calculator, ng-labs",
+        "developer": "ng-labs",
+        "minInstalls": 500000,
+        "genre": "도구",
+        "updated": 1792554079000,
+        "titleHasKeyword": false
+      }
+    ]
+  },
+  {
+    "category": "parenting",
+    "seed": "이유식",
+    "keyword": "이유식달력",
+    "results": [
+      {
+        "appId": "kr.sknkwoxs.spoontime",
+        "title": "스푼타임 - 이유식이 쉬워진다 SpoonTime",
+        "developer": "SpoonTime Developer",
+        "score": 4.57,
+        "minInstalls": 10000,
+        "ratings": 452,
+        "genre": "출산/육아",
+        "updated": 1792125539000,
+        "titleHasKeyword": false
+      },
+      {
+        "appId": "com.babyallday.app",
+        "title": "베이비 올데이: 태동·수유 기록·이유식 식단표·달력",
+        "developer": "Baby Allday",
+        "score": 4.8333335,
+        "minInstalls": 500,
+        "ratings": 12,
+        "genre": "출산/육아",
+        "updated": 1793030093000,
+        "titleHasKeyword": false
+      },
+      {
+        "appId": "com.nunkoib.mamma",
+        "title": "맘마노트 - 이유식 기록·식단표·큐브",
+        "developer": "눈코입",
+        "score": 4.375,
+        "minInstalls": 500,
+        "ratings": 8,
+        "genre": "출산/육아",
+        "updated": 1792393463000,
+        "titleHasKeyword": false
+      },
+      {
+        "appId": "works.jubilee.timetree",
+        "title": "TimeTree - 공유 캘린더",
+        "developer": "TimeTree, Inc.",
+        "score": 4.8072534,
+        "minInstalls": 10000000,
+        "ratings": 240521,
+        "genre": "생산성",
+        "updated": 1793162879000,
+        "titleHasKeyword": false
+      },
+      {
+        "appId": "com.appg.mommaplanner",
+        "title": "맘마플래너 - 전문가 검증 기반 이유식 관리",
+        "developer": "맘마플래너",
+        "score": 4.3431373,
+        "minInstalls": 10000,
+        "ratings": 326,
+        "genre": "출산/육아",
+        "updated": 1788278319000,
+        "titleHasKeyword": false
+      },
+      {
+        "appId": "com.to_do_list_studio.baby_tracker.baby_care.sleep.feeding.breastfeeding.tinilog",
+        "title": "베이비 트래커: 수유와 수면",
+        "developer": "Productivity Apps Studio",
+        "minInstalls": 10000,
+        "genre": "출산/육아",
+        "updated": 1789037865000,
+        "titleHasKeyword": false
+      },
+      {
+        "appId": "com.arin.babyfood",
+        "title": "얌플래너 – 아기 이유식·유아식 레시피 & 식단 플래너",
+        "developer": "코드래빗",
+        "score": 4.730769,
+        "minInstalls": 1000,
+        "ratings": 26,
+        "genre": "출산/육아",
+        "updated": 1789656602000,
+        "titleHasKeyword": false
+      },
+      {
+        "appId": "co.wiserapps.babyweaningsolids",
+        "title": "이유식 레시피: 아기 식단 관리",
+        "developer": "Wiserapps Software",
+        "score": 4.633333,
+        "minInstalls": 100000,
+        "ratings": 1238,
+        "genre": "출산/육아",
+        "updated": 1793090245000,
+        "titleHasKeyword": false
+      },
+      {
+        "appId": "dev.cwolf.birthdaycalendar",
+        "title": "생일 달력 알림",
+        "developer": "DevWolf",
+        "score": 4.89,
+        "minInstalls": 5000000,
+        "ratings": 90829,
+        "genre": "도구",
+        "updated": 1763810477000,
+        "titleHasKeyword": false
+      },
+      {
+        "appId": "jp.co.johospace.jorte",
+        "title": "조르테 캘린더 & 시스템다이어리・일기 (Jorte)",
+        "developer": "Jorte Inc.",
+        "score": 4.0140185,
+        "minInstalls": 10000000,
+        "ratings": 208043,
+        "genre": "생산성",
+        "updated": 1791529800000,
+        "titleHasKeyword": false
+      }
+    ]
+  },
+  {
+    "category": "parenting",
+    "seed": "이유식",
+    "keyword": "이유식식단표",
+    "results": [
+      {
+        "appId": "kr.sknkwoxs.spoontime",
+        "title": "스푼타임 - 이유식이 쉬워진다 SpoonTime",
+        "developer": "SpoonTime Developer",
+        "score": 4.57,
+        "minInstalls": 10000,
+        "ratings": 452,
+        "genre": "출산/육아",
+        "updated": 1792125539000,
+        "titleHasKeyword": false
+      },
+      {
+        "appId": "com.nunkoib.mamma",
+        "title": "맘마노트 - 이유식 기록·식단표·큐브",
+        "developer": "눈코입",
+        "score": 4.375,
+        "minInstalls": 500,
+        "ratings": 8,
+        "genre": "출산/육아",
+        "updated": 1792393463000,
+        "titleHasKeyword": false
+      },
+      {
+        "appId": "co.wiserapps.babyweaningsolids",
+        "title": "이유식 레시피: 아기 식단 관리",
+        "developer": "Wiserapps Software",
+        "score": 4.633333,
+        "minInstalls": 100000,
+        "ratings": 1238,
+        "genre": "출산/육아",
+        "updated": 1793090245000,
+        "titleHasKeyword": false
+      },
+      {
+        "appId": "com.ursoft.dietmanagement2",
+        "title": "유리트 식단 - 식단 관리, 식단 기록, 식비 관리",
+        "developer": "URSOFT",
+        "score": 4.83,
+        "minInstalls": 10000,
+        "ratings": 718,
+        "genre": "식음료",
+        "updated": 1793257789000,
+        "titleHasKeyword": false
+      },
+      {
+        "appId": "com.arin.babyfood",
+        "title": "얌플래너 – 아기 이유식·유아식 레시피 & 식단 플래너",
+        "developer": "코드래빗",
+        "score": 4.730769,
+        "minInstalls": 1000,
+        "ratings": 26,
+        "genre": "출산/육아",
+        "updated": 1789656602000,
+        "titleHasKeyword": false
+      },
+      {
+        "appId": "com.glonaris.oniyusik",
+        "title": "온이유식 - 초기 이유식 식단표·달력·큐브·기록",
+        "developer": "Glonaris",
+        "minInstalls": 10,
+        "genre": "출산/육아",
+        "updated": 1792983057000,
+        "titleHasKeyword": true
+      },
+      {
+        "appId": "com.mineelab.momsrecipes",
+        "title": "이유식 플래너",
+        "developer": "Minee Lab",
+        "score": 4.5789475,
+        "minInstalls": 500,
+        "ratings": 19,
+        "genre": "출산/육아",
+        "updated": 1792128522000,
+        "titleHasKeyword": false
+      },
+      {
+        "appId": "com.yinqs.weeklymealplanner",
+        "title": "다이어리 식사 입안자 / 장보기 리스트 / 요리레시피",
+        "developer": "JoJo Apps: Meal Planner and Shopping List",
+        "score": 4.84,
+        "minInstalls": 1000000,
+        "ratings": 22396,
+        "genre": "식음료",
+        "updated": 1792743291000,
+        "titleHasKeyword": false
+      },
+      {
+        "appId": "com.sikeumpyo.app",
+        "title": "식음표",
+        "developer": "야이다 타다츠네",
+        "minInstalls": 10,
+        "genre": "식음료",
+        "updated": 1790738309000,
+        "titleHasKeyword": false
+      },
+      {
+        "appId": "com.appg.mommaplanner",
+        "title": "맘마플래너 - 전문가 검증 기반 이유식 관리",
+        "developer": "맘마플래너",
+        "score": 4.3431373,
+        "minInstalls": 10000,
+        "ratings": 326,
+        "genre": "출산/육아",
+        "updated": 1788278319000,
+        "titleHasKeyword": false
+      }
+    ]
+  },
+  {
+    "category": "parenting",
+    "seed": "이유식",
+    "keyword": "이유식어플",
+    "results": [
+      {
+        "appId": "kr.sknkwoxs.spoontime",
+        "title": "스푼타임 - 이유식이 쉬워진다 SpoonTime",
+        "developer": "SpoonTime Developer",
+        "score": 4.57,
+        "minInstalls": 10000,
+        "ratings": 452,
+        "genre": "출산/육아",
+        "updated": 1792125539000,
+        "titleHasKeyword": false
+      },
+      {
+        "appId": "com.appg.mommaplanner",
+        "title": "맘마플래너 - 전문가 검증 기반 이유식 관리",
+        "developer": "맘마플래너",
+        "score": 4.3431373,
+        "minInstalls": 10000,
+        "ratings": 326,
+        "genre": "출산/육아",
+        "updated": 1788278319000,
+        "titleHasKeyword": false
+      },
+      {
+        "appId": "com.mineelab.momsrecipes",
+        "title": "이유식 플래너",
+        "developer": "Minee Lab",
+        "score": 4.5789475,
+        "minInstalls": 500,
+        "ratings": 19,
+        "genre": "출산/육아",
+        "updated": 1792128522000,
+        "titleHasKeyword": false
+      },
+      {
+        "appId": "com.nunkoib.mamma",
+        "title": "맘마노트 - 이유식 기록·식단표·큐브",
+        "developer": "눈코입",
+        "score": 4.375,
+        "minInstalls": 500,
+        "ratings": 8,
+        "genre": "출산/육아",
+        "updated": 1792393463000,
+        "titleHasKeyword": false
+      },
+      {
+        "appId": "com.yonaha.babeat.app",
+        "title": "Babeat - 이유식 큐브 & 식단 관리",
+        "developer": "Yonaha Lab",
+        "score": 5,
+        "minInstalls": 100,
+        "ratings": 8,
+        "genre": "출산/육아",
+        "updated": 1790076078000,
+        "titleHasKeyword": false
+      },
+      {
+        "appId": "co.wiserapps.babyweaningsolids",
+        "title": "이유식 레시피: 아기 식단 관리",
+        "developer": "Wiserapps Software",
+        "score": 4.633333,
+        "minInstalls": 100000,
+        "ratings": 1238,
+        "genre": "출산/육아",
+        "updated": 1793090245000,
+        "titleHasKeyword": false
+      },
+      {
+        "appId": "com.linasoft.startsolids",
+        "title": "아기 이유식 기록 & BLW 가이드: Avo",
+        "developer": "Avo Parenting",
+        "minInstalls": 50000,
+        "genre": "출산/육아",
+        "updated": 1793309003000,
+        "titleHasKeyword": false
+      },
+      {
+        "appId": "com.arin.babyfood",
+        "title": "얌플래너 – 아기 이유식·유아식 레시피 & 식단 플래너",
+        "developer": "코드래빗",
+        "score": 4.730769,
+        "minInstalls": 1000,
+        "ratings": 26,
+        "genre": "출산/육아",
+        "updated": 1789656602000,
+        "titleHasKeyword": false
+      },
+      {
+        "appId": "yducky.application.babytime",
+        "title": "베이비타임 - BabyTime (수유, 육아, 일기)",
+        "developer": "Simfler",
+        "score": 4.944911,
+        "minInstalls": 1000000,
+        "ratings": 39707,
+        "genre": "출산/육아",
+        "updated": 1792666687000,
+        "titleHasKeyword": false
+      }
+    ]
+  },
+  {
+    "category": "parenting",
+    "seed": "어린이집",
+    "keyword": "어린이집",
+    "results": [
+      {
+        "appId": "com.vaultmicro.kidsnote",
+        "title": "키즈노트:유치원,어린이집,학원 필수 앱!",
+        "developer": "Kids Note, Inc.",
+        "score": 4.8164253,
+        "minInstalls": 5000000,
+        "ratings": 36964,
+        "genre": "커뮤니케이션",
+        "updated": 1793090712000,
+        "titleHasKeyword": true
+      },
+      {
+        "appId": "com.mw.Android_KidsLove2",
+        "title": "아이사랑 모바일",
+        "developer": "교육부(영유아안전정보과)",
+        "score": 1.4008098,
+        "minInstalls": 1000000,
+        "ratings": 6273,
+        "genre": "출산/육아",
+        "updated": 1758767533000,
+        "titleHasKeyword": false
+      },
+      {
+        "appId": "com.site.daycarekoreaweb",
+        "title": "어린이집/유치원찾기 - 전국 어린이집/유치원 정보",
+        "developer": "아파트랭킹",
+        "score": 4.1,
+        "minInstalls": 10000,
+        "ratings": 10,
+        "genre": "출산/육아",
+        "updated": 1785394533000,
+        "titleHasKeyword": true
+      },
+      {
+        "appId": "com.sotti.daycare",
+        "title": "우리동네 어린이집 - 어린이집 찾기·입소대기",
+        "developer": "Soyi & Yijun Studio",
+        "minInstalls": 10,
+        "genre": "교육",
+        "updated": 1793309343000,
+        "titleHasKeyword": true
+      },
+      {
+        "appId": "com.sinyee.babybus.kindergarten",
+        "title": "귀염이 어린이집-유아교육 유치원 체험놀이",
+        "developer": "BabyBus",
+        "score": 3.93,
+        "minInstalls": 10000000,
+        "ratings": 35291,
+        "genre": "학습",
+        "updated": 1788407679000,
+        "titleHasKeyword": true
+      },
+      {
+        "appId": "com.eduprei.app",
+        "title": "꼬망세: 어린이집·유치원 교사용 올인원 앱",
+        "developer": "꼬망세",
+        "minInstalls": 1000,
+        "genre": "생산성",
+        "updated": 1768881008000,
+        "titleHasKeyword": true
+      },
+      {
+        "appId": "com.seinsmart.nursery_info",
+        "title": "어린이집 블랙리스트 (어린이집 정보공개, 아이사랑)",
+        "developer": "세인스마트",
+        "score": 3.7407408,
+        "minInstalls": 50000,
+        "ratings": 27,
+        "genre": "출산/육아",
+        "updated": 1779121692000,
+        "titleHasKeyword": true
+      },
+      {
+        "appId": "dev.sunriver.collajam",
+        "title": "콜라잼 - 어린이집,유치원,교사 사진편집,누끼 템플릿",
+        "developer": "Collajam Corp.",
+        "score": 4.9255815,
+        "minInstalls": 50000,
+        "ratings": 2140,
+        "genre": "사진",
+        "updated": 1788364203000,
+        "titleHasKeyword": true
+      },
+      {
+        "appId": "com.sinyee.babybus.kindergartenII",
+        "title": "아기 팬더: 우리 유치원",
+        "developer": "BabyBus",
+        "score": 3.91,
+        "minInstalls": 10000000,
+        "ratings": 11431,
+        "genre": "학습",
+        "updated": 1793184630000,
+        "titleHasKeyword": false
+      },
+      {
+        "appId": "app.gg.accgg",
+        "title": "어린이집회계",
+        "developer": "(주)온앤온정보시스템",
+        "score": 3.0384614,
+        "minInstalls": 10000,
+        "ratings": 26,
+        "genre": "교육",
+        "updated": 1786066815000,
+        "titleHasKeyword": true
+      }
+    ]
+  },
+  {
+    "category": "parenting",
+    "seed": "어린이집",
+    "keyword": "어린이집 블랙리스트",
+    "results": [
+      {
+        "appId": "com.seinsmart.nursery_info",
+        "title": "어린이집 블랙리스트 (어린이집 정보공개, 아이사랑)",
+        "developer": "세인스마트",
+        "score": 3.7407408,
+        "minInstalls": 50000,
+        "ratings": 27,
+        "genre": "출산/육아",
+        "updated": 1779121692000,
+        "titleHasKeyword": true
+      },
+      {
+        "appId": "com.vaultmicro.kidsnote",
+        "title": "키즈노트:유치원,어린이집,학원 필수 앱!",
+        "developer": "Kids Note, Inc.",
+        "score": 4.8164253,
+        "minInstalls": 5000000,
+        "ratings": 36964,
+        "genre": "커뮤니케이션",
+        "updated": 1793090712000,
+        "titleHasKeyword": false
+      },
+      {
+        "appId": "com.boomdevice.kokozi",
+        "title": "코코지 - 잘 듣는 아이, 매일 커지는 세상",
+        "developer": "KOKOZI Co. Ltd",
+        "score": 4.793296,
+        "minInstalls": 100000,
+        "ratings": 3736,
+        "genre": "교육",
+        "updated": 1792154123000,
+        "titleHasKeyword": false
+      },
+      {
+        "appId": "com.mw.Android_KidsLove2",
+        "title": "아이사랑 모바일",
+        "developer": "교육부(영유아안전정보과)",
+        "score": 1.4008098,
+        "minInstalls": 1000000,
+        "ratings": 6273,
+        "genre": "출산/육아",
+        "updated": 1758767533000,
+        "titleHasKeyword": false
+      },
+      {
+        "appId": "yducky.application.babytime",
+        "title": "베이비타임 - BabyTime (수유, 육아, 일기)",
+        "developer": "Simfler",
+        "score": 4.944911,
+        "minInstalls": 1000000,
+        "ratings": 39707,
+        "genre": "출산/육아",
+        "updated": 1792666687000,
+        "titleHasKeyword": false
+      },
+      {
+        "appId": "kr.co.pushapp.momguide",
+        "title": "맘가이드 - 유아용품 성분 분석, 등급, 랭킹",
+        "developer": "주식회사 인포그린",
+        "score": 4.845588,
+        "minInstalls": 100000,
+        "ratings": 1168,
+        "genre": "출산/육아",
+        "updated": 1786438913000,
+        "titleHasKeyword": false
+      },
+      {
+        "appId": "jp.co.litalico.kidstodolist",
+        "title": "Kids ToDo List",
+        "developer": "LITALICO lnc.",
+        "score": 4.714286,
+        "minInstalls": 100000,
+        "ratings": 2471,
+        "genre": "교육",
+        "updated": 1760061032000,
+        "titleHasKeyword": false
+      },
+      {
+        "appId": "com.vladlee.easyblacklist",
+        "title": "Calls Blacklist - 전화차단",
+        "developer": "Enchan Li",
+        "score": 4.25,
+        "minInstalls": 10000000,
+        "ratings": 857885,
+        "genre": "커뮤니케이션",
+        "updated": 1793424210000,
+        "titleHasKeyword": false
+      },
+      {
+        "appId": "com.nighp.babytracker_android",
+        "title": "육아일기장",
+        "developer": "NIGHP SOFTWARE",
+        "score": 4.8,
+        "minInstalls": 1000000,
+        "ratings": 72029,
+        "genre": "출산/육아",
+        "updated": 1792227919000,
+        "titleHasKeyword": false
+      },
+      {
+        "appId": "app.kids360.parent",
+        "title": "Kids 360 – 자녀 보호 기능 앱",
+        "developer": "MINDCARE LAB LTD",
+        "score": 3.764045,
+        "minInstalls": 10000000,
+        "ratings": 308225,
+        "genre": "출산/육아",
+        "updated": 1793129826000,
+        "titleHasKeyword": false
+      }
+    ]
+  },
+  {
+    "category": "parenting",
+    "seed": "어린이집",
+    "keyword": "어린이집 입소대기",
+    "results": [
+      {
+        "appId": "com.mw.Android_KidsLove2",
+        "title": "아이사랑 모바일",
+        "developer": "교육부(영유아안전정보과)",
+        "score": 1.4008098,
+        "minInstalls": 1000000,
+        "ratings": 6273,
+        "genre": "출산/육아",
+        "updated": 1758767533000,
+        "titleHasKeyword": false
+      },
+      {
+        "appId": "com.sotti.daycare",
+        "title": "우리동네 어린이집 - 어린이집 찾기·입소대기",
+        "developer": "Soyi & Yijun Studio",
+        "minInstalls": 10,
+        "genre": "교육",
+        "updated": 1793309343000,
+        "titleHasKeyword": false
+      },
+      {
+        "appId": "com.site.daycarekoreaweb",
+        "title": "어린이집/유치원찾기 - 전국 어린이집/유치원 정보",
+        "developer": "아파트랭킹",
+        "score": 4.1,
+        "minInstalls": 10000,
+        "ratings": 10,
+        "genre": "출산/육아",
+        "updated": 1785394533000,
+        "titleHasKeyword": false
+      },
+      {
+        "appId": "com.vaultmicro.kidsnote",
+        "title": "키즈노트:유치원,어린이집,학원 필수 앱!",
+        "developer": "Kids Note, Inc.",
+        "score": 4.8164253,
+        "minInstalls": 5000000,
+        "ratings": 36964,
+        "genre": "커뮤니케이션",
+        "updated": 1793090712000,
+        "titleHasKeyword": false
+      },
+      {
+        "appId": "com.spacosa.android.catchloc.scanner",
+        "title": "키즈태그 어린이집 등하원 스캐너",
+        "developer": "WONDER ON Co., Ltd.",
+        "minInstalls": 50,
+        "genre": "라이프스타일",
+        "updated": 1692763898000,
+        "titleHasKeyword": false
+      },
+      {
+        "appId": "com.seinsmart.nursery_info",
+        "title": "어린이집 블랙리스트 (어린이집 정보공개, 아이사랑)",
+        "developer": "세인스마트",
+        "score": 3.7407408,
+        "minInstalls": 50000,
+        "ratings": 27,
+        "genre": "출산/육아",
+        "updated": 1779121692000,
+        "titleHasKeyword": false
+      },
+      {
+        "appId": "com.nh.kumgo.nhccm",
+        "title": "NH어린이집관리",
+        "developer": "농협은행(주)",
+        "minInstalls": 1000,
+        "genre": "비즈니스",
+        "updated": 1789436239000,
+        "titleHasKeyword": false
+      },
+      {
+        "appId": "kr.co.pushapp.momguide",
+        "title": "맘가이드 - 유아용품 성분 분석, 등급, 랭킹",
+        "developer": "주식회사 인포그린",
+        "score": 4.845588,
+        "minInstalls": 100000,
+        "ratings": 1168,
+        "genre": "출산/육아",
+        "updated": 1786438913000,
+        "titleHasKeyword": false
+      },
+      {
+        "appId": "net.nfor.carebaby",
+        "title": "아기를 부탁해 – 임신 출산 육아 컨텐츠  전문 플랫폼",
+        "developer": "Carecraft",
+        "minInstalls": 5000,
+        "genre": "라이프스타일",
+        "updated": 1768991685000,
+        "titleHasKeyword": false
+      },
+      {
+        "appId": "com.sinyee.babybus.kindergartenII",
+        "title": "아기 팬더: 우리 유치원",
+        "developer": "BabyBus",
+        "score": 3.91,
+        "minInstalls": 10000000,
+        "ratings": 11431,
+        "genre": "학습",
+        "updated": 1793184630000,
+        "titleHasKeyword": false
+      }
+    ]
+  },
+  {
+    "category": "parenting",
+    "seed": "어린이집",
+    "keyword": "어린이집정보공개포털",
+    "results": [
+      {
+        "appId": "io.github.ovso.righttoknow",
+        "title": "어린이집 정보공개 - 법 위반 시설·보육교직원 공표",
+        "developer": "TheTentmaker",
+        "score": 4.4,
+        "minInstalls": 50000,
+        "ratings": 124,
+        "genre": "도서/참고자료",
+        "updated": 1790953386000,
+        "titleHasKeyword": false
+      },
+      {
+        "appId": "com.sotti.daycare",
+        "title": "우리동네 어린이집 - 어린이집 찾기·입소대기",
+        "developer": "Soyi & Yijun Studio",
+        "minInstalls": 10,
+        "genre": "교육",
+        "updated": 1793309343000,
+        "titleHasKeyword": false
+      },
+      {
+        "appId": "com.seinsmart.nursery_info",
+        "title": "어린이집 블랙리스트 (어린이집 정보공개, 아이사랑)",
+        "developer": "세인스마트",
+        "score": 3.7407408,
+        "minInstalls": 50000,
+        "ratings": 27,
+        "genre": "출산/육아",
+        "updated": 1779121692000,
+        "titleHasKeyword": false
+      },
+      {
+        "appId": "com.site.daycarekoreaweb",
+        "title": "어린이집/유치원찾기 - 전국 어린이집/유치원 정보",
+        "developer": "아파트랭킹",
+        "score": 4.1,
+        "minInstalls": 10000,
+        "ratings": 10,
+        "genre": "출산/육아",
+        "updated": 1785394533000,
+        "titleHasKeyword": false
+      },
+      {
+        "appId": "com.mw.Android_KidsLove2",
+        "title": "아이사랑 모바일",
+        "developer": "교육부(영유아안전정보과)",
+        "score": 1.4008098,
+        "minInstalls": 1000000,
+        "ratings": 6273,
+        "genre": "출산/육아",
+        "updated": 1758767533000,
+        "titleHasKeyword": false
+      },
+      {
+        "appId": "com.vaultmicro.kidsnote",
+        "title": "키즈노트:유치원,어린이집,학원 필수 앱!",
+        "developer": "Kids Note, Inc.",
+        "score": 4.8164253,
+        "minInstalls": 5000000,
+        "ratings": 36964,
+        "genre": "커뮤니케이션",
+        "updated": 1793090712000,
+        "titleHasKeyword": false
+      },
+      {
+        "appId": "com.eduprei.app",
+        "title": "꼬망세: 어린이집·유치원 교사용 올인원 앱",
+        "developer": "꼬망세",
+        "minInstalls": 1000,
+        "genre": "생산성",
+        "updated": 1768881008000,
+        "titleHasKeyword": false
+      },
+      {
+        "appId": "com.kidscall.es.v2.app",
+        "title": "키즈콜2 - 학교",
+        "developer": "shnetworks",
+        "score": 4.8502994,
+        "minInstalls": 100000,
+        "ratings": 525,
+        "genre": "라이프스타일",
+        "updated": 1784095359000,
+        "titleHasKeyword": false
+      },
+      {
+        "appId": "app.gg.accgg",
+        "title": "어린이집회계",
+        "developer": "(주)온앤온정보시스템",
+        "score": 3.0384614,
+        "minInstalls": 10000,
+        "ratings": 26,
+        "genre": "교육",
+        "updated": 1786066815000,
+        "titleHasKeyword": false
+      },
+      {
+        "appId": "com.mobilefence.family",
+        "title": "모바일펜스 - 자녀 스마트폰 관리",
+        "developer": "Mobile Fence",
+        "score": 4.240798,
+        "minInstalls": 1000000,
+        "ratings": 58740,
+        "genre": "출산/육아",
+        "updated": 1793177125000,
+        "titleHasKeyword": false
+      }
+    ]
+  },
+  {
+    "category": "parenting",
+    "seed": "어린이집",
+    "keyword": "어린이집 입소맵",
+    "results": [
+      {
+        "appId": "com.mw.Android_KidsLove2",
+        "title": "아이사랑 모바일",
+        "developer": "교육부(영유아안전정보과)",
+        "score": 1.4008098,
+        "minInstalls": 1000000,
+        "ratings": 6273,
+        "genre": "출산/육아",
+        "updated": 1758767533000,
+        "titleHasKeyword": false
+      },
+      {
+        "appId": "com.site.daycarekoreaweb",
+        "title": "어린이집/유치원찾기 - 전국 어린이집/유치원 정보",
+        "developer": "아파트랭킹",
+        "score": 4.1,
+        "minInstalls": 10000,
+        "ratings": 10,
+        "genre": "출산/육아",
+        "updated": 1785394533000,
+        "titleHasKeyword": false
+      },
+      {
+        "appId": "com.sotti.daycare",
+        "title": "우리동네 어린이집 - 어린이집 찾기·입소대기",
+        "developer": "Soyi & Yijun Studio",
+        "minInstalls": 10,
+        "genre": "교육",
+        "updated": 1793309343000,
+        "titleHasKeyword": false
+      },
+      {
+        "appId": "com.vaultmicro.kidsnote",
+        "title": "키즈노트:유치원,어린이집,학원 필수 앱!",
+        "developer": "Kids Note, Inc.",
+        "score": 4.8164253,
+        "minInstalls": 5000000,
+        "ratings": 36964,
+        "genre": "커뮤니케이션",
+        "updated": 1793090712000,
+        "titleHasKeyword": false
+      },
+      {
+        "appId": "yducky.application.babytime",
+        "title": "베이비타임 - BabyTime (수유, 육아, 일기)",
+        "developer": "Simfler",
+        "score": 4.944911,
+        "minInstalls": 1000000,
+        "ratings": 39707,
+        "genre": "출산/육아",
+        "updated": 1792666687000,
+        "titleHasKeyword": false
+      },
+      {
+        "appId": "com.nanny.provider.nanny_provider",
+        "title": "Bye Kids babysitter",
+        "developer": "Bye Kids",
+        "minInstalls": 500,
+        "genre": "출산/육아",
+        "updated": 1793217287000,
+        "titleHasKeyword": false
+      },
+      {
+        "appId": "com.bongroup.babybonjuk",
+        "title": "베이비본죽 - babybonjuk",
+        "developer": "순수본",
+        "score": 5,
+        "minInstalls": 5000,
+        "ratings": 10,
+        "genre": "쇼핑",
+        "updated": 1788850014000,
+        "titleHasKeyword": false
+      },
+      {
+        "appId": "kr.villagebaby.billyapplication",
+        "title": "베이비빌리 - 임신, 임신준비, 육아, 태교 앱",
+        "developer": "VillageBaby Inc.",
+        "score": 4.9313254,
+        "minInstalls": 1000000,
+        "ratings": 11860,
+        "genre": "출산/육아",
+        "updated": 1792736828000,
+        "titleHasKeyword": false
+      },
+      {
+        "appId": "com.seinsmart.nursery_info",
+        "title": "어린이집 블랙리스트 (어린이집 정보공개, 아이사랑)",
+        "developer": "세인스마트",
+        "score": 3.7407408,
+        "minInstalls": 50000,
+        "ratings": 27,
+        "genre": "출산/육아",
+        "updated": 1779121692000,
+        "titleHasKeyword": false
+      },
+      {
+        "appId": "app.babykid.app",
+        "title": "BabyKid: Family Care Organizer",
+        "developer": "KLN Technologies L.L.C-FZ",
+        "minInstalls": 10,
+        "genre": "출산/육아",
+        "updated": 1792240000000,
+        "titleHasKeyword": false
+      }
+    ]
+  },
+  {
+    "category": "parenting",
+    "seed": "육아휴직",
+    "keyword": "육아휴직",
+    "results": [
+      {
+        "appId": "kr.or.keis.mo",
+        "title": "고용24",
+        "developer": "KoreaEmploymentInformationService",
+        "score": 4.4837837,
+        "minInstalls": 1000000,
+        "ratings": 7440,
+        "genre": "비즈니스",
+        "updated": 1792540688000,
+        "titleHasKeyword": false
+      },
+      {
+        "appId": "com.mommytalkappv1",
+        "title": "마미톡 - 임신, 육아 필수 앱",
+        "developer": "LifeX, Inc.",
+        "score": 4.8372326,
+        "minInstalls": 1000000,
+        "ratings": 20117,
+        "genre": "출산/육아",
+        "updated": 1793065804000,
+        "titleHasKeyword": false
+      },
+      {
+        "appId": "com.wooahthink.aos",
+        "title": "우아띵 - 아기위젯, 육아일기, 영유아검진, 임신어플",
+        "developer": "우아띵",
+        "score": 4.87,
+        "minInstalls": 10000,
+        "ratings": 576,
+        "genre": "출산/육아",
+        "updated": 1792857981000,
+        "titleHasKeyword": false
+      },
+      {
+        "appId": "com.hydroponicglass.baby_leave_calculator",
+        "title": "육아휴직 급여 계산기 - 2026년 수당 월별 수령액",
+        "developer": "HydroponicGlass",
+        "minInstalls": 100,
+        "genre": "도구",
+        "updated": 1785554251000,
+        "titleHasKeyword": true
+      },
+      {
+        "appId": "com.axno.app.aalz",
+        "title": "휴직조각 - 육아휴직 분할 사용·남은 기간",
+        "developer": "엑스노",
+        "minInstalls": 0,
+        "genre": "동영상 플레이어/편집기",
+        "updated": 1792907764000,
+        "titleHasKeyword": true
+      },
+      {
+        "appId": "com.yugacrew.yugacrewApp",
+        "title": "육아크루 (육아친구, 어린이집/유치원현황, 학습지도안)",
+        "developer": "Dinoz.Co.,Ltd.",
+        "score": 4.887574,
+        "minInstalls": 10000,
+        "ratings": 1371,
+        "genre": "출산/육아",
+        "updated": 1792651038000,
+        "titleHasKeyword": false
+      },
+      {
+        "appId": "com.wizocean.parentalleave",
+        "title": "육휴달력 - 육아휴직 급여 계산기",
+        "developer": "위즈오션(WizOcean)",
+        "minInstalls": 5,
+        "genre": "생산성",
+        "updated": 1791089616000,
+        "titleHasKeyword": true
+      },
+      {
+        "appId": "baton.relay",
+        "title": "바톤 - 맞벌이 육아휴직 교대 계산",
+        "developer": "chh",
+        "minInstalls": 1,
+        "genre": "라이프스타일",
+        "updated": 1791756555000,
+        "titleHasKeyword": true
+      },
+      {
+        "appId": "kr.go.phis.prApp",
+        "title": "아이마중",
+        "developer": "보건복지부/한국사회보장정보원",
+        "score": 4.04,
+        "minInstalls": 50000,
+        "ratings": 121,
+        "genre": "출산/육아",
+        "updated": 1791958782000,
+        "titleHasKeyword": false
+      },
+      {
+        "appId": "com.jejememe.daybabyday",
+        "title": "쑥쑥찰칵 - 아기 사진 공유 사진 정리 육아앱",
+        "developer": "JEJEMEME Inc.",
+        "score": 4.873102,
+        "minInstalls": 1000000,
+        "ratings": 28006,
+        "genre": "출산/육아",
+        "updated": 1793257298000,
+        "titleHasKeyword": false
+      }
+    ]
+  },
+  {
+    "category": "parenting",
+    "seed": "육아휴직",
+    "keyword": "육아휴직급여신청",
+    "results": [
+      {
+        "appId": "kr.or.keis.mo",
+        "title": "고용24",
+        "developer": "KoreaEmploymentInformationService",
+        "score": 4.4837837,
+        "minInstalls": 1000000,
+        "ratings": 7440,
+        "genre": "비즈니스",
+        "updated": 1792540688000,
+        "titleHasKeyword": false
+      },
+      {
+        "appId": "kr.go.hrd.app",
+        "title": "고용24 직업훈련 출결관리",
+        "developer": "KoreaEmploymentInformationService",
+        "score": 4.2964783,
+        "minInstalls": 5000000,
+        "ratings": 24572,
+        "genre": "교육",
+        "updated": 1792544984000,
+        "titleHasKeyword": false
+      },
+      {
+        "appId": "com.mommytalkappv1",
+        "title": "마미톡 - 임신, 육아 필수 앱",
+        "developer": "LifeX, Inc.",
+        "score": 4.8372326,
+        "minInstalls": 1000000,
+        "ratings": 20117,
+        "genre": "출산/육아",
+        "updated": 1793065804000,
+        "titleHasKeyword": false
+      },
+      {
+        "appId": "kr.or.comwel.cswelfare",
+        "title": "TOUCH! 산재고용",
+        "developer": "(근로복지공단)",
+        "score": 2.45,
+        "minInstalls": 100000,
+        "ratings": 452,
+        "genre": "라이프스타일",
+        "updated": 1790838178000,
+        "titleHasKeyword": false
+      },
+      {
+        "appId": "com.albamon.app",
+        "title": "알바몬 - 아르바이트 구인 구직, 파트타임 매칭 플랫폼",
+        "developer": "웍스피어",
+        "score": 4.703019,
+        "minInstalls": 10000000,
+        "ratings": 178689,
+        "genre": "비즈니스",
+        "updated": 1793102785000,
+        "titleHasKeyword": false
+      },
+      {
+        "appId": "com.needer.gubgoo2",
+        "title": "급구 - 하루만 알바가 필요할 때",
+        "developer": "니더",
+        "score": 4.658088,
+        "minInstalls": 1000000,
+        "ratings": 5656,
+        "genre": "비즈니스",
+        "updated": 1793324370000,
+        "titleHasKeyword": false
+      },
+      {
+        "appId": "com.appmd.fever",
+        "title": "열나요 - 집에서 시작하는 우리 아이 열관리",
+        "developer": "모바일닥터",
+        "score": 3.8430736,
+        "minInstalls": 1000000,
+        "ratings": 9998,
+        "genre": "출산/육아",
+        "updated": 1792134602000,
+        "titleHasKeyword": false
+      },
+      {
+        "appId": "com.dongnealba.app.android",
+        "title": "동네알바 - 우리동네 알바, 단기알바, 부업, 일자리",
+        "developer": "(주)사람인",
+        "score": 4.64605,
+        "minInstalls": 1000000,
+        "ratings": 19198,
+        "genre": "비즈니스",
+        "updated": 1792661334000,
+        "titleHasKeyword": false
+      },
+      {
+        "appId": "yducky.application.babytime",
+        "title": "베이비타임 - BabyTime (수유, 육아, 일기)",
+        "developer": "Simfler",
+        "score": 4.944911,
+        "minInstalls": 1000000,
+        "ratings": 39707,
+        "genre": "출산/육아",
+        "updated": 1792666687000,
+        "titleHasKeyword": false
+      },
+      {
+        "appId": "com.momsitter.android.hybridapp",
+        "title": "맘시터- 아이돌봄, 산후관리, 베이비시터, 학습, 가사",
+        "developer": "(주)맘편한세상",
+        "score": 4.1809525,
+        "minInstalls": 500000,
+        "ratings": 2107,
+        "genre": "출산/육아",
+        "updated": 1792553553000,
+        "titleHasKeyword": false
+      }
+    ]
+  },
+  {
+    "category": "parenting",
+    "seed": "육아휴직",
+    "keyword": "육아휴직계산기",
+    "results": [
+      {
+        "appId": "com.hydroponicglass.baby_leave_calculator",
+        "title": "육아휴직 급여 계산기 - 2026년 수당 월별 수령액",
+        "developer": "HydroponicGlass",
+        "minInstalls": 100,
+        "genre": "도구",
+        "updated": 1785554251000,
+        "titleHasKeyword": false
+      },
+      {
+        "appId": "com.wizocean.parentalleave",
+        "title": "육휴달력 - 육아휴직 급여 계산기",
+        "developer": "위즈오션(WizOcean)",
+        "minInstalls": 5,
+        "genre": "생산성",
+        "updated": 1791089616000,
+        "titleHasKeyword": false
+      },
+      {
+        "appId": "com.eonsoft.FamilyTree",
+        "title": "호칭계산기 (촌수계산기)",
+        "developer": "EONSOFT",
+        "score": 4.79,
+        "minInstalls": 50000,
+        "ratings": 296,
+        "genre": "라이프스타일",
+        "updated": 1791443228000,
+        "titleHasKeyword": false
+      },
+      {
+        "appId": "com.jws.tica",
+        "title": "Tica - 알바 급여 계산 및 시간 기록",
+        "developer": "jwslab",
+        "score": 4.7907867,
+        "minInstalls": 100000,
+        "ratings": 5244,
+        "genre": "생산성",
+        "updated": 1793281162000,
+        "titleHasKeyword": false
+      },
+      {
+        "appId": "kr.co.simplebestapp.calculator",
+        "title": "모두의 계산기 - 실생활 계산",
+        "developer": "Mojise",
+        "score": 4.12,
+        "minInstalls": 100000,
+        "ratings": 260,
+        "genre": "도구",
+        "updated": 1782479655000,
+        "titleHasKeyword": false
+      },
+      {
+        "appId": "com.age.calculator.birthday.reminder.calender.dateofbirth",
+        "title": "나이 계산기 - 생년월일",
+        "developer": "GreenFields1",
+        "minInstalls": 100000,
+        "genre": "도구",
+        "updated": 1792687995000,
+        "titleHasKeyword": false
+      },
+      {
+        "appId": "com.futurevibe.koreanage",
+        "title": "한국나이계산기 - 만나이, 생일알림",
+        "developer": "FUTURE VIBE.",
+        "minInstalls": 100,
+        "genre": "라이프스타일",
+        "updated": 1774843340000,
+        "titleHasKeyword": false
+      },
+      {
+        "appId": "com.crecode.agecalculator",
+        "title": "연령 계산기 및 만 나이계산기,몇 살이에요,연령 추적기",
+        "developer": "CC Publisher",
+        "minInstalls": 100000,
+        "genre": "도구",
+        "updated": 1785484160000,
+        "titleHasKeyword": false
+      },
+      {
+        "appId": "com.hydroponicglass.extra_salary_calculator",
+        "title": "수당계산기 - 연장근무 초과근무 야간근무 휴일근무 수당",
+        "developer": "HydroponicGlass",
+        "score": 3.875,
+        "minInstalls": 1000,
+        "ratings": 16,
+        "genre": "비즈니스",
+        "updated": 1791207851000,
+        "titleHasKeyword": false
+      },
+      {
+        "appId": "com.age.calculator.birthday.calender",
+        "title": "나이계산기 생년월일로 - 생일 알림및 달력",
+        "developer": "Cards",
+        "score": 4.5,
+        "minInstalls": 5000000,
+        "ratings": 46112,
+        "genre": "라이프스타일",
+        "updated": 1779273894000,
+        "titleHasKeyword": false
+      }
+    ]
+  },
+  {
+    "category": "parenting",
+    "seed": "육아휴직",
+    "keyword": "육아휴직급여",
+    "results": [
+      {
+        "appId": "kr.or.keis.mo",
+        "title": "고용24",
+        "developer": "KoreaEmploymentInformationService",
+        "score": 4.4837837,
+        "minInstalls": 1000000,
+        "ratings": 7440,
+        "genre": "비즈니스",
+        "updated": 1792540688000,
+        "titleHasKeyword": false
+      },
+      {
+        "appId": "com.hydroponicglass.baby_leave_calculator",
+        "title": "육아휴직 급여 계산기 - 2026년 수당 월별 수령액",
+        "developer": "HydroponicGlass",
+        "minInstalls": 100,
+        "genre": "도구",
+        "updated": 1785554251000,
+        "titleHasKeyword": true
+      },
+      {
+        "appId": "com.mommytalkappv1",
+        "title": "마미톡 - 임신, 육아 필수 앱",
+        "developer": "LifeX, Inc.",
+        "score": 4.8372326,
+        "minInstalls": 1000000,
+        "ratings": 20117,
+        "genre": "출산/육아",
+        "updated": 1793065804000,
+        "titleHasKeyword": false
+      },
+      {
+        "appId": "kr.or.comwel.cswelfare",
+        "title": "TOUCH! 산재고용",
+        "developer": "(근로복지공단)",
+        "score": 2.45,
+        "minInstalls": 100000,
+        "ratings": 452,
+        "genre": "라이프스타일",
+        "updated": 1790838178000,
+        "titleHasKeyword": false
+      },
+      {
+        "appId": "com.wizocean.parentalleave",
+        "title": "육휴달력 - 육아휴직 급여 계산기",
+        "developer": "위즈오션(WizOcean)",
+        "minInstalls": 5,
+        "genre": "생산성",
+        "updated": 1791089616000,
+        "titleHasKeyword": true
+      },
+      {
+        "appId": "kr.go.hrd.app",
+        "title": "고용24 직업훈련 출결관리",
+        "developer": "KoreaEmploymentInformationService",
+        "score": 4.2964783,
+        "minInstalls": 5000000,
+        "ratings": 24572,
+        "genre": "교육",
+        "updated": 1792544984000,
+        "titleHasKeyword": false
+      },
+      {
+        "appId": "com.wooahthink.aos",
+        "title": "우아띵 - 아기위젯, 육아일기, 영유아검진, 임신어플",
+        "developer": "우아띵",
+        "score": 4.87,
+        "minInstalls": 10000,
+        "ratings": 576,
+        "genre": "출산/육아",
+        "updated": 1792857981000,
+        "titleHasKeyword": false
+      },
+      {
+        "appId": "yducky.application.babytime",
+        "title": "베이비타임 - BabyTime (수유, 육아, 일기)",
+        "developer": "Simfler",
+        "score": 4.944911,
+        "minInstalls": 1000000,
+        "ratings": 39707,
+        "genre": "출산/육아",
+        "updated": 1792666687000,
+        "titleHasKeyword": false
+      },
+      {
+        "appId": "com.appmd.fever",
+        "title": "열나요 - 집에서 시작하는 우리 아이 열관리",
+        "developer": "모바일닥터",
+        "score": 3.8430736,
+        "minInstalls": 1000000,
+        "ratings": 9998,
+        "genre": "출산/육아",
+        "updated": 1792134602000,
+        "titleHasKeyword": false
+      },
+      {
+        "appId": "com.yugacrew.yugacrewApp",
+        "title": "육아크루 (육아친구, 어린이집/유치원현황, 학습지도안)",
+        "developer": "Dinoz.Co.,Ltd.",
+        "score": 4.887574,
+        "minInstalls": 10000,
+        "ratings": 1371,
+        "genre": "출산/육아",
+        "updated": 1792651038000,
+        "titleHasKeyword": false
+      }
+    ]
+  },
+  {
+    "category": "parenting",
+    "seed": "출산",
+    "keyword": "출산",
+    "results": [
+      {
+        "appId": "com.amanefactory.totsukitoka",
+        "title": "280days : 부부가 공유하는 \"임신 기록/일기\"",
+        "developer": "amane factory inc.",
+        "score": 4.617937,
+        "minInstalls": 1000000,
+        "ratings": 40071,
+        "genre": "출산/육아",
+        "updated": 1785829139000,
+        "titleHasKeyword": false
+      },
+      {
+        "appId": "com.mommytalkappv1",
+        "title": "마미톡 - 임신, 육아 필수 앱",
+        "developer": "LifeX, Inc.",
+        "score": 4.8372326,
+        "minInstalls": 1000000,
+        "ratings": 20117,
+        "genre": "출산/육아",
+        "updated": 1793065804000,
+        "titleHasKeyword": false
+      },
+      {
+        "appId": "com.wachanga.pregnancy",
+        "title": "임신 주수 계산 & 기록: 맘스다이어리",
+        "developer": "Wachanga",
+        "score": 4.38,
+        "minInstalls": 10000000,
+        "ratings": 218957,
+        "genre": "출산/육아",
+        "updated": 1793200157000,
+        "titleHasKeyword": false
+      },
+      {
+        "appId": "kr.villagebaby.billyapplication",
+        "title": "베이비빌리 - 임신, 임신준비, 육아, 태교 앱",
+        "developer": "VillageBaby Inc.",
+        "score": 4.9313254,
+        "minInstalls": 1000000,
+        "ratings": 11860,
+        "genre": "출산/육아",
+        "updated": 1792736828000,
+        "titleHasKeyword": false
+      },
+      {
+        "appId": "com.hp.babyapp",
+        "title": "아기 + | 우리 아기 추적기",
+        "developer": "Philips Electronics UK Limited",
+        "score": 4.728395,
+        "minInstalls": 5000000,
+        "ratings": 99708,
+        "genre": "출산/육아",
+        "updated": 1763734777000,
+        "titleHasKeyword": false
+      },
+      {
+        "appId": "com.whisperarts.erby",
+        "title": "신생아 모유 수유 일지  육아일기  Erby",
+        "developer": "Demapps LLC",
+        "score": 4.3103447,
+        "minInstalls": 1000000,
+        "ratings": 23206,
+        "genre": "출산/육아",
+        "updated": 1792671317000,
+        "titleHasKeyword": false
+      },
+      {
+        "appId": "com.wte.view",
+        "title": "Pregnancy Tracker & Baby App",
+        "developer": "What to Expect",
+        "score": 4.8297873,
+        "minInstalls": 5000000,
+        "ratings": 121722,
+        "genre": "출산/육아",
+        "updated": 1791787803000,
+        "titleHasKeyword": false
+      },
+      {
+        "appId": "com.srmam2020.app",
+        "title": "럽맘 - 임신·출산·육아, 임신주수와 산모수첩",
+        "developer": "luvmom Inc.",
+        "score": 4.912796,
+        "minInstalls": 100000,
+        "ratings": 10581,
+        "genre": "출산/육아",
+        "updated": 1792922829000,
+        "titleHasKeyword": true
+      },
+      {
+        "appId": "com.timskiy.pregnancy",
+        "title": "임신 캘린더",
+        "developer": "Timskiy",
+        "score": 4.9069767,
+        "minInstalls": 1000000,
+        "ratings": 78722,
+        "genre": "출산/육아",
+        "updated": 1793308126000,
+        "titleHasKeyword": false
+      },
+      {
+        "appId": "com.hp.pregnancy.lite",
+        "title": "Pregnancy + | Tracker App",
+        "developer": "Philips Electronics UK Limited",
+        "score": 4.7935104,
+        "minInstalls": 50000000,
+        "ratings": 3703697,
+        "genre": "출산/육아",
+        "updated": 1793024090000,
+        "titleHasKeyword": false
+      }
+    ]
+  },
+  {
+    "category": "parenting",
+    "seed": "출산",
+    "keyword": "출산게임",
+    "results": [
+      {
+        "appId": "com.bigruby.PregnantTwinsNewbornCare",
+        "title": "Pregnant Twins Newborn Care",
+        "developer": "Big Ruby Studios",
+        "score": 4.42,
+        "minInstalls": 1000000,
+        "ratings": 12137,
+        "genre": "롤플레잉",
+        "updated": 1774246936000,
+        "titleHasKeyword": false
+      },
+      {
+        "appId": "com.gameimake.newbornbabycarehalloweenhospital",
+        "title": "Pregnant Mom : Daycare Games",
+        "developer": "GameiMake",
+        "minInstalls": 500000,
+        "genre": "시뮬레이션",
+        "updated": 1789219283000,
+        "titleHasKeyword": false
+      },
+      {
+        "appId": "com.gpg.ninemonths",
+        "title": "Idle 9 Months",
+        "developer": "Green Panda Games",
+        "score": 4.5420055,
+        "minInstalls": 10000000,
+        "ratings": 575823,
+        "genre": "시뮬레이션",
+        "updated": 1787048247000,
+        "titleHasKeyword": false
+      },
+      {
+        "appId": "com.GameiFun.PragnantMomTwinsbabycare",
+        "title": "엄마와 아기 - 여자 게임",
+        "developer": "Technorex Softwares",
+        "score": 3.6,
+        "minInstalls": 500000,
+        "ratings": 1961,
+        "genre": "캐주얼",
+        "updated": 1759756823000,
+        "titleHasKeyword": false
+      },
+      {
+        "appId": "com.playNfun.MermaidPragnanctCheckupAndBabyCare",
+        "title": "Mermaid Mom & Baby Care Games",
+        "developer": "R . S Game",
+        "score": 3.4285715,
+        "minInstalls": 500000,
+        "ratings": 1933,
+        "genre": "롤플레잉",
+        "updated": 1764747366000,
+        "titleHasKeyword": false
+      },
+      {
+        "appId": "com.miathecat.welcomebaby",
+        "title": "웰컴 베이비 3D (Welcome Baby)",
+        "developer": "Lion Studios",
+        "score": 3.91,
+        "minInstalls": 10000000,
+        "ratings": 29490,
+        "genre": "캐주얼",
+        "updated": 1780413684000,
+        "titleHasKeyword": false
+      },
+      {
+        "appId": "com.mermaid.pragnanctcheckup.newbornbabycare.games",
+        "title": "Mermaid Game: Newborn,Pregnant",
+        "developer": "Yories: Learning Apps & Games for Boys and Girls",
+        "minInstalls": 500000,
+        "genre": "시뮬레이션",
+        "updated": 1779360364000,
+        "titleHasKeyword": false
+      },
+      {
+        "appId": "com.humbly.pregnant.mother.simulator.pregnancy.life.game",
+        "title": "임신한 엄마: 임신 게임",
+        "developer": "Humbly Tech",
+        "score": 3.7142856,
+        "minInstalls": 500000,
+        "ratings": 840,
+        "genre": "롤플레잉",
+        "updated": 1793190906000,
+        "titleHasKeyword": false
+      },
+      {
+        "appId": "com.gogo.Mommy.Newborn.Baby.Nursery.Diaper.Change.Games",
+        "title": "Mommy Care Newborn Baby Games",
+        "developer": "uGoGo Entertainment",
+        "score": 2.7142856,
+        "minInstalls": 1000000,
+        "ratings": 7198,
+        "genre": "캐주얼",
+        "updated": 1791199217000,
+        "titleHasKeyword": false
+      },
+      {
+        "appId": "com.genius.Unicorn.Girls.Games.Pregnant.Mom.Give.Birth.Newborn.Twins.Babysitter.Nursery",
+        "title": "Mommy Give Birth Newborn Twins",
+        "developer": "Genius Unicorn Girls Games",
+        "minInstalls": 100000,
+        "genre": "롤플레잉",
+        "updated": 1776254987000,
+        "titleHasKeyword": false
+      }
+    ]
+  },
+  {
+    "category": "parenting",
+    "seed": "출산",
+    "keyword": "출산어플",
+    "results": [
+      {
+        "appId": "com.mommytalkappv1",
+        "title": "마미톡 - 임신, 육아 필수 앱",
+        "developer": "LifeX, Inc.",
+        "score": 4.8372326,
+        "minInstalls": 1000000,
+        "ratings": 20117,
+        "genre": "출산/육아",
+        "updated": 1793065804000,
+        "titleHasKeyword": false
+      },
+      {
+        "appId": "kr.villagebaby.billyapplication",
+        "title": "베이비빌리 - 임신, 임신준비, 육아, 태교 앱",
+        "developer": "VillageBaby Inc.",
+        "score": 4.9313254,
+        "minInstalls": 1000000,
+        "ratings": 11860,
+        "genre": "출산/육아",
+        "updated": 1792736828000,
+        "titleHasKeyword": false
+      },
+      {
+        "appId": "com.wachanga.pregnancy",
+        "title": "임신 주수 계산 & 기록: 맘스다이어리",
+        "developer": "Wachanga",
+        "score": 4.38,
+        "minInstalls": 10000000,
+        "ratings": 218957,
+        "genre": "출산/육아",
+        "updated": 1793200157000,
+        "titleHasKeyword": false
+      },
+      {
+        "appId": "com.amanefactory.totsukitoka",
+        "title": "280days : 부부가 공유하는 \"임신 기록/일기\"",
+        "developer": "amane factory inc.",
+        "score": 4.617937,
+        "minInstalls": 1000000,
+        "ratings": 40071,
+        "genre": "출산/육아",
+        "updated": 1785829139000,
+        "titleHasKeyword": false
+      },
+      {
+        "appId": "com.hp.pregnancy.lite",
+        "title": "Pregnancy + | Tracker App",
+        "developer": "Philips Electronics UK Limited",
+        "score": 4.7935104,
+        "minInstalls": 50000000,
+        "ratings": 3703697,
+        "genre": "출산/육아",
+        "updated": 1793024090000,
+        "titleHasKeyword": false
+      },
+      {
+        "appId": "com.wte.view",
+        "title": "Pregnancy Tracker & Baby App",
+        "developer": "What to Expect",
+        "score": 4.8297873,
+        "minInstalls": 5000000,
+        "ratings": 121722,
+        "genre": "출산/육아",
+        "updated": 1791787803000,
+        "titleHasKeyword": false
+      },
+      {
+        "appId": "com.mas.apps.pregnancy",
+        "title": "Pregnancy Tracker by Sprout",
+        "developer": "Sprout Apps",
+        "score": 4.75,
+        "minInstalls": 1000000,
+        "ratings": 31400,
+        "genre": "출산/육아",
+        "updated": 1784842455000,
+        "titleHasKeyword": false
+      },
+      {
+        "appId": "com.srmam2020.app",
+        "title": "럽맘 - 임신·출산·육아, 임신주수와 산모수첩",
+        "developer": "luvmom Inc.",
+        "score": 4.912796,
+        "minInstalls": 100000,
+        "ratings": 10581,
+        "genre": "출산/육아",
+        "updated": 1792922829000,
+        "titleHasKeyword": false
+      },
+      {
+        "appId": "com.timskiy.pregnancy",
+        "title": "임신 캘린더",
+        "developer": "Timskiy",
+        "score": 4.9069767,
+        "minInstalls": 1000000,
+        "ratings": 78722,
+        "genre": "출산/육아",
+        "updated": 1793308126000,
+        "titleHasKeyword": false
+      },
+      {
+        "appId": "ru.mobiledimension.kbr",
+        "title": "amma 임신 추적자: 임신 기간 중 기대할 수 있는",
+        "developer": "PERIOD TRACKER & PREGNANCY AND BABY CALENDAR",
+        "score": 4.87,
+        "minInstalls": 10000000,
+        "ratings": 429658,
+        "genre": "출산/육아",
+        "updated": 1791285290000,
+        "titleHasKeyword": false
+      }
+    ]
+  },
+  {
+    "category": "parenting",
+    "seed": "출산",
+    "keyword": "출산택일",
+    "results": [
+      {
+        "appId": "org.shiningspirits.cheot",
+        "title": "첫 선물 - 육아일기, 출산 택일, 태교 일기",
+        "developer": "2297450 Alberta Ltd",
+        "minInstalls": 5,
+        "genre": "출산/육아",
+        "updated": 1792463761000,
+        "titleHasKeyword": true
+      },
+      {
+        "appId": "life.cheonmyeongjae.app",
+        "title": "천명재 - 아기 이름 점수·작명·출산택일",
+        "developer": "ZeroOneDev",
+        "minInstalls": 5,
+        "genre": "출산/육아",
+        "updated": 1792843835000,
+        "titleHasKeyword": true
+      },
+      {
+        "appId": "com.amanefactory.totsukitoka",
+        "title": "280days : 부부가 공유하는 \"임신 기록/일기\"",
+        "developer": "amane factory inc.",
+        "score": 4.617937,
+        "minInstalls": 1000000,
+        "ratings": 40071,
+        "genre": "출산/육아",
+        "updated": 1785829139000,
+        "titleHasKeyword": false
+      },
+      {
+        "appId": "com.wachanga.pregnancy",
+        "title": "임신 주수 계산 & 기록: 맘스다이어리",
+        "developer": "Wachanga",
+        "score": 4.38,
+        "minInstalls": 10000000,
+        "ratings": 218957,
+        "genre": "출산/육아",
+        "updated": 1793200157000,
+        "titleHasKeyword": false
+      },
+      {
+        "appId": "com.timskiy.pregnancy",
+        "title": "임신 캘린더",
+        "developer": "Timskiy",
+        "score": 4.9069767,
+        "minInstalls": 1000000,
+        "ratings": 78722,
+        "genre": "출산/육아",
+        "updated": 1793308126000,
+        "titleHasKeyword": false
+      },
+      {
+        "appId": "com.mommytalkappv1",
+        "title": "마미톡 - 임신, 육아 필수 앱",
+        "developer": "LifeX, Inc.",
+        "score": 4.8372326,
+        "minInstalls": 1000000,
+        "ratings": 20117,
+        "genre": "출산/육아",
+        "updated": 1793065804000,
+        "titleHasKeyword": false
+      },
+      {
+        "appId": "com.birthday.secret",
+        "title": "생일의 비밀 - 정확한 사주·궁합·운세",
+        "developer": "OUr App",
+        "score": 4.46,
+        "minInstalls": 5000,
+        "ratings": 105,
+        "genre": "도서/참고자료",
+        "updated": 1761721789000,
+        "titleHasKeyword": false
+      },
+      {
+        "appId": "com.moms.momsdiary",
+        "title": "임신 육아일기 포토북 출판 지원 - 맘스다이어리",
+        "developer": "Moms Inc.",
+        "score": 4.921348,
+        "minInstalls": 500000,
+        "ratings": 42073,
+        "genre": "출산/육아",
+        "updated": 1790068889000,
+        "titleHasKeyword": false
+      },
+      {
+        "appId": "com.neiman.contractions",
+        "title": "진통어플 - 임신 9m",
+        "developer": "Neiman",
+        "score": 4.82,
+        "minInstalls": 5000000,
+        "ratings": 90323,
+        "genre": "출산/육아",
+        "updated": 1771525520000,
+        "titleHasKeyword": false
+      },
+      {
+        "appId": "com.myungliacademy.manseryeok",
+        "title": "만능만세력 - 사주, 운세, 작명, 아기 이름,  개명",
+        "developer": "명리아카데미",
+        "score": 5,
+        "minInstalls": 1000,
+        "ratings": 7,
+        "genre": "라이프스타일",
+        "updated": 1792920999000,
+        "titleHasKeyword": false
+      }
+    ]
+  },
+  {
+    "category": "parenting",
+    "seed": "출산",
+    "keyword": "출산 진통 게임",
+    "results": [
+      {
+        "appId": "com.gameimake.newbornbabycarehalloweenhospital",
+        "title": "Pregnant Mom : Daycare Games",
+        "developer": "GameiMake",
+        "minInstalls": 500000,
+        "genre": "시뮬레이션",
+        "updated": 1789219283000,
+        "titleHasKeyword": false
+      },
+      {
+        "appId": "com.uc.pregnant.mother.simulator",
+        "title": "임산부 : 아기 시뮬레이터",
+        "developer": "The Game Village Studios",
+        "score": 3.7142856,
+        "minInstalls": 500000,
+        "ratings": 1106,
+        "genre": "롤플레잉",
+        "updated": 1768565951000,
+        "titleHasKeyword": false
+      },
+      {
+        "appId": "com.humbly.pregnant.mother.simulator.pregnancy.life.game",
+        "title": "임신한 엄마: 임신 게임",
+        "developer": "Humbly Tech",
+        "score": 3.7142856,
+        "minInstalls": 500000,
+        "ratings": 840,
+        "genre": "롤플레잉",
+        "updated": 1793190906000,
+        "titleHasKeyword": false
+      },
+      {
+        "appId": "com.gpg.ninemonths",
+        "title": "Idle 9 Months",
+        "developer": "Green Panda Games",
+        "score": 4.5420055,
+        "minInstalls": 10000000,
+        "ratings": 575823,
+        "genre": "시뮬레이션",
+        "updated": 1787048247000,
+        "titleHasKeyword": false
+      },
+      {
+        "appId": "com.bigruby.PregnantTwinsNewbornCare",
+        "title": "Pregnant Twins Newborn Care",
+        "developer": "Big Ruby Studios",
+        "score": 4.42,
+        "minInstalls": 1000000,
+        "ratings": 12137,
+        "genre": "롤플레잉",
+        "updated": 1774246936000,
+        "titleHasKeyword": false
+      },
+      {
+        "appId": "com.pregnant.mom.games",
+        "title": "Pregnant Mother Simulator Game",
+        "developer": "InfinityGames Studio",
+        "score": 4.18,
+        "minInstalls": 5000000,
+        "ratings": 61347,
+        "genre": "전략",
+        "updated": 1790265567000,
+        "titleHasKeyword": false
+      },
+      {
+        "appId": "com.taprix.mother.care.simulator.offline.doctor.games",
+        "title": "Pregnant Mom Doctor Game",
+        "developer": "Taprix",
+        "minInstalls": 1000000,
+        "genre": "롤플레잉",
+        "updated": 1785998698000,
+        "titleHasKeyword": false
+      },
+      {
+        "appId": "com.neiman.contractions",
+        "title": "진통어플 - 임신 9m",
+        "developer": "Neiman",
+        "score": 4.82,
+        "minInstalls": 5000000,
+        "ratings": 90323,
+        "genre": "출산/육아",
+        "updated": 1771525520000,
+        "titleHasKeyword": false
+      },
+      {
+        "appId": "com.GameSplashStudio.virtual.mom.baby.pregnant.simulator.game",
+        "title": "Pregnant Mother Family life 3d",
+        "developer": "Game Splash Studio",
+        "minInstalls": 100000,
+        "genre": "롤플레잉",
+        "updated": 1774367520000,
+        "titleHasKeyword": false
+      },
+      {
+        "appId": "com.gogo.Mommy.Newborn.Baby.Nursery.Diaper.Change.Games",
+        "title": "Mommy Care Newborn Baby Games",
+        "developer": "uGoGo Entertainment",
+        "score": 2.7142856,
+        "minInstalls": 1000000,
+        "ratings": 7198,
+        "genre": "캐주얼",
+        "updated": 1791199217000,
+        "titleHasKeyword": false
+      }
+    ]
+  },
+  {
+    "category": "parenting",
+    "seed": "아이 일정",
+    "keyword": "아이 일정",
+    "results": [
+      {
+        "appId": "com.dadaring.app",
+        "title": "다다링 DADAring - 아이 시간표·일정·숙제 관리",
+        "developer": "다다고",
+        "score": 5,
+        "minInstalls": 100,
+        "ratings": 6,
+        "genre": "교육",
+        "updated": 1790915491000,
+        "titleHasKeyword": false
+      },
+      {
+        "appId": "com.to_do_list_studio.uptodo",
+        "title": "할 일 목록 및 작업, 스케줄 플래너, 캘린더 메모",
+        "developer": "Productivity Apps Studio",
+        "score": 4.5,
+        "minInstalls": 100000,
+        "ratings": 2448,
+        "genre": "생산성",
+        "updated": 1792765918000,
+        "titleHasKeyword": false
+      },
+      {
+        "appId": "com.komorebi.SimpleCalendar",
+        "title": "심플 캘린더: 일정 플래너, 할일 메모 위젯 달력 음력",
+        "developer": "Komorebi Inc.",
+        "score": 4.851224,
+        "minInstalls": 5000000,
+        "ratings": 95332,
+        "genre": "생산성",
+        "updated": 1790854388000,
+        "titleHasKeyword": false
+      },
+      {
+        "appId": "todolist.scheduleplanner.dailyplanner.todo.reminders",
+        "title": "To-Do List - 스케줄 플래너 & 리마인더",
+        "developer": "Dairy App & Notes & Audio Editor & Voice Recorder",
+        "score": 4.8973966,
+        "minInstalls": 10000000,
+        "ratings": 720839,
+        "genre": "생산성",
+        "updated": 1792661189000,
+        "titleHasKeyword": false
+      },
+      {
+        "appId": "todo.list.tasks.planner.calendar.reminder",
+        "title": "할 일 목록, 일정 관리, 작업, 일일 플래너, 달력",
+        "developer": "Cleaner + Antivirus + VPN company",
+        "score": 4.81,
+        "minInstalls": 5000000,
+        "ratings": 87652,
+        "genre": "라이프스타일",
+        "updated": 1786951257000,
+        "titleHasKeyword": false
+      },
+      {
+        "appId": "works.jubilee.timetree",
+        "title": "TimeTree - 공유 캘린더",
+        "developer": "TimeTree, Inc.",
+        "score": 4.8072534,
+        "minInstalls": 10000000,
+        "ratings": 240521,
+        "genre": "생산성",
+        "updated": 1793162879000,
+        "titleHasKeyword": false
+      },
+      {
+        "appId": "com.ssj.finder",
+        "title": "아이시간 - 우리 아이 시간표 및 일정 관리",
+        "developer": "SSJ Factory",
+        "minInstalls": 5000,
+        "genre": "라이프스타일",
+        "updated": 1793360196000,
+        "titleHasKeyword": false
+      },
+      {
+        "appId": "app.web.generatetimeline",
+        "title": "타임라인 - 하루 일정 관리",
+        "developer": "Naoki Otsu",
+        "score": 4.5,
+        "minInstalls": 10000,
+        "ratings": 128,
+        "genre": "생산성",
+        "updated": 1793155506000,
+        "titleHasKeyword": false
+      },
+      {
+        "appId": "app.littleplanner",
+        "title": "Lil Planner: Visual Schedule",
+        "developer": "Space Sweater",
+        "minInstalls": 10000,
+        "genre": "출산/육아",
+        "updated": 1789870735000,
+        "titleHasKeyword": false
+      },
+      {
+        "appId": "io.konveier.timo",
+        "title": "하루 계획표, 스케줄 플래너, 투두리스트: Brite",
+        "developer": "Brite Technologies LLC",
+        "score": 4.34,
+        "minInstalls": 500000,
+        "ratings": 13026,
+        "genre": "생산성",
+        "updated": 1778795306000,
+        "titleHasKeyword": false
+      }
+    ]
+  },
+  {
+    "category": "parenting",
+    "seed": "육아 가계부",
+    "keyword": "육아 가계부",
+    "results": [
+      {
+        "appId": "com.nerdens.green_lodger",
+        "title": "초록가계부: 광고없는 공유가계부·부부·커플·여행 가계부",
+        "developer": "Nerdens",
+        "score": 4.90604,
+        "minInstalls": 50000,
+        "ratings": 1450,
+        "genre": "금융",
+        "updated": 1793193736000,
+        "titleHasKeyword": false
+      },
+      {
+        "appId": "com.realbyteapps.moneymanagerfree",
+        "title": "편한가계부",
+        "developer": "Realbyte Inc.",
+        "score": 4.754032,
+        "minInstalls": 10000000,
+        "ratings": 468385,
+        "genre": "금융",
+        "updated": 1792637408000,
+        "titleHasKeyword": false
+      },
+      {
+        "appId": "com.nhn.android.moneybook",
+        "title": "네이버 가계부–카드자동등록-NAVER MONEYBOOK",
+        "developer": "NAVER FINANCIAL",
+        "score": 3.1955485,
+        "minInstalls": 1000000,
+        "ratings": 13244,
+        "genre": "금융",
+        "updated": 1780044884000,
+        "titleHasKeyword": false
+      },
+      {
+        "appId": "com.tenqube.qlip",
+        "title": "비주얼 가계부",
+        "developer": "Tenqube Inc.",
+        "score": 4.1164775,
+        "minInstalls": 500000,
+        "ratings": 18152,
+        "genre": "금융",
+        "updated": 1792642187000,
+        "titleHasKeyword": false
+      },
+      {
+        "appId": "cashbook.app.hs",
+        "title": "좋은 가계부",
+        "developer": "HS App",
+        "score": 4.8401265,
+        "minInstalls": 1000000,
+        "ratings": 33992,
+        "genre": "금융",
+        "updated": 1791543505000,
+        "titleHasKeyword": false
+      },
+      {
+        "appId": "com.pulapp.buboo",
+        "title": "공유 가계부, 일정 - BuBoo 부부",
+        "developer": "Pula Corporation",
+        "score": 4.672355,
+        "minInstalls": 100000,
+        "ratings": 2925,
+        "genre": "라이프스타일",
+        "updated": 1792899690000,
+        "titleHasKeyword": false
+      },
+      {
+        "appId": "hs.app.today",
+        "title": "다이어리 가계부",
+        "developer": "HS App",
+        "score": 4.8639054,
+        "minInstalls": 100000,
+        "ratings": 3451,
+        "genre": "금융",
+        "updated": 1791384338000,
+        "titleHasKeyword": false
+      },
+      {
+        "appId": "com.wscellbox.android.easyab",
+        "title": "쉬운가계부 - 수기 가계부",
+        "developer": "wscellbox",
+        "score": 4.903054,
+        "minInstalls": 100000,
+        "ratings": 15832,
+        "genre": "금융",
+        "updated": 1789314747000,
+        "titleHasKeyword": false
+      },
+      {
+        "appId": "com.kthdd.household_account_book_app",
+        "title": "쉬운 가계부 - 캘린더,그래프,위젯으로 지출/수입 관리",
+        "developer": "donghyun12",
+        "score": 4.722772,
+        "minInstalls": 10000,
+        "ratings": 223,
+        "genre": "금융",
+        "updated": 1785645453000,
+        "titleHasKeyword": false
+      },
+      {
+        "appId": "com.dencreak.spbook",
+        "title": "똑똑가계부 - 간편 자동 입력 가계부",
+        "developer": "Cleveni Inc.",
+        "score": 4.738193,
+        "minInstalls": 5000000,
+        "ratings": 282413,
+        "genre": "금융",
+        "updated": 1790931532000,
+        "titleHasKeyword": false
+      }
+    ]
+  }
+]
