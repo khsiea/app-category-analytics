@@ -1,0 +1,30 @@
+{
+  "gplay": {
+    "appId": "com.mw.Android_KidsLove2",
+    "title": "아이사랑 모바일",
+    "installs": "1,000,000+",
+    "score": 1.3947369,
+    "ratings": 6276,
+    "reviews": 4936,
+    "histogram": {
+      "1": 5449,
+      "2": 88,
+      "3": 253,
+      "4": 50,
+      "5": 431
+    },
+    "released": "2011. 12. 30.",
+    "updated": 1758767533000,
+    "version": "4.2.1",
+    "developer": "교육부(영유아안전정보과)",
+    "recentChanges": "1. UI/UX 업데이트"
+  },
+  "apple": {
+    "trackName": "아이사랑 모바일",
+    "averageUserRating": 1.3539,
+    "userRatingCount": 924,
+    "version": "4.0.10",
+    "currentVersionReleaseDate": "2026-03-05T04:37:25Z",
+    "releaseNotes": "공동인증서 오류 수정"
+  }
+}
