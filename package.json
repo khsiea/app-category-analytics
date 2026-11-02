@@ -7,6 +7,7 @@
     "analyze": "tsx src/analyze.ts",
     "typecheck": "tsc",
     "collect:niche": "NODE_USE_ENV_PROXY=1 NODE_EXTRA_CA_CERTS=${NODE_EXTRA_CA_CERTS:-/root/.ccr/ca-bundle.crt} tsx src/collect-niche.ts",
+    "scan": "NODE_USE_ENV_PROXY=1 NODE_EXTRA_CA_CERTS=${NODE_EXTRA_CA_CERTS:-/root/.ccr/ca-bundle.crt} tsx src/scan.ts",
     "naver": "NODE_USE_ENV_PROXY=1 NODE_EXTRA_CA_CERTS=${NODE_EXTRA_CA_CERTS:-/root/.ccr/ca-bundle.crt} tsx src/naver-volume.ts"
   },
   "repository": {
